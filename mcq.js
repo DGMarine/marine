@@ -5,7 +5,7 @@ const answersIndicatorContainer = document.querySelector(".answers-indicator");
 const homeBox = document.querySelector(".home-box");
 const quizBox = document.querySelector(".quiz-box");
 const resultBox = document.querySelector(".result-box");
-const questionLimit = 5;
+const questionLimit = 30;
 let questionContainer = 0;
 let currentQuestion;
 let availableQustion = [];
