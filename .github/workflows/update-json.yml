@@ -32,4 +32,4 @@ jobs:
         git commit -m "Update JSON file from Google Sheets"
         git push
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{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}}
