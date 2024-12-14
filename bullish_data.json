@@ -13,8 +13,7 @@
     "SR": 0,
     "High": 1252.3,
     "Volume": 11239,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 10
   },
   {
     "Name": "IPCA Laboratories Ltd",
@@ -30,8 +29,7 @@
     "SR": 4,
     "High": 1565.95,
     "Volume": 1099,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:01.000Z"
+    "Point": 10
   },
   {
     "Name": "Cyient Ltd",
@@ -47,8 +45,7 @@
     "SR": 7,
     "High": 2102.6,
     "Volume": 1490,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:01.000Z"
+    "Point": 10
   },
   {
     "Name": "Divi's Laboratories Ltd",
@@ -64,8 +61,7 @@
     "SR": 0,
     "High": 5949.3,
     "Volume": 3840,
-    "Point": 25,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 25
   },
   {
     "Name": "Havells India Ltd",
@@ -81,8 +77,7 @@
     "SR": 4,
     "High": 1782.65,
     "Volume": 4720,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 10
   },
   {
     "Name": "Lupin Ltd",
@@ -98,8 +93,7 @@
     "SR": 1,
     "High": 2112,
     "Volume": 2736,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:01.000Z"
+    "Point": 10
   },
   {
     "Name": "Bharat Petroleum Corporation Ltd",
@@ -115,8 +109,7 @@
     "SR": 1,
     "High": 305.15,
     "Volume": 4301,
-    "Point": 2.5,
-    "Last_Update": "2024-12-13T10:00:01.000Z"
+    "Point": 2.5
   },
   {
     "Name": "Cholamandalam Investment and Fin Co Ltd",
@@ -132,8 +125,7 @@
     "SR": 1,
     "High": 1334.85,
     "Volume": 4034,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 10
   },
   {
     "Name": "Abbott India Ltd",
@@ -149,8 +141,7 @@
     "SR": 5,
     "High": 29251,
     "Volume": 1229,
-    "Point": 125,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 125
   },
   {
     "Name": "ABB India Ltd",
@@ -166,8 +157,7 @@
     "SR": 2,
     "High": 7718.6,
     "Volume": 901,
-    "Point": 50,
-    "Last_Update": "2024-12-13T10:00:01.000Z"
+    "Point": 50
   },
   {
     "Name": "ACC Ltd",
@@ -183,8 +173,7 @@
     "SR": 0,
     "High": 2257,
     "Volume": 3900,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 10
   },
   {
     "Name": "Adani Enterprises Ltd",
@@ -200,8 +189,7 @@
     "SR": 0,
     "High": 2545,
     "Volume": 8791,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 10
   },
   {
     "Name": "Adani Ports and Special Economic Zone Ld",
@@ -217,8 +205,7 @@
     "SR": 0,
     "High": 1262,
     "Volume": 5323,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 10
   },
   {
     "Name": "Ambuja Cements Ltd",
@@ -234,8 +221,7 @@
     "SR": 0,
     "High": 574.95,
     "Volume": 2082,
-    "Point": 5,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 5
   },
   {
     "Name": "Angel One Ltd",
@@ -251,8 +237,7 @@
     "SR": 3,
     "High": 3428.95,
     "Volume": 6850,
-    "Point": 25,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 25
   },
   {
     "Name": "Apollo Hospitals Enterprise Ltd",
@@ -268,8 +253,7 @@
     "SR": 2,
     "High": 7277.35,
     "Volume": 2993,
-    "Point": 25,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 25
   },
   {
     "Name": "Apollo Tyres Ltd",
@@ -285,8 +269,7 @@
     "SR": 1,
     "High": 550,
     "Volume": 974,
-    "Point": 5,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 5
   },
   {
     "Name": "Ashok Leyland Ltd",
@@ -302,8 +285,7 @@
     "SR": 0,
     "High": 232.99,
     "Volume": 5471,
-    "Point": 1.25,
-    "Last_Update": "2024-12-13T10:00:01.000Z"
+    "Point": 1.25
   },
   {
     "Name": "Asian Paints Ltd",
@@ -319,8 +301,7 @@
     "SR": 0,
     "High": 2401,
     "Volume": 4973,
-    "Point": 10,
-    "Last_Update": "2024-12-13T08:21:03.000Z"
+    "Point": 10
   },
   {
     "Name": "Bajaj Finserv Ltd",
@@ -336,8 +317,7 @@
     "SR": 0,
     "High": 1683.6,
     "Volume": 4078,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 10
   },
   {
     "Name": "Bajaj Finance Ltd",
@@ -353,8 +333,7 @@
     "SR": 1,
     "High": 7217.25,
     "Volume": 13507,
-    "Point": 50,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 50
   },
   {
     "Name": "Bank of Baroda Ltd",
@@ -370,8 +349,7 @@
     "SR": 0,
     "High": 258.9,
     "Volume": 3347,
-    "Point": 1.25,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 1.25
   },
   {
     "Name": "Bata India Ltd",
@@ -387,8 +365,7 @@
     "SR": 0,
     "High": 1434.8,
     "Volume": 2657,
-    "Point": 5,
-    "Last_Update": "2024-12-13T10:00:03.000Z"
+    "Point": 5
   },
   {
     "Name": "Bharat Electronics Ltd",
@@ -404,8 +381,7 @@
     "SR": 0,
     "High": 316.35,
     "Volume": 2619,
-    "Point": 2.5,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 2.5
   },
   {
     "Name": "Biocon Ltd",
@@ -421,8 +397,7 @@
     "SR": 0,
     "High": 356.8,
     "Volume": 1393,
-    "Point": 2.5,
-    "Last_Update": "2024-12-13T10:00:03.000Z"
+    "Point": 2.5
   },
   {
     "Name": "BSE Ltd",
@@ -438,8 +413,7 @@
     "SR": 1,
     "High": 5654,
     "Volume": 8397,
-    "Point": 50,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 50
   },
   {
     "Name": "Canara Bank Ltd",
@@ -455,8 +429,7 @@
     "SR": 0,
     "High": 107.49,
     "Volume": 4218,
-    "Point": 0.5,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 0.5
   },
   {
     "Name": "Central Depository Services (India) Ltd",
@@ -472,8 +445,7 @@
     "SR": 2,
     "High": 1951.75,
     "Volume": 4110,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 10
   },
   {
     "Name": "CESC Ltd",
@@ -489,8 +461,7 @@
     "SR": 2,
     "High": 191.7,
     "Volume": 2357,
-    "Point": 1.25,
-    "Last_Update": "2024-12-13T07:54:44.000Z"
+    "Point": 1.25
   },
   {
     "Name": "Chambal Fertilisers and Chemicals Ltd",
@@ -506,8 +477,7 @@
     "SR": 2,
     "High": 529,
     "Volume": 878,
-    "Point": 5,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 5
   },
   {
     "Name": "Coforge Ltd",
@@ -523,8 +493,7 @@
     "SR": 2,
     "High": 9326.95,
     "Volume": 7085,
-    "Point": 50,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 50
   },
   {
     "Name": "City Union Bank Ltd",
@@ -540,8 +509,7 @@
     "SR": 0,
     "High": 183.69,
     "Volume": 1007,
-    "Point": 1.25,
-    "Last_Update": "2024-12-13T10:00:03.000Z"
+    "Point": 1.25
   },
   {
     "Name": "Cummins India Ltd",
@@ -557,8 +525,7 @@
     "SR": 2,
     "High": 3629.95,
     "Volume": 1082,
-    "Point": 25,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 25
   },
   {
     "Name": "Dalmia Bharat Ltd",
@@ -574,8 +541,7 @@
     "SR": 0,
     "High": 1935.25,
     "Volume": 1830,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 10
   },
   {
     "Name": "Delhivery",
@@ -591,8 +557,7 @@
     "SR": 4,
     "High": 392.9,
     "Volume": 2666,
-    "Point": 2.5,
-    "Last_Update": "2024-12-13T10:00:02.000Z"
+    "Point": 2.5
   },
   {
     "Name": "Dixon Technologies (India) Ltd",
@@ -608,8 +573,7 @@
     "SR": 3,
     "High": 18034,
     "Volume": 6313,
-    "Point": 125,
-    "Last_Update": "2024-12-13T10:00:01.000Z"
+    "Point": 125
   },
   {
     "Name": "DLF Ltd",
@@ -625,8 +589,7 @@
     "SR": 2,
     "High": 872.95,
     "Volume": 2686,
-    "Point": 5,
-    "Last_Update": "2024-12-13T10:00:02.000Z"
+    "Point": 5
   },
   {
     "Name": "Dr Reddy's Laboratories Ltd",
@@ -642,8 +605,7 @@
     "SR": 0,
     "High": 1250.2,
     "Volume": 2987,
-    "Point": 5,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 5
   },
   {
     "Name": "Federal Bank Ltd",
@@ -659,8 +621,7 @@
     "SR": 0,
     "High": 213.5,
     "Volume": 1518,
-    "Point": 1.25,
-    "Last_Update": "2024-12-13T10:00:02.000Z"
+    "Point": 1.25
   },
   {
     "Name": "Gail (India) Ltd",
@@ -676,8 +637,7 @@
     "SR": 0,
     "High": 205.6,
     "Volume": 1791,
-    "Point": 1.25,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 1.25
   },
   {
     "Name": "Granules India Ltd",
@@ -693,8 +653,7 @@
     "SR": 0,
     "High": 590.85,
     "Volume": 803,
-    "Point": 5,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 5
   },
   {
     "Name": "Grasim Industries Ltd",
@@ -710,8 +669,7 @@
     "SR": 0,
     "High": 2700,
     "Volume": 1199,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:01.000Z"
+    "Point": 10
   },
   {
     "Name": "Hindustan Aeronautics Ltd",
@@ -727,8 +685,7 @@
     "SR": 0,
     "High": 4755,
     "Volume": 41531,
-    "Point": 50,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 50
   },
   {
     "Name": "HCL Technologies Ltd",
@@ -744,8 +701,7 @@
     "SR": 2,
     "High": 1975,
     "Volume": 3783,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 10
   },
   {
     "Name": "HDFC Asset Management Company Ltd",
@@ -761,8 +717,7 @@
     "SR": 4,
     "High": 4543.1,
     "Volume": 1704,
-    "Point": 25,
-    "Last_Update": "2024-12-13T10:00:03.000Z"
+    "Point": 25
   },
   {
     "Name": "HDFC Bank Ltd",
@@ -778,8 +733,7 @@
     "SR": 0,
     "High": 1875,
     "Volume": 14629,
-    "Point": 5,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 5
   },
   {
     "Name": "Hindustan Petroleum Corp Ltd",
@@ -795,8 +749,7 @@
     "SR": 2,
     "High": 418.05,
     "Volume": 5648,
-    "Point": 2.5,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 2.5
   },
   {
     "Name": "ICICI Bank Ltd",
@@ -812,8 +765,7 @@
     "SR": 0,
     "High": 1347.15,
     "Volume": 7622,
-    "Point": 5,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 5
   },
   {
     "Name": "ICICI Lombard General Insurance Co Ltd",
@@ -829,8 +781,7 @@
     "SR": 2,
     "High": 1991.95,
     "Volume": 2012,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 10
   },
   {
     "Name": "Vodafone Idea Ltd",
@@ -846,8 +797,7 @@
     "SR": 3,
     "High": 8.07,
     "Volume": 890,
-    "Point": 0.5,
-    "Last_Update": "2024-12-13T10:00:01.000Z"
+    "Point": 0.5
   },
   {
     "Name": "Indian Energy Exchange Ltd",
@@ -863,8 +813,7 @@
     "SR": 0,
     "High": 190.29,
     "Volume": 2052,
-    "Point": 1.25,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 1.25
   },
   {
     "Name": "Indraprastha Gas Limited",
@@ -880,8 +829,7 @@
     "SR": 0,
     "High": 392.85,
     "Volume": 5612,
-    "Point": 5,
-    "Last_Update": "2024-12-13T10:00:03.000Z"
+    "Point": 5
   },
   {
     "Name": "Indian Hotels Company Ltd",
@@ -897,8 +845,7 @@
     "SR": 4,
     "High": 857.15,
     "Volume": 1565,
-    "Point": 5,
-    "Last_Update": "2024-12-13T10:00:03.000Z"
+    "Point": 5
   },
   {
     "Name": "Interglobe Aviation Ltd",
@@ -914,8 +861,7 @@
     "SR": 1,
     "High": 4459.9,
     "Volume": 1817,
-    "Point": 25,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 25
   },
   {
     "Name": "Infosys Ltd",
@@ -931,8 +877,7 @@
     "SR": 2,
     "High": 2006.45,
     "Volume": 14341,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 10
   },
   {
     "Name": "Indian Oil Corporation Ltd",
@@ -948,8 +893,7 @@
     "SR": 0,
     "High": 145.1,
     "Volume": 10546,
-    "Point": 1.25,
-    "Last_Update": "2024-12-13T10:00:03.000Z"
+    "Point": 1.25
   },
   {
     "Name": "Irb Infrastructure Developers Ltd",
@@ -965,8 +909,7 @@
     "SR": 1,
     "High": 59.44,
     "Volume": 1896,
-    "Point": 0.5,
-    "Last_Update": "2024-12-13T10:00:01.000Z"
+    "Point": 0.5
   },
   {
     "Name": "Indian Railway Ctrng nd Trsm Corp Ltd",
@@ -982,8 +925,7 @@
     "SR": 0,
     "High": 839.25,
     "Volume": 2775,
-    "Point": 5,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 5
   },
   {
     "Name": "Indian Railway Finance Corp Ltd",
@@ -999,8 +941,7 @@
     "SR": 2,
     "High": 161.83,
     "Volume": 3753,
-    "Point": 1.25,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 1.25
   },
   {
     "Name": "Jindal Steel And Power Ltd",
@@ -1016,8 +957,7 @@
     "SR": 0,
     "High": 1000.8,
     "Volume": 4593,
-    "Point": 5,
-    "Last_Update": "2024-12-13T10:00:02.000Z"
+    "Point": 5
   },
   {
     "Name": "J K Cement Ltd",
@@ -1033,8 +973,7 @@
     "SR": 2,
     "High": 4760,
     "Volume": 1172,
-    "Point": 25,
-    "Last_Update": "2024-12-13T10:00:01.000Z"
+    "Point": 25
   },
   {
     "Name": "JSW Steel Limited",
@@ -1050,8 +989,7 @@
     "SR": 0,
     "High": 1003.5,
     "Volume": 8377,
-    "Point": 5,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 5
   },
   {
     "Name": "Jubilant FoodWorks Ltd",
@@ -1067,8 +1005,7 @@
     "SR": 0,
     "High": 691,
     "Volume": 8970,
-    "Point": 5,
-    "Last_Update": "2024-12-13T10:00:01.000Z"
+    "Point": 5
   },
   {
     "Name": "KPIT Technologies Ltd",
@@ -1084,8 +1021,7 @@
     "SR": 4,
     "High": 1545.05,
     "Volume": 2605,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:03.000Z"
+    "Point": 10
   },
   {
     "Name": "Laurus Labs Ltd",
@@ -1101,8 +1037,7 @@
     "SR": 0,
     "High": 575.25,
     "Volume": 1390,
-    "Point": 5,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 5
   },
   {
     "Name": "Macrotech Developers Ltd",
@@ -1118,8 +1053,7 @@
     "SR": 5,
     "High": 1434.75,
     "Volume": 1372,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:02.000Z"
+    "Point": 10
   },
   {
     "Name": "Larsen and Toubro Ltd",
@@ -1135,8 +1069,7 @@
     "SR": 3,
     "High": 3898,
     "Volume": 18173,
-    "Point": 25,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 25
   },
   {
     "Name": "L&T Finance Ltd",
@@ -1152,8 +1085,7 @@
     "SR": 1,
     "High": 147.24,
     "Volume": 1174,
-    "Point": 1.25,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 1.25
   },
   {
     "Name": "LTIMindtree Ltd",
@@ -1169,8 +1101,7 @@
     "SR": 5,
     "High": 6738,
     "Volume": 3969,
-    "Point": 25,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 25
   },
   {
     "Name": "Mahindra And Mahindra Ltd",
@@ -1186,8 +1117,7 @@
     "SR": 2,
     "High": 3093.1,
     "Volume": 4626,
-    "Point": 25,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 25
   },
   {
     "Name": "Mahindra and Mahindra Financial Svcs Ltd",
@@ -1203,8 +1133,7 @@
     "SR": 0,
     "High": 280.25,
     "Volume": 1129,
-    "Point": 2.5,
-    "Last_Update": "2024-12-13T10:00:03.000Z"
+    "Point": 2.5
   },
   {
     "Name": "Manappuram Finance Ltd",
@@ -1220,8 +1149,7 @@
     "SR": 0,
     "High": 184.7,
     "Volume": 1705,
-    "Point": 1.25,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 1.25
   },
   {
     "Name": "Maruti Suzuki India Ltd",
@@ -1237,8 +1165,7 @@
     "SR": 0,
     "High": 11290,
     "Volume": 7616,
-    "Point": 50,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 50
   },
   {
     "Name": "Max Healthcare Institute Ltd",
@@ -1254,8 +1181,7 @@
     "SR": 3,
     "High": 1194.6,
     "Volume": 1910,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:02.000Z"
+    "Point": 10
   },
   {
     "Name": "Multi Commodity Exchange Of India Ltd",
@@ -1271,8 +1197,7 @@
     "SR": 0,
     "High": 6656,
     "Volume": 4350,
-    "Point": 50,
-    "Last_Update": "2024-12-13T10:00:03.000Z"
+    "Point": 50
   },
   {
     "Name": "Metropolis Healthcare Ltd",
@@ -1288,8 +1213,7 @@
     "SR": 3,
     "High": 2236.9,
     "Volume": 1071,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 10
   },
   {
     "Name": "Mahanagar Gas Ltd",
@@ -1305,8 +1229,7 @@
     "SR": 1,
     "High": 1303,
     "Volume": 1859,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:02.000Z"
+    "Point": 10
   },
   {
     "Name": "Samvardhana Motherson International Ltd",
@@ -1322,8 +1245,7 @@
     "SR": 0,
     "High": 164.45,
     "Volume": 2783,
-    "Point": 1.25,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 1.25
   },
   {
     "Name": "Muthoot Finance Ltd",
@@ -1339,8 +1261,7 @@
     "SR": 5,
     "High": 2124.95,
     "Volume": 5306,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:01.000Z"
+    "Point": 10
   },
   {
     "Name": "Info Edge (India) Ltd",
@@ -1356,8 +1277,7 @@
     "SR": 5,
     "High": 8716.85,
     "Volume": 2189,
-    "Point": 50,
-    "Last_Update": "2024-12-13T10:00:01.000Z"
+    "Point": 50
   },
   {
     "Name": "Oberoi Realty Ltd",
@@ -1373,8 +1293,7 @@
     "SR": 1,
     "High": 2139.5,
     "Volume": 1464,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 10
   },
   {
     "Name": "Oil and Natural Gas Corporation Ltd",
@@ -1390,8 +1309,7 @@
     "SR": 0,
     "High": 255.75,
     "Volume": 5045,
-    "Point": 0.5,
-    "Last_Update": "2024-12-13T08:21:03.000Z"
+    "Point": 0.5
   },
   {
     "Name": "One 97 Communications Ltd",
@@ -1407,8 +1325,7 @@
     "SR": 0,
     "High": 989.3,
     "Volume": 1693,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 10
   },
   {
     "Name": "Piramal Enterprises Ltd",
@@ -1424,8 +1341,7 @@
     "SR": 4,
     "High": 1255.9,
     "Volume": 1066,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 10
   },
   {
     "Name": "Persistent Systems Ltd",
@@ -1441,8 +1357,7 @@
     "SR": 3,
     "High": 6492.7,
     "Volume": 4377,
-    "Point": 50,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 50
   },
   {
     "Name": "Petronet LNG Ltd",
@@ -1458,8 +1373,7 @@
     "SR": 3,
     "High": 343.95,
     "Volume": 1809,
-    "Point": 1,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 1
   },
   {
     "Name": "Power Finance Corporation Ltd",
@@ -1475,8 +1389,7 @@
     "SR": 1,
     "High": 507.35,
     "Volume": 3436,
-    "Point": 5,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 5
   },
   {
     "Name": "Pidilite Industries Limited",
@@ -1492,8 +1405,7 @@
     "SR": 1,
     "High": 3199.95,
     "Volume": 1788,
-    "Point": 10,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 10
   },
   {
     "Name": "Punjab National Bank",
@@ -1509,8 +1421,7 @@
     "SR": 3,
     "High": 108.15,
     "Volume": 3584,
-    "Point": 0.5,
-    "Last_Update": "2024-12-13T10:00:01.000Z"
+    "Point": 0.5
   },
   {
     "Name": "Polycab India Ltd",
@@ -1526,7 +1437,6 @@
     "SR": 4,
     "High": 7565,
     "Volume": 2203,
-    "Point": 50,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Point": 50
   }
 ]
