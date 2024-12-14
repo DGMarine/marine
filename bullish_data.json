@@ -308,7 +308,7 @@
   {
     "Name": "Asian Paints Ltd",
     "Symbol": "ASIANPAINT",
-    "Prices": 2409.75,
+    "Prices": 2398.7,
     "Open": 2389.55,
     "Low": 2354,
     "BR": 1,
@@ -317,10 +317,10 @@
     "S1": 2385.85,
     "S2": 2404.55,
     "SR": 0,
-    "High": 2412,
+    "High": 2401,
     "Volume": 4973,
     "Point": 10,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Last_Update": "2024-12-13T08:21:03.000Z"
   },
   {
     "Name": "Bajaj Finserv Ltd",
@@ -478,7 +478,7 @@
   {
     "Name": "CESC Ltd",
     "Symbol": "CESC",
-    "Prices": 187.8,
+    "Prices": 187.1,
     "Open": 190.6,
     "Low": 185.1,
     "BR": 1,
@@ -490,7 +490,7 @@
     "High": 191.7,
     "Volume": 2357,
     "Point": 1.25,
-    "Last_Update": "2024-12-13T10:00:02.000Z"
+    "Last_Update": "2024-12-13T07:54:44.000Z"
   },
   {
     "Name": "Chambal Fertilisers and Chemicals Ltd",
@@ -1379,7 +1379,7 @@
   {
     "Name": "Oil and Natural Gas Corporation Ltd",
     "Symbol": "ONGC",
-    "Prices": 255,
+    "Prices": 255.7,
     "Open": 253,
     "Low": 249.5,
     "BR": 1,
@@ -1388,10 +1388,10 @@
     "S1": 253.9,
     "S2": 255.95,
     "SR": 0,
-    "High": 256.8,
+    "High": 255.75,
     "Volume": 5045,
     "Point": 0.5,
-    "Last_Update": "2024-12-13T10:00:00.000Z"
+    "Last_Update": "2024-12-13T08:21:03.000Z"
   },
   {
     "Name": "One 97 Communications Ltd",
