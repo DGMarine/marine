@@ -32,6 +32,22 @@
     "Point": 10
   },
   {
+    "Name": "Godrej Properties Ltd",
+    "Symbol": "GODREJPROP",
+    "Prices": 2929,
+    "Open": 2880,
+    "Low": 2788,
+    "BR": 2,
+    "B2": 2767.4,
+    "B1": 2814.45,
+    "S1": 2861.75,
+    "S2": 2908.4,
+    "SR": 1,
+    "High": 2941.45,
+    "Volume": 3099,
+    "Point": 25
+  },
+  {
     "Name": "Mahanagar Gas Ltd",
     "Symbol": "MGL",
     "Prices": 1295.05,
@@ -240,6 +256,22 @@
     "Point": 10
   },
   {
+    "Name": "Reliance Industries Ltd",
+    "Symbol": "RELIANCE",
+    "Prices": 1274.45,
+    "Open": 1260,
+    "Low": 1239.6,
+    "BR": 0,
+    "B2": 1240.35,
+    "B1": 1250.15,
+    "S1": 1259.7,
+    "S2": 1269.35,
+    "SR": 0,
+    "High": 1275.2,
+    "Volume": 37961,
+    "Point": 5
+  },
+  {
     "Name": "Crompton Greaves Consumer Electricls Ltd",
     "Symbol": "CROMPTON",
     "Prices": 412,
@@ -400,6 +432,22 @@
     "Point": 5
   },
   {
+    "Name": "Asian Paints Ltd",
+    "Symbol": "ASIANPAINT",
+    "Prices": 2409.75,
+    "Open": 2389.55,
+    "Low": 2354,
+    "BR": 1,
+    "B2": 2347,
+    "B1": 2365.7,
+    "S1": 2385.85,
+    "S2": 2404.55,
+    "SR": 0,
+    "High": 2412,
+    "Volume": 4973,
+    "Point": 10
+  },
+  {
     "Name": "Life Insurance Corporation of India",
     "Symbol": "LICI",
     "Prices": 931.35,
@@ -429,22 +477,6 @@
     "SR": 0,
     "High": 691,
     "Volume": 8970,
-    "Point": 5
-  },
-  {
-    "Name": "Reliance Industries Ltd",
-    "Symbol": "RELIANCE",
-    "Prices": 1271.15,
-    "Open": 1260,
-    "Low": 1239.6,
-    "BR": 0,
-    "B2": 1240.35,
-    "B1": 1250.15,
-    "S1": 1259.7,
-    "S2": 1269.35,
-    "SR": 0,
-    "High": 1273.95,
-    "Volume": 37961,
     "Point": 5
   },
   {
@@ -512,22 +544,6 @@
     "Point": 2.5
   },
   {
-    "Name": "Oil and Natural Gas Corporation Ltd",
-    "Symbol": "ONGC",
-    "Prices": 255.7,
-    "Open": 253,
-    "Low": 249.5,
-    "BR": 1,
-    "B2": 249,
-    "B1": 251.5,
-    "S1": 253.9,
-    "S2": 255.95,
-    "SR": 0,
-    "High": 255.75,
-    "Volume": 5045,
-    "Point": 0.5
-  },
-  {
     "Name": "Bajaj Finserv Ltd",
     "Symbol": "BAJAJFINSV",
     "Prices": 1678.05,
@@ -574,6 +590,22 @@
     "High": 509,
     "Volume": 1429,
     "Point": 5
+  },
+  {
+    "Name": "Bank of India Ltd",
+    "Symbol": "BANKINDIA",
+    "Prices": 113.07,
+    "Open": 112.55,
+    "Low": 109.81,
+    "BR": 3,
+    "B2": 109.88,
+    "B1": 111.43,
+    "S1": 112.38,
+    "S2": 113.53,
+    "SR": 0,
+    "High": 113.61,
+    "Volume": 1611,
+    "Point": 0.5
   },
   {
     "Name": "REC Limited",
@@ -638,22 +670,6 @@
     "High": 7217.25,
     "Volume": 13507,
     "Point": 50
-  },
-  {
-    "Name": "Asian Paints Ltd",
-    "Symbol": "ASIANPAINT",
-    "Prices": 2398.7,
-    "Open": 2389.55,
-    "Low": 2354,
-    "BR": 1,
-    "B2": 2347,
-    "B1": 2365.7,
-    "S1": 2385.85,
-    "S2": 2404.55,
-    "SR": 0,
-    "High": 2401,
-    "Volume": 4973,
-    "Point": 10
   },
   {
     "Name": "Apollo Tyres Ltd",
@@ -734,6 +750,22 @@
     "High": 1543.95,
     "Volume": 2603,
     "Point": 10
+  },
+  {
+    "Name": "Oil and Natural Gas Corporation Ltd",
+    "Symbol": "ONGC",
+    "Prices": 255,
+    "Open": 253,
+    "Low": 249.5,
+    "BR": 1,
+    "B2": 249,
+    "B1": 251.5,
+    "S1": 253.9,
+    "S2": 255.95,
+    "SR": 0,
+    "High": 256.8,
+    "Volume": 5045,
+    "Point": 0.5
   },
   {
     "Name": "Cipla Ltd",
@@ -909,6 +941,22 @@
     "SR": 0,
     "High": 829.35,
     "Volume": 2709,
+    "Point": 5
+  },
+  {
+    "Name": "LIC Housing Finance Ltd",
+    "Symbol": "LICHSGFIN",
+    "Prices": 625,
+    "Open": 630.05,
+    "Low": 609.2,
+    "BR": 3,
+    "B2": 595.3,
+    "B1": 614.15,
+    "S1": 623.6,
+    "S2": 633.25,
+    "SR": 0,
+    "High": 631.25,
+    "Volume": 1322,
     "Point": 5
   },
   {
@@ -1090,7 +1138,7 @@
   {
     "Name": "Aditya Birla Fashion and Retail Ltd",
     "Symbol": "ABFRL",
-    "Prices": 299,
+    "Prices": 301.75,
     "Open": 304,
     "Low": 295.85,
     "BR": 2,
@@ -1182,22 +1230,6 @@
     "High": 258.9,
     "Volume": 3347,
     "Point": 1.25
-  },
-  {
-    "Name": "Bank of India Ltd",
-    "Symbol": "BANKINDIA",
-    "Prices": 112.04,
-    "Open": 112.55,
-    "Low": 109.81,
-    "BR": 3,
-    "B2": 109.88,
-    "B1": 111.43,
-    "S1": 112.38,
-    "S2": 113.53,
-    "SR": 0,
-    "High": 113.01,
-    "Volume": 1611,
-    "Point": 0.5
   },
   {
     "Name": "Bharat Electronics Ltd",
@@ -1520,22 +1552,6 @@
     "Point": 10
   },
   {
-    "Name": "Godrej Properties Ltd",
-    "Symbol": "GODREJPROP",
-    "Prices": 2833.95,
-    "Open": 2880,
-    "Low": 2788,
-    "BR": 2,
-    "B2": 2767.4,
-    "B1": 2814.45,
-    "S1": 2861.75,
-    "S2": 2908.4,
-    "SR": 1,
-    "High": 2886.95,
-    "Volume": 3099,
-    "Point": 25
-  },
-  {
     "Name": "Granules India Ltd",
     "Symbol": "GRANULES",
     "Prices": 584.95,
@@ -1586,7 +1602,7 @@
   {
     "Name": "Hero Motocorp Ltd",
     "Symbol": "HEROMOTOCO",
-    "Prices": 4559.6,
+    "Prices": 4574.85,
     "Open": 4556.75,
     "Low": 4500,
     "BR": 3,
@@ -1595,7 +1611,7 @@
     "S1": 4627.35,
     "S2": 4729.9,
     "SR": 0,
-    "High": 4572,
+    "High": 4583,
     "Volume": 2511,
     "Point": 50
   },
@@ -1661,22 +1677,6 @@
     "SR": 0,
     "High": 839.25,
     "Volume": 2775,
-    "Point": 5
-  },
-  {
-    "Name": "LIC Housing Finance Ltd",
-    "Symbol": "LICHSGFIN",
-    "Prices": 621.35,
-    "Open": 630.05,
-    "Low": 609.2,
-    "BR": 3,
-    "B2": 595.3,
-    "B1": 614.15,
-    "S1": 623.6,
-    "S2": 633.25,
-    "SR": 0,
-    "High": 631.25,
-    "Volume": 1322,
     "Point": 5
   },
   {
@@ -1842,7 +1842,7 @@
   {
     "Name": "PI Industries Ltd",
     "Symbol": "PIIND",
-    "Prices": 4038.5,
+    "Prices": 3997.55,
     "Open": 4061.25,
     "Low": 3953.6,
     "BR": 4,
@@ -1874,7 +1874,7 @@
   {
     "Name": "PVR INOX Ltd",
     "Symbol": "PVRINOX",
-    "Prices": 1458.95,
+    "Prices": 1455,
     "Open": 1460.8,
     "Low": 1438.1,
     "BR": 4,
