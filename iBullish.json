@@ -160,6 +160,22 @@
     "Point": 2.125
   },
   {
+    "Name": "Gail (India) Ltd",
+    "Symbol": "GAIL",
+    "Prices": 202.1,
+    "Open": 204.75,
+    "Low": 201.37,
+    "BR": 0,
+    "B2": 200.59,
+    "B1": 202.84,
+    "S1": 205.19,
+    "S2": 207.49,
+    "SR": 0,
+    "High": 204.88,
+    "Volume": 2179,
+    "Point": 1.25
+  },
+  {
     "Name": "DLF Ltd",
     "Symbol": "DLF",
     "Prices": 881.05,
@@ -238,22 +254,6 @@
     "High": 1980,
     "Volume": 4639,
     "Point": 10
-  },
-  {
-    "Name": "Gail (India) Ltd",
-    "Symbol": "GAIL",
-    "Prices": 202.31,
-    "Open": 204.75,
-    "Low": 201.37,
-    "BR": 0,
-    "B2": 200.59,
-    "B1": 202.84,
-    "S1": 205.19,
-    "S2": 207.49,
-    "SR": 0,
-    "High": 204.88,
-    "Volume": 2179,
-    "Point": 1.25
   },
   {
     "Name": "Bharti Airtel Ltd",
@@ -834,7 +834,7 @@
   {
     "Name": "Grasim Industries Ltd",
     "Symbol": "GRASIM",
-    "Prices": 2689.15,
+    "Prices": 2686.3,
     "Open": 2680.1,
     "Low": 2677.6,
     "BR": 0,
@@ -1058,7 +1058,7 @@
   {
     "Name": "IPCA Laboratories Ltd",
     "Symbol": "IPCALAB",
-    "Prices": 1543,
+    "Prices": 1540.7,
     "Open": 1544.4,
     "Low": 1534,
     "BR": 1,
@@ -1170,7 +1170,7 @@
   {
     "Name": "Jubilant FoodWorks Ltd",
     "Symbol": "JUBLFOOD",
-    "Prices": 690.2,
+    "Prices": 689.7,
     "Open": 681.3,
     "Low": 681.3,
     "BR": 1,
@@ -1179,7 +1179,7 @@
     "S1": 693.55,
     "S2": 704.25,
     "SR": 1,
-    "High": 691.25,
+    "High": 692.2,
     "Volume": 2754,
     "Point": 5
   },
@@ -1250,7 +1250,7 @@
   {
     "Name": "Larsen and Toubro Ltd",
     "Symbol": "LT",
-    "Prices": 3875.25,
+    "Prices": 3876.95,
     "Open": 3882,
     "Low": 3870,
     "BR": 0,
@@ -1266,7 +1266,7 @@
   {
     "Name": "L&T Finance Ltd",
     "Symbol": "LTF",
-    "Prices": 147.25,
+    "Prices": 147.2,
     "Open": 146.5,
     "Low": 146.1,
     "BR": 1,
@@ -1426,7 +1426,7 @@
   {
     "Name": "Mphasis Ltd",
     "Symbol": "MPHASIS",
-    "Prices": 3201.75,
+    "Prices": 3199.3,
     "Open": 3207.45,
     "Low": 3192.15,
     "BR": 1,
@@ -1618,7 +1618,7 @@
   {
     "Name": "Polycab India Ltd",
     "Symbol": "POLYCAB",
-    "Prices": 7573.95,
+    "Prices": 7585,
     "Open": 7529.35,
     "Low": 7505,
     "BR": 0,
