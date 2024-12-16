@@ -16,25 +16,9 @@
     "Point": 10
   },
   {
-    "Name": "Multi Commodity Exchange Of India Ltd",
-    "Symbol": "MCX",
-    "Prices": 6720.3,
-    "Open": 6588,
-    "Low": 6523.55,
-    "BR": 0,
-    "B2": 6439.85,
-    "B1": 6535.65,
-    "S1": 6633.25,
-    "S2": 6730.9,
-    "SR": 0,
-    "High": 6742,
-    "Volume": 3347,
-    "Point": 50
-  },
-  {
     "Name": "Dr Reddy's Laboratories Ltd",
     "Symbol": "DRREDDY",
-    "Prices": 1270,
+    "Prices": 1271.5,
     "Open": 1246.35,
     "Low": 1245.2,
     "BR": 0,
@@ -50,7 +34,7 @@
   {
     "Name": "Gujarat Gas Ltd",
     "Symbol": "GUJGASLTD",
-    "Prices": 520.5,
+    "Prices": 521.25,
     "Open": 511.95,
     "Low": 507.85,
     "BR": 2,
@@ -62,6 +46,22 @@
     "High": 521.9,
     "Volume": 1313,
     "Point": 5
+  },
+  {
+    "Name": "Multi Commodity Exchange Of India Ltd",
+    "Symbol": "MCX",
+    "Prices": 6720.3,
+    "Open": 6588,
+    "Low": 6523.55,
+    "BR": 0,
+    "B2": 6439.85,
+    "B1": 6535.65,
+    "S1": 6633.25,
+    "S2": 6730.9,
+    "SR": 0,
+    "High": 6742,
+    "Volume": 3347,
+    "Point": 50
   },
   {
     "Name": "Samvardhana Motherson International Ltd",
@@ -96,25 +96,9 @@
     "Point": 0.5
   },
   {
-    "Name": "Indraprastha Gas Limited",
-    "Symbol": "IGL",
-    "Prices": 396.6,
-    "Open": 394.75,
-    "Low": 389.75,
-    "BR": 0,
-    "B2": 375.3,
-    "B1": 385.05,
-    "S1": 394.05,
-    "S2": 403.35,
-    "SR": 1,
-    "High": 399.85,
-    "Volume": 4204,
-    "Point": 5
-  },
-  {
     "Name": "Apollo Hospitals Enterprise Ltd",
     "Symbol": "APOLLOHOSP",
-    "Prices": 7244.55,
+    "Prices": 7243.6,
     "Open": 7251.65,
     "Low": 7166.05,
     "BR": 0,
@@ -192,19 +176,19 @@
     "Point": 2.5
   },
   {
-    "Name": "Sun Tv Network Ltd",
-    "Symbol": "SUNTV",
-    "Prices": 737.1,
-    "Open": 725,
-    "Low": 723.05,
-    "BR": 7,
-    "B2": 715.55,
-    "B1": 724.5,
-    "S1": 733.85,
-    "S2": 746.65,
+    "Name": "Indraprastha Gas Limited",
+    "Symbol": "IGL",
+    "Prices": 395.8,
+    "Open": 394.75,
+    "Low": 389.75,
+    "BR": 0,
+    "B2": 375.3,
+    "B1": 385.05,
+    "S1": 394.05,
+    "S2": 403.35,
     "SR": 1,
-    "High": 738.15,
-    "Volume": 1543,
+    "High": 399.85,
+    "Volume": 4204,
     "Point": 5
   },
   {
@@ -270,6 +254,22 @@
     "High": 214.44,
     "Volume": 1527,
     "Point": 1.25
+  },
+  {
+    "Name": "Sun Tv Network Ltd",
+    "Symbol": "SUNTV",
+    "Prices": 736.2,
+    "Open": 725,
+    "Low": 723.05,
+    "BR": 7,
+    "B2": 715.55,
+    "B1": 724.5,
+    "S1": 733.85,
+    "S2": 746.65,
+    "SR": 1,
+    "High": 738.15,
+    "Volume": 1543,
+    "Point": 5
   },
   {
     "Name": "Bank of Baroda Ltd",
@@ -514,7 +514,7 @@
   {
     "Name": "AU Small Finance Bank Ltd",
     "Symbol": "AUBANK",
-    "Prices": 577.7,
+    "Prices": 578.05,
     "Open": 585,
     "Low": 576.5,
     "BR": 2,
@@ -530,7 +530,7 @@
   {
     "Name": "Axis Bank Ltd",
     "Symbol": "AXISBANK",
-    "Prices": 1148.7,
+    "Prices": 1148.95,
     "Open": 1146.5,
     "Low": 1141.75,
     "BR": 1,
@@ -578,7 +578,7 @@
   {
     "Name": "Bajaj Finance Ltd",
     "Symbol": "BAJFINANCE",
-    "Prices": 7219.4,
+    "Prices": 7219.3,
     "Open": 7182.8,
     "Low": 7156.1,
     "BR": 0,
@@ -594,7 +594,7 @@
   {
     "Name": "Balkrishna Industries Ltd",
     "Symbol": "BALKRISIND",
-    "Prices": 2858.3,
+    "Prices": 2862.2,
     "Open": 2837.5,
     "Low": 2837.5,
     "BR": 5,
@@ -690,7 +690,7 @@
   {
     "Name": "Biocon Ltd",
     "Symbol": "BIOCON",
-    "Prices": 352.2,
+    "Prices": 351.9,
     "Open": 357,
     "Low": 350.75,
     "BR": 1,
@@ -930,7 +930,7 @@
   {
     "Name": "Dabur India Ltd",
     "Symbol": "DABUR",
-    "Prices": 510.5,
+    "Prices": 510.7,
     "Open": 514.05,
     "Low": 510,
     "BR": 2,
@@ -1042,7 +1042,7 @@
   {
     "Name": "Exide Industries Ltd",
     "Symbol": "EXIDEIND",
-    "Prices": 452.75,
+    "Prices": 452.85,
     "Open": 455.15,
     "Low": 451.8,
     "BR": 4,
@@ -1170,7 +1170,7 @@
   {
     "Name": "HFCL Ltd",
     "Symbol": "HFCL",
-    "Prices": 125.59,
+    "Prices": 126.16,
     "Open": 125.4,
     "Low": 124.82,
     "BR": 1,
@@ -1282,7 +1282,7 @@
   {
     "Name": "Indus Towers Ltd",
     "Symbol": "INDUSTOWER",
-    "Prices": 352.1,
+    "Prices": 352.4,
     "Open": 351,
     "Low": 349.55,
     "BR": 3,
@@ -1474,7 +1474,7 @@
   {
     "Name": "Lupin Ltd",
     "Symbol": "LUPIN",
-    "Prices": 2065,
+    "Prices": 2062.85,
     "Open": 2089.9,
     "Low": 2058.05,
     "BR": 1,
@@ -1538,7 +1538,7 @@
   {
     "Name": "Navin Fluorine International Limited",
     "Symbol": "NAVINFLUOR",
-    "Prices": 3512.95,
+    "Prices": 3512,
     "Open": 3539,
     "Low": 3483.9,
     "BR": 2,
@@ -1602,7 +1602,7 @@
   {
     "Name": "NTPC Ltd",
     "Symbol": "NTPC",
-    "Prices": 352.4,
+    "Prices": 352.55,
     "Open": 357.15,
     "Low": 351.7,
     "BR": 2,
@@ -1634,7 +1634,7 @@
   {
     "Name": "One 97 Communications Ltd",
     "Symbol": "PAYTM",
-    "Prices": 997.5,
+    "Prices": 997.85,
     "Open": 987,
     "Low": 977.05,
     "BR": 1,
@@ -1650,7 +1650,7 @@
   {
     "Name": "Power Finance Corporation Ltd",
     "Symbol": "PFC",
-    "Prices": 507.4,
+    "Prices": 507.25,
     "Open": 505.8,
     "Low": 505.1,
     "BR": 0,
@@ -1666,7 +1666,7 @@
   {
     "Name": "PI Industries Ltd",
     "Symbol": "PIIND",
-    "Prices": 3968.45,
+    "Prices": 3961.3,
     "Open": 3961.05,
     "Low": 3944.35,
     "BR": 4,
@@ -1762,7 +1762,7 @@
   {
     "Name": "Steel Authority of India Ltd",
     "Symbol": "SAIL",
-    "Prices": 123.7,
+    "Prices": 123.62,
     "Open": 124.56,
     "Low": 123.2,
     "BR": 1,
@@ -1810,7 +1810,7 @@
   {
     "Name": "Siemens Ltd",
     "Symbol": "SIEMENS",
-    "Prices": 7956.85,
+    "Prices": 7961.6,
     "Open": 7905.25,
     "Low": 7884.6,
     "BR": 0,
