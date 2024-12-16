@@ -64,22 +64,6 @@
     "Point": 5
   },
   {
-    "Name": "HCL Technologies Ltd",
-    "Symbol": "HCLTECH",
-    "Prices": 1952.85,
-    "Open": 1970.85,
-    "Low": 1950.45,
-    "BR": 0,
-    "B2": 1951.25,
-    "B1": 1970.05,
-    "S1": 1989.8,
-    "S2": 2008.75,
-    "SR": 2,
-    "High": 1980,
-    "Volume": 4639,
-    "Point": 10
-  },
-  {
     "Name": "ACC Ltd",
     "Symbol": "ACC",
     "Prices": 2240.95,
@@ -93,6 +77,22 @@
     "SR": 0,
     "High": 2268.9,
     "Volume": 2329,
+    "Point": 10
+  },
+  {
+    "Name": "HCL Technologies Ltd",
+    "Symbol": "HCLTECH",
+    "Prices": 1953.7,
+    "Open": 1970.85,
+    "Low": 1950.45,
+    "BR": 0,
+    "B2": 1951.25,
+    "B1": 1970.05,
+    "S1": 1989.8,
+    "S2": 2008.75,
+    "SR": 2,
+    "High": 1980,
+    "Volume": 4639,
     "Point": 10
   },
   {
@@ -176,22 +176,6 @@
     "Point": 10
   },
   {
-    "Name": "HFCL Ltd",
-    "Symbol": "HFCL",
-    "Prices": 125.49,
-    "Open": 125.4,
-    "Low": 124.82,
-    "BR": 1,
-    "B2": 123.52,
-    "B1": 126.12,
-    "S1": 128.22,
-    "S2": 131.07,
-    "SR": 0,
-    "High": 127.26,
-    "Volume": 750,
-    "Point": 1.25
-  },
-  {
     "Name": "Asian Paints Ltd",
     "Symbol": "ASIANPAINT",
     "Prices": 2395.6,
@@ -222,6 +206,22 @@
     "High": 699.8,
     "Volume": 3478,
     "Point": 5
+  },
+  {
+    "Name": "HFCL Ltd",
+    "Symbol": "HFCL",
+    "Prices": 125.59,
+    "Open": 125.4,
+    "Low": 124.82,
+    "BR": 1,
+    "B2": 123.52,
+    "B1": 126.12,
+    "S1": 128.22,
+    "S2": 131.07,
+    "SR": 0,
+    "High": 127.26,
+    "Volume": 750,
+    "Point": 1.25
   },
   {
     "Name": "Cyient Ltd",
@@ -256,22 +256,6 @@
     "Point": 10
   },
   {
-    "Name": "Coforge Ltd",
-    "Symbol": "COFORGE",
-    "Prices": 9295,
-    "Open": 9289,
-    "Low": 9240,
-    "BR": 0,
-    "B2": 9225.1,
-    "B1": 9320.55,
-    "S1": 9412.8,
-    "S2": 9512.85,
-    "SR": 5,
-    "High": 9354.95,
-    "Volume": 7126,
-    "Point": 50
-  },
-  {
     "Name": "Bharti Airtel Ltd",
     "Symbol": "BHARTIARTL",
     "Prices": 1661.85,
@@ -288,9 +272,25 @@
     "Point": 10
   },
   {
+    "Name": "Coforge Ltd",
+    "Symbol": "COFORGE",
+    "Prices": 9299.9,
+    "Open": 9289,
+    "Low": 9240,
+    "BR": 0,
+    "B2": 9225.1,
+    "B1": 9320.55,
+    "S1": 9412.8,
+    "S2": 9512.85,
+    "SR": 5,
+    "High": 9354.95,
+    "Volume": 7126,
+    "Point": 50
+  },
+  {
     "Name": "HDFC Asset Management Company Ltd",
     "Symbol": "HDFCAMC",
-    "Prices": 4505.1,
+    "Prices": 4506.45,
     "Open": 4550,
     "Low": 4495.55,
     "BR": 0,
@@ -368,25 +368,9 @@
     "Point": 25
   },
   {
-    "Name": "Lupin Ltd",
-    "Symbol": "LUPIN",
-    "Prices": 2062.8,
-    "Open": 2089.9,
-    "Low": 2058.05,
-    "BR": 1,
-    "B2": 2043.85,
-    "B1": 2063,
-    "S1": 2082.5,
-    "S2": 2101.95,
-    "SR": 1,
-    "High": 2093.45,
-    "Volume": 3878,
-    "Point": 10
-  },
-  {
     "Name": "GMR Airports Ltd",
     "Symbol": "GMRAIRPORT",
-    "Prices": 83.85,
+    "Prices": 83.84,
     "Open": 84.05,
     "Low": 83.65,
     "BR": 1,
@@ -466,7 +450,7 @@
   {
     "Name": "Apollo Hospitals Enterprise Ltd",
     "Symbol": "APOLLOHOSP",
-    "Prices": 7241.35,
+    "Prices": 7244.55,
     "Open": 7251.65,
     "Low": 7166.05,
     "BR": 0,
@@ -498,7 +482,7 @@
   {
     "Name": "Axis Bank Ltd",
     "Symbol": "AXISBANK",
-    "Prices": 1148.15,
+    "Prices": 1148.7,
     "Open": 1146.5,
     "Low": 1141.75,
     "BR": 1,
@@ -530,7 +514,7 @@
   {
     "Name": "Bajaj Finance Ltd",
     "Symbol": "BAJFINANCE",
-    "Prices": 7218.4,
+    "Prices": 7219.4,
     "Open": 7182.8,
     "Low": 7156.1,
     "BR": 0,
@@ -594,7 +578,7 @@
   {
     "Name": "Biocon Ltd",
     "Symbol": "BIOCON",
-    "Prices": 352.1,
+    "Prices": 352.2,
     "Open": 357,
     "Low": 350.75,
     "BR": 1,
@@ -674,7 +658,7 @@
   {
     "Name": "CESC Ltd",
     "Symbol": "CESC",
-    "Prices": 189.1,
+    "Prices": 189.2,
     "Open": 187.45,
     "Low": 186.6,
     "BR": 1,
@@ -690,7 +674,7 @@
   {
     "Name": "Chambal Fertilisers and Chemicals Ltd",
     "Symbol": "CHAMBLFERT",
-    "Prices": 534.5,
+    "Prices": 534.65,
     "Open": 528.6,
     "Low": 528.55,
     "BR": 1,
@@ -818,7 +802,7 @@
   {
     "Name": "Dr Reddy's Laboratories Ltd",
     "Symbol": "DRREDDY",
-    "Prices": 1269.4,
+    "Prices": 1270,
     "Open": 1246.35,
     "Low": 1245.2,
     "BR": 0,
@@ -1026,7 +1010,7 @@
   {
     "Name": "IDFC First Bank Ltd",
     "Symbol": "IDFCFIRSTB",
-    "Prices": 64.11,
+    "Prices": 64.16,
     "Open": 64.37,
     "Low": 63.9,
     "BR": 1,
@@ -1058,7 +1042,7 @@
   {
     "Name": "Indraprastha Gas Limited",
     "Symbol": "IGL",
-    "Prices": 396.35,
+    "Prices": 396.6,
     "Open": 394.75,
     "Low": 389.75,
     "BR": 0,
@@ -1154,7 +1138,7 @@
   {
     "Name": "J K Cement Ltd",
     "Symbol": "JKCEMENT",
-    "Prices": 4752,
+    "Prices": 4753.4,
     "Open": 4705.1,
     "Low": 4705.1,
     "BR": 0,
@@ -1278,6 +1262,22 @@
     "High": 148.9,
     "Volume": 1507,
     "Point": 1.25
+  },
+  {
+    "Name": "Lupin Ltd",
+    "Symbol": "LUPIN",
+    "Prices": 2065,
+    "Open": 2089.9,
+    "Low": 2058.05,
+    "BR": 1,
+    "B2": 2043.85,
+    "B1": 2063,
+    "S1": 2082.5,
+    "S2": 2101.95,
+    "SR": 1,
+    "High": 2093.45,
+    "Volume": 3878,
+    "Point": 10
   },
   {
     "Name": "Mahindra And Mahindra Ltd",
@@ -1426,7 +1426,7 @@
   {
     "Name": "MRF Ltd",
     "Symbol": "MRF",
-    "Prices": 132508.05,
+    "Prices": 132550,
     "Open": 133240.25,
     "Low": 132500,
     "BR": 1,
@@ -1458,7 +1458,7 @@
   {
     "Name": "Info Edge (India) Ltd",
     "Symbol": "NAUKRI",
-    "Prices": 8800.15,
+    "Prices": 8801.7,
     "Open": 8724.95,
     "Low": 8688.05,
     "BR": 0,
@@ -1474,7 +1474,7 @@
   {
     "Name": "Oberoi Realty Ltd",
     "Symbol": "OBEROIRLTY",
-    "Prices": 2257.7,
+    "Prices": 2260.25,
     "Open": 2135.6,
     "Low": 2135.6,
     "BR": 0,
@@ -1522,7 +1522,7 @@
   {
     "Name": "One 97 Communications Ltd",
     "Symbol": "PAYTM",
-    "Prices": 996.25,
+    "Prices": 997.5,
     "Open": 987,
     "Low": 977.05,
     "BR": 1,
@@ -1538,7 +1538,7 @@
   {
     "Name": "Piramal Enterprises Ltd",
     "Symbol": "PEL",
-    "Prices": 1254,
+    "Prices": 1253.6,
     "Open": 1245,
     "Low": 1242,
     "BR": 0,
@@ -1570,7 +1570,7 @@
   {
     "Name": "Power Finance Corporation Ltd",
     "Symbol": "PFC",
-    "Prices": 507.45,
+    "Prices": 507.4,
     "Open": 505.8,
     "Low": 505.1,
     "BR": 0,
