@@ -224,6 +224,22 @@
     "Point": 5
   },
   {
+    "Name": "Can Fin Homes Ltd",
+    "Symbol": "CANFINHOME",
+    "Prices": 806.1,
+    "Open": 801,
+    "Low": 800,
+    "BR": 4,
+    "B2": 782.9,
+    "B1": 794.65,
+    "S1": 804.25,
+    "S2": 813.3,
+    "SR": 0,
+    "High": 809.5,
+    "Volume": 1260,
+    "Point": 5
+  },
+  {
     "Name": "HDFC Life Insurance Company Ltd",
     "Symbol": "HDFCLIFE",
     "Prices": 634.5,
@@ -240,36 +256,20 @@
     "Point": 5
   },
   {
-    "Name": "Can Fin Homes Ltd",
-    "Symbol": "CANFINHOME",
-    "Prices": 805.85,
-    "Open": 801,
-    "Low": 800,
-    "BR": 4,
-    "B2": 782.9,
-    "B1": 794.65,
-    "S1": 804.25,
-    "S2": 813.3,
+    "Name": "Samvardhana Motherson International Ltd",
+    "Symbol": "MOTHERSON",
+    "Prices": 166.26,
+    "Open": 164.41,
+    "Low": 164.25,
+    "BR": 1,
+    "B2": 161.39,
+    "B1": 163.69,
+    "S1": 166.14,
+    "S2": 168.39,
     "SR": 0,
-    "High": 809.5,
-    "Volume": 1260,
-    "Point": 5
-  },
-  {
-    "Name": "SRF Ltd",
-    "Symbol": "SRF",
-    "Prices": 2306.05,
-    "Open": 2300,
-    "Low": 2287.5,
-    "BR": 0,
-    "B2": 2259.85,
-    "B1": 2284.65,
-    "S1": 2304.55,
-    "S2": 2323.65,
-    "SR": 1,
-    "High": 2314.8,
-    "Volume": 2283,
-    "Point": 10
+    "High": 167.05,
+    "Volume": 2029,
+    "Point": 1.25
   },
   {
     "Name": "Balkrishna Industries Ltd",
@@ -322,7 +322,7 @@
   {
     "Name": "Aditya Birla Capital Ltd",
     "Symbol": "ABCAPITAL",
-    "Prices": 196.1,
+    "Prices": 196.32,
     "Open": 197.8,
     "Low": 195.45,
     "BR": 3,
@@ -338,7 +338,7 @@
   {
     "Name": "Aditya Birla Fashion and Retail Ltd",
     "Symbol": "ABFRL",
-    "Prices": 300,
+    "Prices": 299.35,
     "Open": 301.75,
     "Low": 298.8,
     "BR": 3,
@@ -370,9 +370,9 @@
   {
     "Name": "Adani Energy Solutions Ltd",
     "Symbol": "ADANIENSOL",
-    "Prices": 817.6,
+    "Prices": 816.5,
     "Open": 830,
-    "Low": 816.4,
+    "Low": 815.95,
     "BR": 2,
     "B2": 807.75,
     "B1": 825.85,
@@ -674,7 +674,7 @@
   {
     "Name": "Bharat Heavy Electricals Ltd",
     "Symbol": "BHEL",
-    "Prices": 245,
+    "Prices": 245.05,
     "Open": 242.75,
     "Low": 242.35,
     "BR": 3,
@@ -1042,7 +1042,7 @@
   {
     "Name": "Gail (India) Ltd",
     "Symbol": "GAIL",
-    "Prices": 204.47,
+    "Prices": 204.1,
     "Open": 204.75,
     "Low": 201.37,
     "BR": 0,
@@ -1106,7 +1106,7 @@
   {
     "Name": "Grasim Industries Ltd",
     "Symbol": "GRASIM",
-    "Prices": 2681.2,
+    "Prices": 2684.45,
     "Open": 2680.1,
     "Low": 2672.25,
     "BR": 0,
@@ -1394,7 +1394,7 @@
   {
     "Name": "Jubilant FoodWorks Ltd",
     "Symbol": "JUBLFOOD",
-    "Prices": 690.55,
+    "Prices": 690,
     "Open": 681.3,
     "Low": 681.3,
     "BR": 1,
@@ -1426,7 +1426,7 @@
   {
     "Name": "LIC Housing Finance Ltd",
     "Symbol": "LICHSGFIN",
-    "Prices": 624.35,
+    "Prices": 624.6,
     "Open": 624.95,
     "Low": 621.1,
     "BR": 4,
@@ -1458,7 +1458,7 @@
   {
     "Name": "L&T Finance Ltd",
     "Symbol": "LTF",
-    "Prices": 147.1,
+    "Prices": 147.01,
     "Open": 146.5,
     "Low": 145.86,
     "BR": 1,
@@ -1520,22 +1520,6 @@
     "Point": 50
   },
   {
-    "Name": "Samvardhana Motherson International Ltd",
-    "Symbol": "MOTHERSON",
-    "Prices": 165.95,
-    "Open": 164.41,
-    "Low": 164.25,
-    "BR": 1,
-    "B2": 161.39,
-    "B1": 163.69,
-    "S1": 166.14,
-    "S2": 168.39,
-    "SR": 0,
-    "High": 167.05,
-    "Volume": 2029,
-    "Point": 1.25
-  },
-  {
     "Name": "National Aluminium Company Limited",
     "Symbol": "NATIONALUM",
     "Prices": 220.69,
@@ -1570,7 +1554,7 @@
   {
     "Name": "Nestle India Ltd",
     "Symbol": "NESTLEIND",
-    "Prices": 2233.05,
+    "Prices": 2233,
     "Open": 2253.5,
     "Low": 2228.55,
     "BR": 2,
@@ -1698,7 +1682,7 @@
   {
     "Name": "PB Fintech Ltd",
     "Symbol": "POLICYBZR",
-    "Prices": 2105.2,
+    "Prices": 2096.8,
     "Open": 2094.1,
     "Low": 2072.7,
     "BR": 2,
@@ -1838,6 +1822,22 @@
     "High": 8035.95,
     "Volume": 6761,
     "Point": 50
+  },
+  {
+    "Name": "SRF Ltd",
+    "Symbol": "SRF",
+    "Prices": 2301.5,
+    "Open": 2300,
+    "Low": 2287.5,
+    "BR": 0,
+    "B2": 2259.85,
+    "B1": 2284.65,
+    "S1": 2304.55,
+    "S2": 2323.65,
+    "SR": 1,
+    "High": 2314.8,
+    "Volume": 2283,
+    "Point": 10
   },
   {
     "Name": "Syngene International Ltd",
