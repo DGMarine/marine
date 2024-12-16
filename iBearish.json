@@ -80,6 +80,22 @@
     "Point": 2.5
   },
   {
+    "Name": "Aurobindo Pharma Ltd",
+    "Symbol": "AUROPHARMA",
+    "Prices": 1231,
+    "Open": 1225,
+    "Low": 1220,
+    "BR": 3,
+    "B2": 1187.5,
+    "B1": 1207.65,
+    "S1": 1226.1,
+    "S2": 1245.2,
+    "SR": 0,
+    "High": 1234.75,
+    "Volume": 6425,
+    "Point": 10
+  },
+  {
     "Name": "Indian Energy Exchange Ltd",
     "Symbol": "IEX",
     "Prices": 188.9,
@@ -112,20 +128,20 @@
     "Point": 25
   },
   {
-    "Name": "HDFC Life Insurance Company Ltd",
-    "Symbol": "HDFCLIFE",
-    "Prices": 634.35,
-    "Open": 632.55,
-    "Low": 628.55,
-    "BR": 3,
-    "B2": 613.6,
-    "B1": 623.45,
-    "S1": 633.05,
-    "S2": 642.85,
+    "Name": "Berger Paints India Ltd",
+    "Symbol": "BERGEPAINT",
+    "Prices": 476.4,
+    "Open": 476,
+    "Low": 471.85,
+    "BR": 5,
+    "B2": 465.4,
+    "B1": 470.3,
+    "S1": 475.4,
+    "S2": 480,
     "SR": 0,
-    "High": 635.45,
-    "Volume": 2444,
-    "Point": 5
+    "High": 477.85,
+    "Volume": 1040,
+    "Point": 2.5
   },
   {
     "Name": "Sun Tv Network Ltd",
@@ -144,6 +160,22 @@
     "Point": 5
   },
   {
+    "Name": "HDFC Life Insurance Company Ltd",
+    "Symbol": "HDFCLIFE",
+    "Prices": 634.3,
+    "Open": 632.55,
+    "Low": 628.55,
+    "BR": 3,
+    "B2": 613.6,
+    "B1": 623.45,
+    "S1": 633.05,
+    "S2": 642.85,
+    "SR": 0,
+    "High": 635.45,
+    "Volume": 2444,
+    "Point": 5
+  },
+  {
     "Name": "Dr Reddy's Laboratories Ltd",
     "Symbol": "DRREDDY",
     "Prices": 1255.8,
@@ -158,22 +190,6 @@
     "High": 1255.8,
     "Volume": 2702,
     "Point": 5
-  },
-  {
-    "Name": "Berger Paints India Ltd",
-    "Symbol": "BERGEPAINT",
-    "Prices": 476.15,
-    "Open": 476,
-    "Low": 471.85,
-    "BR": 5,
-    "B2": 465.4,
-    "B1": 470.3,
-    "S1": 475.4,
-    "S2": 480,
-    "SR": 0,
-    "High": 477.85,
-    "Volume": 1040,
-    "Point": 2.5
   },
   {
     "Name": "Glenmark Pharmaceuticals Ltd",
@@ -205,22 +221,6 @@
     "SR": 1,
     "High": 2314.8,
     "Volume": 2283,
-    "Point": 10
-  },
-  {
-    "Name": "Aurobindo Pharma Ltd",
-    "Symbol": "AUROPHARMA",
-    "Prices": 1227.1,
-    "Open": 1225,
-    "Low": 1220,
-    "BR": 3,
-    "B2": 1187.5,
-    "B1": 1207.65,
-    "S1": 1226.1,
-    "S2": 1245.2,
-    "SR": 0,
-    "High": 1234.75,
-    "Volume": 6425,
     "Point": 10
   },
   {
@@ -370,7 +370,7 @@
   {
     "Name": "Adani Green Energy Ltd",
     "Symbol": "ADANIGREEN",
-    "Prices": 1171.35,
+    "Prices": 1172.45,
     "Open": 1200.95,
     "Low": 1170,
     "BR": 1,
@@ -402,7 +402,7 @@
   {
     "Name": "Alkem Laboratories Ltd",
     "Symbol": "ALKEM",
-    "Prices": 5405.9,
+    "Prices": 5408.75,
     "Open": 5353.35,
     "Low": 5351.65,
     "BR": 2,
@@ -418,7 +418,7 @@
   {
     "Name": "Ambuja Cements Ltd",
     "Symbol": "AMBUJACEM",
-    "Prices": 572.65,
+    "Prices": 573.85,
     "Open": 573.25,
     "Low": 571.85,
     "BR": 0,
@@ -594,7 +594,7 @@
   {
     "Name": "Bata India Ltd",
     "Symbol": "BATAINDIA",
-    "Prices": 1427.75,
+    "Prices": 1426.75,
     "Open": 1435.5,
     "Low": 1420.05,
     "BR": 0,
@@ -674,7 +674,7 @@
   {
     "Name": "Bharat Petroleum Corporation Ltd",
     "Symbol": "BPCL",
-    "Prices": 296.8,
+    "Prices": 296.05,
     "Open": 300.95,
     "Low": 295.8,
     "BR": 0,
@@ -706,7 +706,7 @@
   {
     "Name": "BSE Ltd",
     "Symbol": "BSE",
-    "Prices": 5713.3,
+    "Prices": 5711.55,
     "Open": 5655,
     "Low": 5651.55,
     "BR": 0,
@@ -722,7 +722,7 @@
   {
     "Name": "Birlasoft Ltd",
     "Symbol": "BSOFT",
-    "Prices": 607.95,
+    "Prices": 608.4,
     "Open": 603.35,
     "Low": 601.8,
     "BR": 3,
@@ -866,7 +866,7 @@
   {
     "Name": "City Union Bank Ltd",
     "Symbol": "CUB",
-    "Prices": 184.57,
+    "Prices": 184.95,
     "Open": 183.29,
     "Low": 183.29,
     "BR": 0,
@@ -1058,7 +1058,7 @@
   {
     "Name": "Godrej Properties Ltd",
     "Symbol": "GODREJPROP",
-    "Prices": 2960.7,
+    "Prices": 2956.3,
     "Open": 2926.45,
     "Low": 2920.5,
     "BR": 0,
@@ -1138,9 +1138,9 @@
   {
     "Name": "HDFC Bank Ltd",
     "Symbol": "HDFCBANK",
-    "Prices": 1857.25,
+    "Prices": 1859.9,
     "Open": 1865.1,
-    "Low": 1857,
+    "Low": 1855.25,
     "BR": 0,
     "B2": 1852.45,
     "B1": 1862.2,
@@ -1154,9 +1154,9 @@
   {
     "Name": "Hero Motocorp Ltd",
     "Symbol": "HEROMOTOCO",
-    "Prices": 4517.6,
+    "Prices": 4528,
     "Open": 4590,
-    "Low": 4515.85,
+    "Low": 4515.7,
     "BR": 3,
     "B2": 4444.15,
     "B1": 4539.45,
@@ -1202,7 +1202,7 @@
   {
     "Name": "Hindustan Unilever Ltd",
     "Symbol": "HINDUNILVR",
-    "Prices": 2369,
+    "Prices": 2374.5,
     "Open": 2390.3,
     "Low": 2365.05,
     "BR": 3,
@@ -1250,7 +1250,7 @@
   {
     "Name": "Interglobe Aviation Ltd",
     "Symbol": "INDIGO",
-    "Prices": 4408.9,
+    "Prices": 4405,
     "Open": 4434.1,
     "Low": 4380,
     "BR": 0,
@@ -1266,7 +1266,7 @@
   {
     "Name": "Indusind Bank Ltd",
     "Symbol": "INDUSINDBK",
-    "Prices": 995,
+    "Prices": 998.9,
     "Open": 987.9,
     "Low": 985.55,
     "BR": 2,
@@ -1298,9 +1298,9 @@
   {
     "Name": "Indian Oil Corporation Ltd",
     "Symbol": "IOC",
-    "Prices": 142.32,
+    "Prices": 142.27,
     "Open": 144.32,
-    "Low": 142.25,
+    "Low": 142.2,
     "BR": 0,
     "B2": 141,
     "B1": 143.15,
@@ -1362,7 +1362,7 @@
   {
     "Name": "Jindal Steel And Power Ltd",
     "Symbol": "JINDALSTEL",
-    "Prices": 971.35,
+    "Prices": 971.95,
     "Open": 993,
     "Low": 968.9,
     "BR": 0,
@@ -1378,7 +1378,7 @@
   {
     "Name": "JSW Steel Limited",
     "Symbol": "JSWSTEEL",
-    "Prices": 985.4,
+    "Prices": 987.1,
     "Open": 1004,
     "Low": 984,
     "BR": 1,
@@ -1410,7 +1410,7 @@
   {
     "Name": "Laurus Labs Ltd",
     "Symbol": "LAURUSLABS",
-    "Prices": 572.15,
+    "Prices": 572.5,
     "Open": 571,
     "Low": 568.9,
     "BR": 0,
@@ -1442,7 +1442,7 @@
   {
     "Name": "Life Insurance Corporation of India",
     "Symbol": "LICI",
-    "Prices": 924.4,
+    "Prices": 924.9,
     "Open": 935,
     "Low": 923.25,
     "BR": 4,
@@ -1490,9 +1490,9 @@
   {
     "Name": "Mahindra and Mahindra Financial Svcs Ltd",
     "Symbol": "M&MFIN",
-    "Prices": 273.4,
+    "Prices": 273.5,
     "Open": 274.75,
-    "Low": 273.4,
+    "Low": 273.15,
     "BR": 1,
     "B2": 267.55,
     "B1": 272.45,
@@ -1538,9 +1538,9 @@
   {
     "Name": "National Aluminium Company Limited",
     "Symbol": "NATIONALUM",
-    "Prices": 220.55,
+    "Prices": 220.85,
     "Open": 226.48,
-    "Low": 220.36,
+    "Low": 220.35,
     "BR": 4,
     "B2": 220.2,
     "B1": 224.6,
@@ -1586,7 +1586,7 @@
   {
     "Name": "NHPC Ltd",
     "Symbol": "NHPC",
-    "Prices": 85.12,
+    "Prices": 85.17,
     "Open": 86,
     "Low": 85,
     "BR": 3,
@@ -1794,7 +1794,7 @@
   {
     "Name": "Sbi Life Insurance Company Ltd",
     "Symbol": "SBILIFE",
-    "Prices": 1423.4,
+    "Prices": 1425.95,
     "Open": 1428.8,
     "Low": 1415.65,
     "BR": 3,
