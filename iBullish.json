@@ -352,25 +352,25 @@
     "Point": 5
   },
   {
-    "Name": "Gail (India) Ltd",
-    "Symbol": "GAIL",
-    "Prices": 202.76,
-    "Open": 204.75,
-    "Low": 201.37,
+    "Name": "Grasim Industries Ltd",
+    "Symbol": "GRASIM",
+    "Prices": 2682,
+    "Open": 2680.1,
+    "Low": 2672.25,
     "BR": 0,
-    "B2": 200.59,
-    "B1": 202.84,
-    "S1": 205.19,
-    "S2": 207.49,
+    "B2": 2660.15,
+    "B1": 2683.05,
+    "S1": 2703.1,
+    "S2": 2719.6,
     "SR": 0,
-    "High": 204.88,
-    "Volume": 2179,
-    "Point": 1.25
+    "High": 2718,
+    "Volume": 2308,
+    "Point": 10
   },
   {
     "Name": "Larsen and Toubro Ltd",
     "Symbol": "LT",
-    "Prices": 3869.05,
+    "Prices": 3868.95,
     "Open": 3882,
     "Low": 3857.25,
     "BR": 0,
@@ -848,6 +848,22 @@
     "Point": 1.25
   },
   {
+    "Name": "Gail (India) Ltd",
+    "Symbol": "GAIL",
+    "Prices": 204,
+    "Open": 204.75,
+    "Low": 201.37,
+    "BR": 0,
+    "B2": 200.59,
+    "B1": 202.84,
+    "S1": 205.19,
+    "S2": 207.49,
+    "SR": 0,
+    "High": 204.88,
+    "Volume": 2179,
+    "Point": 1.25
+  },
+  {
     "Name": "Glenmark Pharmaceuticals Ltd",
     "Symbol": "GLENMARK",
     "Prices": 1554.95,
@@ -894,22 +910,6 @@
     "High": 587.3,
     "Volume": 901,
     "Point": 5
-  },
-  {
-    "Name": "Grasim Industries Ltd",
-    "Symbol": "GRASIM",
-    "Prices": 2683.85,
-    "Open": 2680.1,
-    "Low": 2672.25,
-    "BR": 0,
-    "B2": 2660.15,
-    "B1": 2683.05,
-    "S1": 2703.1,
-    "S2": 2719.6,
-    "SR": 0,
-    "High": 2718,
-    "Volume": 2308,
-    "Point": 10
   },
   {
     "Name": "Hindustan Aeronautics Ltd",
@@ -1074,7 +1074,7 @@
   {
     "Name": "IPCA Laboratories Ltd",
     "Symbol": "IPCALAB",
-    "Prices": 1554.7,
+    "Prices": 1559.75,
     "Open": 1544.4,
     "Low": 1534,
     "BR": 1,
@@ -1083,7 +1083,7 @@
     "S1": 1544.55,
     "S2": 1561.25,
     "SR": 3,
-    "High": 1554.7,
+    "High": 1559.75,
     "Volume": 1202,
     "Point": 10
   },
@@ -1154,7 +1154,7 @@
   {
     "Name": "Jubilant FoodWorks Ltd",
     "Symbol": "JUBLFOOD",
-    "Prices": 690.35,
+    "Prices": 690.05,
     "Open": 681.3,
     "Low": 681.3,
     "BR": 1,
@@ -1234,7 +1234,7 @@
   {
     "Name": "L&T Finance Ltd",
     "Symbol": "LTF",
-    "Prices": 146.72,
+    "Prices": 146.71,
     "Open": 146.5,
     "Low": 145.86,
     "BR": 1,
@@ -1394,7 +1394,7 @@
   {
     "Name": "Samvardhana Motherson International Ltd",
     "Symbol": "MOTHERSON",
-    "Prices": 166.04,
+    "Prices": 166.27,
     "Open": 164.41,
     "Low": 164.25,
     "BR": 1,
@@ -1410,7 +1410,7 @@
   {
     "Name": "Mphasis Ltd",
     "Symbol": "MPHASIS",
-    "Prices": 3191.6,
+    "Prices": 3193.35,
     "Open": 3207.45,
     "Low": 3176.9,
     "BR": 1,
@@ -1618,7 +1618,7 @@
   {
     "Name": "Polycab India Ltd",
     "Symbol": "POLYCAB",
-    "Prices": 7560,
+    "Prices": 7558.85,
     "Open": 7529.35,
     "Low": 7505,
     "BR": 0,
