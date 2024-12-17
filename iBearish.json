@@ -52,7 +52,7 @@
     "Symbol": "ABFRL",
     "Prices": 296.85,
     "Open": 300.1,
-    "Low": 296.6,
+    "Low": 296.55,
     "BR": 3,
     "B2": 297.6,
     "B1": 301.65,
@@ -82,7 +82,7 @@
   {
     "Name": "Adani Energy Solutions Ltd",
     "Symbol": "ADANIENSOL",
-    "Prices": 818,
+    "Prices": 817.65,
     "Open": 811.5,
     "Low": 806.4,
     "BR": 2,
@@ -434,7 +434,7 @@
   {
     "Name": "Can Fin Homes Ltd",
     "Symbol": "CANFINHOME",
-    "Prices": 789.55,
+    "Prices": 788.1,
     "Open": 802.3,
     "Low": 786.35,
     "BR": 5,
@@ -626,9 +626,9 @@
   {
     "Name": "Gail (India) Ltd",
     "Symbol": "GAIL",
-    "Prices": 201.04,
+    "Prices": 200.87,
     "Open": 203,
-    "Low": 200.85,
+    "Low": 200.82,
     "BR": 0,
     "B2": 200.65,
     "B1": 202.85,
@@ -722,9 +722,9 @@
   {
     "Name": "Grasim Industries Ltd",
     "Symbol": "GRASIM",
-    "Prices": 2623.45,
+    "Prices": 2618.05,
     "Open": 2685,
-    "Low": 2617.85,
+    "Low": 2615,
     "BR": 0,
     "B2": 2639.6,
     "B1": 2659.25,
@@ -1026,7 +1026,7 @@
   {
     "Name": "LIC Housing Finance Ltd",
     "Symbol": "LICHSGFIN",
-    "Prices": 607.5,
+    "Prices": 608.5,
     "Open": 625.05,
     "Low": 606.3,
     "BR": 4,
@@ -1122,7 +1122,7 @@
   {
     "Name": "Nestle India Ltd",
     "Symbol": "NESTLEIND",
-    "Prices": 2203.05,
+    "Prices": 2202.2,
     "Open": 2226,
     "Low": 2201,
     "BR": 3,
@@ -1186,7 +1186,7 @@
   {
     "Name": "PB Fintech Ltd",
     "Symbol": "POLICYBZR",
-    "Prices": 2137.5,
+    "Prices": 2144.3,
     "Open": 2110,
     "Low": 2101.5,
     "BR": 2,
