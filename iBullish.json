@@ -18,7 +18,7 @@
   {
     "Name": "Samvardhana Motherson International Ltd",
     "Symbol": "MOTHERSON",
-    "Prices": 164.1,
+    "Prices": 164.85,
     "Open": 168.58,
     "Low": 163.64,
     "BR": 0,
@@ -34,9 +34,9 @@
   {
     "Name": "Grasim Industries Ltd",
     "Symbol": "GRASIM",
-    "Prices": 2599.35,
+    "Prices": 2599.55,
     "Open": 2685,
-    "Low": 2597.8,
+    "Low": 2595.35,
     "BR": 0,
     "B2": 2639.6,
     "B1": 2659.25,
@@ -146,7 +146,7 @@
   {
     "Name": "Astral Ltd",
     "Symbol": "ASTRAL",
-    "Prices": 1830.05,
+    "Prices": 1832.35,
     "Open": 1850,
     "Low": 1824.15,
     "BR": 0,
@@ -160,25 +160,9 @@
     "Point": 10
   },
   {
-    "Name": "Gail (India) Ltd",
-    "Symbol": "GAIL",
-    "Prices": 199.74,
-    "Open": 203,
-    "Low": 199.65,
-    "BR": 0,
-    "B2": 200.65,
-    "B1": 202.85,
-    "S1": 205.3,
-    "S2": 207.55,
-    "SR": 0,
-    "High": 205,
-    "Volume": 1920,
-    "Point": 1.25
-  },
-  {
     "Name": "Larsen and Toubro Ltd",
     "Symbol": "LT",
-    "Prices": 3806.2,
+    "Prices": 3806.7,
     "Open": 3863.05,
     "Low": 3799.55,
     "BR": 0,
@@ -222,6 +206,22 @@
     "High": 513.25,
     "Volume": 2915,
     "Point": 5
+  },
+  {
+    "Name": "Gail (India) Ltd",
+    "Symbol": "GAIL",
+    "Prices": 200.08,
+    "Open": 203,
+    "Low": 199.63,
+    "BR": 0,
+    "B2": 200.65,
+    "B1": 202.85,
+    "S1": 205.3,
+    "S2": 207.55,
+    "SR": 0,
+    "High": 205,
+    "Volume": 1920,
+    "Point": 1.25
   },
   {
     "Name": "Indian Energy Exchange Ltd",
@@ -384,22 +384,6 @@
     "Point": 5
   },
   {
-    "Name": "IPCA Laboratories Ltd",
-    "Symbol": "IPCALAB",
-    "Prices": 1554.95,
-    "Open": 1570.8,
-    "Low": 1552.85,
-    "BR": 0,
-    "B2": 1549.6,
-    "B1": 1568.6,
-    "S1": 1588.5,
-    "S2": 1606.6,
-    "SR": 5,
-    "High": 1581.4,
-    "Volume": 1203,
-    "Point": 10
-  },
-  {
     "Name": "Dr Reddy's Laboratories Ltd",
     "Symbol": "DRREDDY",
     "Prices": 1246.9,
@@ -478,6 +462,22 @@
     "High": 394.55,
     "Volume": 3097,
     "Point": 5
+  },
+  {
+    "Name": "IPCA Laboratories Ltd",
+    "Symbol": "IPCALAB",
+    "Prices": 1559.15,
+    "Open": 1570.8,
+    "Low": 1552.85,
+    "BR": 0,
+    "B2": 1549.6,
+    "B1": 1568.6,
+    "S1": 1588.5,
+    "S2": 1606.6,
+    "SR": 5,
+    "High": 1581.4,
+    "Volume": 1203,
+    "Point": 10
   },
   {
     "Name": "Chambal Fertilisers and Chemicals Ltd",
@@ -574,22 +574,6 @@
     "High": 1554.9,
     "Volume": 2251,
     "Point": 10
-  },
-  {
-    "Name": "Polycab India Ltd",
-    "Symbol": "POLYCAB",
-    "Prices": 7485,
-    "Open": 7550,
-    "Low": 7451,
-    "BR": 0,
-    "B2": 7425.7,
-    "B1": 7519.25,
-    "S1": 7613.55,
-    "S2": 7711.1,
-    "SR": 3,
-    "High": 7550,
-    "Volume": 1232,
-    "Point": 50
   },
   {
     "Name": "Hindustan Aeronautics Ltd",
@@ -704,20 +688,20 @@
     "Point": 50
   },
   {
-    "Name": "Jubilant FoodWorks Ltd",
-    "Symbol": "JUBLFOOD",
-    "Prices": 681.15,
-    "Open": 686.65,
-    "Low": 678.85,
+    "Name": "Polycab India Ltd",
+    "Symbol": "POLYCAB",
+    "Prices": 7493.65,
+    "Open": 7550,
+    "Low": 7451,
     "BR": 0,
-    "B2": 674.3,
-    "B1": 683.3,
-    "S1": 693.25,
-    "S2": 702.7,
-    "SR": 2,
-    "High": 701.4,
-    "Volume": 2414,
-    "Point": 5
+    "B2": 7425.7,
+    "B1": 7519.25,
+    "S1": 7613.55,
+    "S2": 7711.1,
+    "SR": 3,
+    "High": 7550,
+    "Volume": 1232,
+    "Point": 50
   },
   {
     "Name": "Info Edge (India) Ltd",
@@ -846,6 +830,22 @@
     "High": 49849.95,
     "Volume": 1686,
     "Point": 250
+  },
+  {
+    "Name": "Jubilant FoodWorks Ltd",
+    "Symbol": "JUBLFOOD",
+    "Prices": 683.15,
+    "Open": 686.65,
+    "Low": 678.85,
+    "BR": 0,
+    "B2": 674.3,
+    "B1": 683.3,
+    "S1": 693.25,
+    "S2": 702.7,
+    "SR": 2,
+    "High": 701.4,
+    "Volume": 2414,
+    "Point": 5
   },
   {
     "Name": "Central Depository Services (India) Ltd",
