@@ -2,7 +2,7 @@
   {
     "Name": "Adani Total Gas Ltd",
     "Symbol": "ATGL",
-    "Prices": 718.65,
+    "Prices": 717.35,
     "Open": 713.9,
     "Low": 705.1,
     "BR": 3,
@@ -194,9 +194,9 @@
   {
     "Name": "AU Small Finance Bank Ltd",
     "Symbol": "AUBANK",
-    "Prices": 564.25,
+    "Prices": 563.3,
     "Open": 579.75,
-    "Low": 564,
+    "Low": 563.05,
     "BR": 2,
     "B2": 564.85,
     "B1": 573.8,
@@ -226,7 +226,7 @@
   {
     "Name": "Axis Bank Ltd",
     "Symbol": "AXISBANK",
-    "Prices": 1135.75,
+    "Prices": 1134.7,
     "Open": 1145.25,
     "Low": 1130,
     "BR": 1,
@@ -242,7 +242,7 @@
   {
     "Name": "Bajaj Auto Limited",
     "Symbol": "BAJAJ-AUTO",
-    "Prices": 8872.7,
+    "Prices": 8884,
     "Open": 8989.8,
     "Low": 8851.4,
     "BR": 2,
@@ -274,7 +274,7 @@
   {
     "Name": "Balkrishna Industries Ltd",
     "Symbol": "BALKRISIND",
-    "Prices": 2812.5,
+    "Prices": 2812,
     "Open": 2874,
     "Low": 2805.15,
     "BR": 5,
@@ -370,7 +370,7 @@
   {
     "Name": "Biocon Ltd",
     "Symbol": "BIOCON",
-    "Prices": 350.6,
+    "Prices": 350.05,
     "Open": 354,
     "Low": 349.45,
     "BR": 1,
@@ -562,7 +562,7 @@
   {
     "Name": "Dabur India Ltd",
     "Symbol": "DABUR",
-    "Prices": 507.3,
+    "Prices": 506.9,
     "Open": 509,
     "Low": 505.05,
     "BR": 3,
@@ -802,7 +802,7 @@
   {
     "Name": "HFCL Ltd",
     "Symbol": "HFCL",
-    "Prices": 123.42,
+    "Prices": 123.3,
     "Open": 126.45,
     "Low": 122.75,
     "BR": 1,
@@ -866,7 +866,7 @@
   {
     "Name": "IDFC First Bank Ltd",
     "Symbol": "IDFCFIRSTB",
-    "Prices": 63.62,
+    "Prices": 63.58,
     "Open": 64.3,
     "Low": 63.5,
     "BR": 1,
@@ -930,7 +930,7 @@
   {
     "Name": "Indus Towers Ltd",
     "Symbol": "INDUSTOWER",
-    "Prices": 347.9,
+    "Prices": 347.85,
     "Open": 359.3,
     "Low": 346.65,
     "BR": 3,
@@ -1106,7 +1106,7 @@
   {
     "Name": "Navin Fluorine International Limited",
     "Symbol": "NAVINFLUOR",
-    "Prices": 3471.05,
+    "Prices": 3469.4,
     "Open": 3520,
     "Low": 3448.15,
     "BR": 3,
@@ -1138,7 +1138,7 @@
   {
     "Name": "NTPC Ltd",
     "Symbol": "NTPC",
-    "Prices": 350.2,
+    "Prices": 350.1,
     "Open": 352,
     "Low": 347.25,
     "BR": 3,
@@ -1170,7 +1170,7 @@
   {
     "Name": "PI Industries Ltd",
     "Symbol": "PIIND",
-    "Prices": 3905.65,
+    "Prices": 3909.7,
     "Open": 3969,
     "Low": 3900,
     "BR": 4,
