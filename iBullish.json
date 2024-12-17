@@ -176,9 +176,25 @@
     "Point": 25
   },
   {
+    "Name": "Marico Ltd",
+    "Symbol": "MARICO",
+    "Prices": 636.35,
+    "Open": 645.15,
+    "Low": 635.5,
+    "BR": 1,
+    "B2": 634.4,
+    "B1": 644.15,
+    "S1": 653.75,
+    "S2": 662.6,
+    "SR": 2,
+    "High": 648,
+    "Volume": 1445,
+    "Point": 5
+  },
+  {
     "Name": "Bharat Forge Ltd",
     "Symbol": "BHARATFORG",
-    "Prices": 1349.7,
+    "Prices": 1350,
     "Open": 1364.1,
     "Low": 1344.7,
     "BR": 1,
@@ -224,6 +240,22 @@
     "Point": 10
   },
   {
+    "Name": "Bank of Baroda Ltd",
+    "Symbol": "BANKBARODA",
+    "Prices": 255.34,
+    "Open": 257.51,
+    "Low": 255.15,
+    "BR": 0,
+    "B2": 255.69,
+    "B1": 258.04,
+    "S1": 260.39,
+    "S2": 262.84,
+    "SR": 0,
+    "High": 259.3,
+    "Volume": 2391,
+    "Point": 1.25
+  },
+  {
     "Name": "City Union Bank Ltd",
     "Symbol": "CUB",
     "Prices": 183.74,
@@ -256,22 +288,6 @@
     "Point": 10
   },
   {
-    "Name": "Bank of Baroda Ltd",
-    "Symbol": "BANKBARODA",
-    "Prices": 255.71,
-    "Open": 257.51,
-    "Low": 255.15,
-    "BR": 0,
-    "B2": 255.69,
-    "B1": 258.04,
-    "S1": 260.39,
-    "S2": 262.84,
-    "SR": 0,
-    "High": 259.3,
-    "Volume": 2391,
-    "Point": 1.25
-  },
-  {
     "Name": "Power Grid Corporation of India Ltd",
     "Symbol": "POWERGRID",
     "Prices": 329.45,
@@ -290,7 +306,7 @@
   {
     "Name": "Coal India Ltd",
     "Symbol": "COALINDIA",
-    "Prices": 405.3,
+    "Prices": 405.25,
     "Open": 410.45,
     "Low": 404.35,
     "BR": 1,
@@ -317,22 +333,6 @@
     "SR": 2,
     "High": 1348.1,
     "Volume": 8805,
-    "Point": 5
-  },
-  {
-    "Name": "Marico Ltd",
-    "Symbol": "MARICO",
-    "Prices": 639,
-    "Open": 645.15,
-    "Low": 637.25,
-    "BR": 1,
-    "B2": 634.4,
-    "B1": 644.15,
-    "S1": 653.75,
-    "S2": 662.6,
-    "SR": 2,
-    "High": 648,
-    "Volume": 1445,
     "Point": 5
   },
   {
@@ -672,22 +672,6 @@
     "Point": 10
   },
   {
-    "Name": "Bajaj Finserv Ltd",
-    "Symbol": "BAJAJFINSV",
-    "Prices": 1645.7,
-    "Open": 1673,
-    "Low": 1633.05,
-    "BR": 0,
-    "B2": 1631.05,
-    "B1": 1650.7,
-    "S1": 1669.95,
-    "S2": 1688.3,
-    "SR": 0,
-    "High": 1673.65,
-    "Volume": 2600,
-    "Point": 10
-  },
-  {
     "Name": "Canara Bank Ltd",
     "Symbol": "CANBK",
     "Prices": 106.1,
@@ -717,6 +701,22 @@
     "SR": 5,
     "High": 1581.4,
     "Volume": 1203,
+    "Point": 10
+  },
+  {
+    "Name": "Dalmia Bharat Ltd",
+    "Symbol": "DALBHARAT",
+    "Prices": 1940,
+    "Open": 1955,
+    "Low": 1936.8,
+    "BR": 0,
+    "B2": 1924.85,
+    "B1": 1945.4,
+    "S1": 1965.5,
+    "S2": 1988.4,
+    "SR": 1,
+    "High": 1958.95,
+    "Volume": 1352,
     "Point": 10
   },
   {
@@ -765,6 +765,22 @@
     "SR": 3,
     "High": 1806.85,
     "Volume": 5145,
+    "Point": 10
+  },
+  {
+    "Name": "Havells India Ltd",
+    "Symbol": "HAVELLS",
+    "Prices": 1744,
+    "Open": 1768,
+    "Low": 1738.6,
+    "BR": 1,
+    "B2": 1729.3,
+    "B1": 1747.65,
+    "S1": 1766.95,
+    "S2": 1788.6,
+    "SR": 4,
+    "High": 1771.2,
+    "Volume": 1003,
     "Point": 10
   },
   {
@@ -896,19 +912,19 @@
     "Point": 2.5
   },
   {
-    "Name": "Dalmia Bharat Ltd",
-    "Symbol": "DALBHARAT",
-    "Prices": 1943.65,
-    "Open": 1955,
-    "Low": 1938.55,
+    "Name": "Bajaj Finserv Ltd",
+    "Symbol": "BAJAJFINSV",
+    "Prices": 1649.4,
+    "Open": 1673,
+    "Low": 1633.05,
     "BR": 0,
-    "B2": 1924.85,
-    "B1": 1945.4,
-    "S1": 1965.5,
-    "S2": 1988.4,
-    "SR": 1,
-    "High": 1958.95,
-    "Volume": 1352,
+    "B2": 1631.05,
+    "B1": 1650.7,
+    "S1": 1669.95,
+    "S2": 1688.3,
+    "SR": 0,
+    "High": 1673.65,
+    "Volume": 2600,
     "Point": 10
   },
   {
@@ -926,22 +942,6 @@
     "High": 1270.95,
     "Volume": 3081,
     "Point": 5
-  },
-  {
-    "Name": "Havells India Ltd",
-    "Symbol": "HAVELLS",
-    "Prices": 1746.8,
-    "Open": 1768,
-    "Low": 1743.55,
-    "BR": 1,
-    "B2": 1729.3,
-    "B1": 1747.65,
-    "S1": 1766.95,
-    "S2": 1788.6,
-    "SR": 4,
-    "High": 1771.2,
-    "Volume": 1003,
-    "Point": 10
   },
   {
     "Name": "Lupin Ltd",
@@ -994,7 +994,7 @@
   {
     "Name": "ABB India Ltd",
     "Symbol": "ABB",
-    "Prices": 7850.85,
+    "Prices": 7843.35,
     "Open": 7890.35,
     "Low": 7825,
     "BR": 0,
@@ -1186,7 +1186,7 @@
   {
     "Name": "Delhivery",
     "Symbol": "DELHIVERY",
-    "Prices": 395.7,
+    "Prices": 394.9,
     "Open": 396.05,
     "Low": 392,
     "BR": 0,
@@ -1202,7 +1202,7 @@
   {
     "Name": "Dixon Technologies (India) Ltd",
     "Symbol": "DIXON",
-    "Prices": 19043,
+    "Prices": 19067.65,
     "Open": 18823.95,
     "Low": 18700,
     "BR": 0,
@@ -1346,7 +1346,7 @@
   {
     "Name": "Vodafone Idea Ltd",
     "Symbol": "IDEA",
-    "Prices": 7.87,
+    "Prices": 7.88,
     "Open": 7.95,
     "Low": 7.85,
     "BR": 1,
@@ -1378,7 +1378,7 @@
   {
     "Name": "Indian Hotels Company Ltd",
     "Symbol": "INDHOTEL",
-    "Prices": 881.35,
+    "Prices": 879.85,
     "Open": 866.5,
     "Low": 864.1,
     "BR": 0,
@@ -1426,7 +1426,7 @@
   {
     "Name": "Irb Infrastructure Developers Ltd",
     "Symbol": "IRB",
-    "Prices": 58.67,
+    "Prices": 58.58,
     "Open": 58.4,
     "Low": 58.13,
     "BR": 1,
@@ -1442,7 +1442,7 @@
   {
     "Name": "Indian Railway Ctrng nd Trsm Corp Ltd",
     "Symbol": "IRCTC",
-    "Prices": 835.35,
+    "Prices": 834,
     "Open": 839.8,
     "Low": 832.65,
     "BR": 0,
@@ -1458,7 +1458,7 @@
   {
     "Name": "Indian Railway Finance Corp Ltd",
     "Symbol": "IRFC",
-    "Prices": 159.19,
+    "Prices": 159.36,
     "Open": 158.75,
     "Low": 157.7,
     "BR": 1,
@@ -1522,7 +1522,7 @@
   {
     "Name": "Manappuram Finance Ltd",
     "Symbol": "MANAPPURAM",
-    "Prices": 182.64,
+    "Prices": 182.06,
     "Open": 185.06,
     "Low": 180.25,
     "BR": 0,
@@ -1538,7 +1538,7 @@
   {
     "Name": "Max Healthcare Institute Ltd",
     "Symbol": "MAXHEALTH",
-    "Prices": 1209.95,
+    "Prices": 1205.2,
     "Open": 1175.15,
     "Low": 1170.9,
     "BR": 0,
@@ -1547,14 +1547,14 @@
     "S1": 1184.85,
     "S2": 1201.55,
     "SR": 5,
-    "High": 1210.65,
+    "High": 1215.55,
     "Volume": 2049,
     "Point": 10
   },
   {
     "Name": "Multi Commodity Exchange Of India Ltd",
     "Symbol": "MCX",
-    "Prices": 6732,
+    "Prices": 6725.2,
     "Open": 6706.75,
     "Low": 6655,
     "BR": 0,
@@ -1618,7 +1618,7 @@
   {
     "Name": "Oil and Natural Gas Corporation Ltd",
     "Symbol": "ONGC",
-    "Prices": 250.1,
+    "Prices": 249.85,
     "Open": 251.75,
     "Low": 248.4,
     "BR": 1,
@@ -1634,7 +1634,7 @@
   {
     "Name": "Page Industries Ltd",
     "Symbol": "PAGEIND",
-    "Prices": 49450,
+    "Prices": 49397.45,
     "Open": 49071.6,
     "Low": 49071.6,
     "BR": 0,
