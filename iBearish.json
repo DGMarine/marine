@@ -34,9 +34,9 @@
   {
     "Name": "Aditya Birla Fashion and Retail Ltd",
     "Symbol": "ABFRL",
-    "Prices": 294.95,
+    "Prices": 294.1,
     "Open": 300.1,
-    "Low": 294.75,
+    "Low": 294,
     "BR": 3,
     "B2": 297.6,
     "B1": 301.65,
@@ -66,7 +66,7 @@
   {
     "Name": "Adani Energy Solutions Ltd",
     "Symbol": "ADANIENSOL",
-    "Prices": 813.75,
+    "Prices": 812.95,
     "Open": 811.5,
     "Low": 806.4,
     "BR": 2,
@@ -178,9 +178,9 @@
   {
     "Name": "AU Small Finance Bank Ltd",
     "Symbol": "AUBANK",
-    "Prices": 561.8,
+    "Prices": 562.05,
     "Open": 579.75,
-    "Low": 561.8,
+    "Low": 561.3,
     "BR": 2,
     "B2": 564.85,
     "B1": 573.8,
@@ -210,7 +210,7 @@
   {
     "Name": "Axis Bank Ltd",
     "Symbol": "AXISBANK",
-    "Prices": 1135.05,
+    "Prices": 1135.15,
     "Open": 1145.25,
     "Low": 1130,
     "BR": 1,
@@ -226,7 +226,7 @@
   {
     "Name": "Bajaj Auto Limited",
     "Symbol": "BAJAJ-AUTO",
-    "Prices": 8902.6,
+    "Prices": 8894.15,
     "Open": 8989.8,
     "Low": 8851.4,
     "BR": 2,
@@ -258,7 +258,7 @@
   {
     "Name": "Balkrishna Industries Ltd",
     "Symbol": "BALKRISIND",
-    "Prices": 2812.5,
+    "Prices": 2808.4,
     "Open": 2874,
     "Low": 2802,
     "BR": 5,
@@ -354,7 +354,7 @@
   {
     "Name": "Biocon Ltd",
     "Symbol": "BIOCON",
-    "Prices": 350.7,
+    "Prices": 350.75,
     "Open": 354,
     "Low": 349.45,
     "BR": 1,
@@ -418,9 +418,9 @@
   {
     "Name": "Can Fin Homes Ltd",
     "Symbol": "CANFINHOME",
-    "Prices": 784.5,
+    "Prices": 781.75,
     "Open": 802.3,
-    "Low": 784,
+    "Low": 781.75,
     "BR": 5,
     "B2": 780.7,
     "B1": 795,
@@ -546,9 +546,9 @@
   {
     "Name": "Dabur India Ltd",
     "Symbol": "DABUR",
-    "Prices": 505.55,
+    "Prices": 504.75,
     "Open": 509,
-    "Low": 505.05,
+    "Low": 504.75,
     "BR": 3,
     "B2": 501.05,
     "B1": 505.75,
@@ -610,9 +610,9 @@
   {
     "Name": "Gail (India) Ltd",
     "Symbol": "GAIL",
-    "Prices": 200.13,
+    "Prices": 199.74,
     "Open": 203,
-    "Low": 199.95,
+    "Low": 199.65,
     "BR": 0,
     "B2": 200.65,
     "B1": 202.85,
@@ -706,9 +706,9 @@
   {
     "Name": "Grasim Industries Ltd",
     "Symbol": "GRASIM",
-    "Prices": 2605,
+    "Prices": 2599.35,
     "Open": 2685,
-    "Low": 2604.05,
+    "Low": 2597.8,
     "BR": 0,
     "B2": 2639.6,
     "B1": 2659.25,
@@ -786,7 +786,7 @@
   {
     "Name": "HFCL Ltd",
     "Symbol": "HFCL",
-    "Prices": 121.13,
+    "Prices": 121.47,
     "Open": 126.45,
     "Low": 120.99,
     "BR": 1,
@@ -850,7 +850,7 @@
   {
     "Name": "IDFC First Bank Ltd",
     "Symbol": "IDFCFIRSTB",
-    "Prices": 63.5,
+    "Prices": 63.55,
     "Open": 64.3,
     "Low": 63.25,
     "BR": 1,
@@ -914,7 +914,7 @@
   {
     "Name": "Indus Towers Ltd",
     "Symbol": "INDUSTOWER",
-    "Prices": 346.65,
+    "Prices": 346.5,
     "Open": 359.3,
     "Low": 346.2,
     "BR": 3,
@@ -1026,9 +1026,9 @@
   {
     "Name": "LIC Housing Finance Ltd",
     "Symbol": "LICHSGFIN",
-    "Prices": 603.4,
+    "Prices": 602.5,
     "Open": 625.05,
-    "Low": 603,
+    "Low": 602.5,
     "BR": 4,
     "B2": 604.25,
     "B1": 613.8,
@@ -1106,7 +1106,7 @@
   {
     "Name": "Navin Fluorine International Limited",
     "Symbol": "NAVINFLUOR",
-    "Prices": 3461.55,
+    "Prices": 3459.25,
     "Open": 3520,
     "Low": 3448.15,
     "BR": 3,
@@ -1122,7 +1122,7 @@
   {
     "Name": "Nestle India Ltd",
     "Symbol": "NESTLEIND",
-    "Prices": 2202.5,
+    "Prices": 2200.9,
     "Open": 2226,
     "Low": 2200,
     "BR": 3,
@@ -1138,7 +1138,7 @@
   {
     "Name": "NTPC Ltd",
     "Symbol": "NTPC",
-    "Prices": 348.35,
+    "Prices": 348.45,
     "Open": 352,
     "Low": 347.25,
     "BR": 3,
@@ -1170,7 +1170,7 @@
   {
     "Name": "PI Industries Ltd",
     "Symbol": "PIIND",
-    "Prices": 3891.75,
+    "Prices": 3900.2,
     "Open": 3969,
     "Low": 3888,
     "BR": 4,
@@ -1186,7 +1186,7 @@
   {
     "Name": "PB Fintech Ltd",
     "Symbol": "POLICYBZR",
-    "Prices": 2123.55,
+    "Prices": 2124.95,
     "Open": 2110,
     "Low": 2101.5,
     "BR": 2,
