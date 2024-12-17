@@ -80,22 +80,6 @@
     "Point": 25
   },
   {
-    "Name": "PB Fintech Ltd",
-    "Symbol": "POLICYBZR",
-    "Prices": 2165.6,
-    "Open": 2110,
-    "Low": 2101.5,
-    "BR": 2,
-    "B2": 2071.4,
-    "B1": 2116.95,
-    "S1": 2165.1,
-    "S2": 2218.15,
-    "SR": 0,
-    "High": 2179.55,
-    "Volume": 1515,
-    "Point": 25
-  },
-  {
     "Name": "Aarti Industries Ltd",
     "Symbol": "AARTIIND",
     "Prices": 432.5,
@@ -114,7 +98,7 @@
   {
     "Name": "Aditya Birla Capital Ltd",
     "Symbol": "ABCAPITAL",
-    "Prices": 193.91,
+    "Prices": 194.22,
     "Open": 196.62,
     "Low": 193.49,
     "BR": 3,
@@ -130,7 +114,7 @@
   {
     "Name": "Aditya Birla Fashion and Retail Ltd",
     "Symbol": "ABFRL",
-    "Prices": 297.6,
+    "Prices": 298.2,
     "Open": 300.1,
     "Low": 297.6,
     "BR": 3,
@@ -162,7 +146,7 @@
   {
     "Name": "Adani Energy Solutions Ltd",
     "Symbol": "ADANIENSOL",
-    "Prices": 817.85,
+    "Prices": 819.25,
     "Open": 811.5,
     "Low": 806.4,
     "BR": 2,
@@ -514,7 +498,7 @@
   {
     "Name": "Bharat Heavy Electricals Ltd",
     "Symbol": "BHEL",
-    "Prices": 246.2,
+    "Prices": 246.7,
     "Open": 246.8,
     "Low": 245.35,
     "BR": 2,
@@ -642,7 +626,7 @@
   {
     "Name": "Can Fin Homes Ltd",
     "Symbol": "CANFINHOME",
-    "Prices": 789.1,
+    "Prices": 790,
     "Open": 802.3,
     "Low": 786.35,
     "BR": 5,
@@ -930,7 +914,7 @@
   {
     "Name": "Gail (India) Ltd",
     "Symbol": "GAIL",
-    "Prices": 201.55,
+    "Prices": 201.47,
     "Open": 203,
     "Low": 201.26,
     "BR": 0,
@@ -1026,7 +1010,7 @@
   {
     "Name": "Grasim Industries Ltd",
     "Symbol": "GRASIM",
-    "Prices": 2628.2,
+    "Prices": 2630.4,
     "Open": 2685,
     "Low": 2621.1,
     "BR": 0,
@@ -1410,7 +1394,7 @@
   {
     "Name": "LIC Housing Finance Ltd",
     "Symbol": "LICHSGFIN",
-    "Prices": 611.95,
+    "Prices": 612.75,
     "Open": 625.05,
     "Low": 610.65,
     "BR": 4,
@@ -1442,9 +1426,9 @@
   {
     "Name": "L&T Finance Ltd",
     "Symbol": "LTF",
-    "Prices": 143.19,
+    "Prices": 142.99,
     "Open": 147.29,
-    "Low": 143.1,
+    "Low": 142.89,
     "BR": 1,
     "B2": 143.54,
     "B1": 145.89,
@@ -1522,7 +1506,7 @@
   {
     "Name": "Samvardhana Motherson International Ltd",
     "Symbol": "MOTHERSON",
-    "Prices": 165.6,
+    "Prices": 166.1,
     "Open": 168.58,
     "Low": 165.24,
     "BR": 0,
@@ -1570,7 +1554,7 @@
   {
     "Name": "Nestle India Ltd",
     "Symbol": "NESTLEIND",
-    "Prices": 2213,
+    "Prices": 2209.5,
     "Open": 2226,
     "Low": 2208.95,
     "BR": 3,
@@ -1696,6 +1680,22 @@
     "Point": 25
   },
   {
+    "Name": "PB Fintech Ltd",
+    "Symbol": "POLICYBZR",
+    "Prices": 2158.75,
+    "Open": 2110,
+    "Low": 2101.5,
+    "BR": 2,
+    "B2": 2071.4,
+    "B1": 2116.95,
+    "S1": 2165.1,
+    "S2": 2218.15,
+    "SR": 0,
+    "High": 2179.55,
+    "Volume": 1515,
+    "Point": 25
+  },
+  {
     "Name": "Power Grid Corporation of India Ltd",
     "Symbol": "POWERGRID",
     "Prices": 329.45,
@@ -1778,7 +1778,7 @@
   {
     "Name": "SBI Cards and Payment Services Ltd",
     "Symbol": "SBICARD",
-    "Prices": 721.2,
+    "Prices": 721.85,
     "Open": 727,
     "Low": 716.55,
     "BR": 0,
@@ -1858,9 +1858,9 @@
   {
     "Name": "SRF Ltd",
     "Symbol": "SRF",
-    "Prices": 2281.85,
+    "Prices": 2272.75,
     "Open": 2306.6,
-    "Low": 2280.05,
+    "Low": 2269.95,
     "BR": 0,
     "B2": 2269.3,
     "B1": 2282.75,
