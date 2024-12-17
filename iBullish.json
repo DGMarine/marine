@@ -64,22 +64,6 @@
     "Point": 5
   },
   {
-    "Name": "J K Cement Ltd",
-    "Symbol": "JKCEMENT",
-    "Prices": 4659.75,
-    "Open": 4721,
-    "Low": 4647.6,
-    "BR": 0,
-    "B2": 4714.45,
-    "B1": 4760.15,
-    "S1": 4809.15,
-    "S2": 4884.8,
-    "SR": 3,
-    "High": 4786.85,
-    "Volume": 1302,
-    "Point": 25
-  },
-  {
     "Name": "Mahanagar Gas Ltd",
     "Symbol": "MGL",
     "Prices": 1240.75,
@@ -110,6 +94,22 @@
     "High": 2685,
     "Volume": 1224,
     "Point": 10
+  },
+  {
+    "Name": "J K Cement Ltd",
+    "Symbol": "JKCEMENT",
+    "Prices": 4663.65,
+    "Open": 4721,
+    "Low": 4647.6,
+    "BR": 0,
+    "B2": 4714.45,
+    "B1": 4760.15,
+    "S1": 4809.15,
+    "S2": 4884.8,
+    "SR": 3,
+    "High": 4786.85,
+    "Volume": 1302,
+    "Point": 25
   },
   {
     "Name": "Astral Ltd",
@@ -192,6 +192,22 @@
     "Point": 25
   },
   {
+    "Name": "Power Finance Corporation Ltd",
+    "Symbol": "PFC",
+    "Prices": 497.2,
+    "Open": 506.5,
+    "Low": 497.05,
+    "BR": 0,
+    "B2": 494.95,
+    "B1": 504.35,
+    "S1": 513.6,
+    "S2": 522.7,
+    "SR": 1,
+    "High": 513.25,
+    "Volume": 2915,
+    "Point": 5
+  },
+  {
     "Name": "Gail (India) Ltd",
     "Symbol": "GAIL",
     "Prices": 200.13,
@@ -208,22 +224,6 @@
     "Point": 1.25
   },
   {
-    "Name": "Power Finance Corporation Ltd",
-    "Symbol": "PFC",
-    "Prices": 497.7,
-    "Open": 506.5,
-    "Low": 497.55,
-    "BR": 0,
-    "B2": 494.95,
-    "B1": 504.35,
-    "S1": 513.6,
-    "S2": 522.7,
-    "SR": 1,
-    "High": 513.25,
-    "Volume": 2915,
-    "Point": 5
-  },
-  {
     "Name": "Ashok Leyland Ltd",
     "Symbol": "ASHOKLEY",
     "Prices": 230.3,
@@ -238,22 +238,6 @@
     "High": 236.61,
     "Volume": 3738,
     "Point": 1.25
-  },
-  {
-    "Name": "HDFC Asset Management Company Ltd",
-    "Symbol": "HDFCAMC",
-    "Prices": 4404.45,
-    "Open": 4500,
-    "Low": 4402,
-    "BR": 0,
-    "B2": 4414.6,
-    "B1": 4460.7,
-    "S1": 4504.75,
-    "S2": 4558,
-    "SR": 3,
-    "High": 4508.45,
-    "Volume": 1952,
-    "Point": 25
   },
   {
     "Name": "Indian Energy Exchange Ltd",
@@ -286,6 +270,22 @@
     "High": 1259.5,
     "Volume": 4374,
     "Point": 10
+  },
+  {
+    "Name": "HDFC Asset Management Company Ltd",
+    "Symbol": "HDFCAMC",
+    "Prices": 4410.15,
+    "Open": 4500,
+    "Low": 4402,
+    "BR": 0,
+    "B2": 4414.6,
+    "B1": 4460.7,
+    "S1": 4504.75,
+    "S2": 4558,
+    "SR": 3,
+    "High": 4508.45,
+    "Volume": 1952,
+    "Point": 25
   },
   {
     "Name": "Bata India Ltd",
@@ -432,6 +432,22 @@
     "Point": 50
   },
   {
+    "Name": "Dr Reddy's Laboratories Ltd",
+    "Symbol": "DRREDDY",
+    "Prices": 1246.45,
+    "Open": 1269,
+    "Low": 1243.75,
+    "BR": 0,
+    "B2": 1248.2,
+    "B1": 1257.45,
+    "S1": 1267.6,
+    "S2": 1277.35,
+    "SR": 1,
+    "High": 1270.95,
+    "Volume": 3081,
+    "Point": 5
+  },
+  {
     "Name": "ICICI Bank Ltd",
     "Symbol": "ICICIBANK",
     "Prices": 1331.05,
@@ -464,19 +480,19 @@
     "Point": 10
   },
   {
-    "Name": "Chambal Fertilisers and Chemicals Ltd",
-    "Symbol": "CHAMBLFERT",
-    "Prices": 529.7,
-    "Open": 541,
-    "Low": 527.85,
+    "Name": "Indraprastha Gas Limited",
+    "Symbol": "IGL",
+    "Prices": 381.55,
+    "Open": 393.95,
+    "Low": 381.55,
     "BR": 0,
-    "B2": 524.35,
-    "B1": 533.4,
-    "S1": 543.7,
-    "S2": 553.15,
-    "SR": 2,
-    "High": 546.5,
-    "Volume": 6381,
+    "B2": 374.3,
+    "B1": 384.25,
+    "S1": 393.35,
+    "S2": 403.25,
+    "SR": 1,
+    "High": 394.55,
+    "Volume": 3097,
     "Point": 5
   },
   {
@@ -560,35 +576,19 @@
     "Point": 10
   },
   {
-    "Name": "Dr Reddy's Laboratories Ltd",
-    "Symbol": "DRREDDY",
-    "Prices": 1250.1,
-    "Open": 1269,
-    "Low": 1243.75,
+    "Name": "Chambal Fertilisers and Chemicals Ltd",
+    "Symbol": "CHAMBLFERT",
+    "Prices": 530.4,
+    "Open": 541,
+    "Low": 527.85,
     "BR": 0,
-    "B2": 1248.2,
-    "B1": 1257.45,
-    "S1": 1267.6,
-    "S2": 1277.35,
-    "SR": 1,
-    "High": 1270.95,
-    "Volume": 3081,
-    "Point": 5
-  },
-  {
-    "Name": "Indraprastha Gas Limited",
-    "Symbol": "IGL",
-    "Prices": 382.05,
-    "Open": 393.95,
-    "Low": 381.9,
-    "BR": 0,
-    "B2": 374.3,
-    "B1": 384.25,
-    "S1": 393.35,
-    "S2": 403.25,
-    "SR": 1,
-    "High": 394.55,
-    "Volume": 3097,
+    "B2": 524.35,
+    "B1": 533.4,
+    "S1": 543.7,
+    "S2": 553.15,
+    "SR": 2,
+    "High": 546.5,
+    "Volume": 6381,
     "Point": 5
   },
   {
@@ -706,7 +706,7 @@
   {
     "Name": "Bajaj Finance Ltd",
     "Symbol": "BAJFINANCE",
-    "Prices": 7123.2,
+    "Prices": 7117.1,
     "Open": 7200,
     "Low": 7110,
     "BR": 0,
@@ -768,6 +768,22 @@
     "Point": 10
   },
   {
+    "Name": "Info Edge (India) Ltd",
+    "Symbol": "NAUKRI",
+    "Prices": 8830.95,
+    "Open": 8755,
+    "Low": 8755,
+    "BR": 0,
+    "B2": 8750.1,
+    "B1": 8842.75,
+    "S1": 8947.35,
+    "S2": 9049.45,
+    "SR": 4,
+    "High": 8947.45,
+    "Volume": 6181,
+    "Point": 50
+  },
+  {
     "Name": "Persistent Systems Ltd",
     "Symbol": "PERSISTENT",
     "Prices": 6533.8,
@@ -800,22 +816,6 @@
     "Point": 250
   },
   {
-    "Name": "Info Edge (India) Ltd",
-    "Symbol": "NAUKRI",
-    "Prices": 8832.75,
-    "Open": 8755,
-    "Low": 8755,
-    "BR": 0,
-    "B2": 8750.1,
-    "B1": 8842.75,
-    "S1": 8947.35,
-    "S2": 9049.45,
-    "SR": 4,
-    "High": 8947.45,
-    "Volume": 6181,
-    "Point": 50
-  },
-  {
     "Name": "Central Depository Services (India) Ltd",
     "Symbol": "CDSL",
     "Prices": 1964.5,
@@ -832,9 +832,25 @@
     "Point": 10
   },
   {
+    "Name": "Piramal Enterprises Ltd",
+    "Symbol": "PEL",
+    "Prices": 1224.9,
+    "Open": 1242,
+    "Low": 1223.85,
+    "BR": 0,
+    "B2": 1199,
+    "B1": 1226.05,
+    "S1": 1245.3,
+    "S2": 1262.45,
+    "SR": 4,
+    "High": 1250,
+    "Volume": 1044,
+    "Point": 10
+  },
+  {
     "Name": "Apollo Hospitals Enterprise Ltd",
     "Symbol": "APOLLOHOSP",
-    "Prices": 7232.2,
+    "Prices": 7217.6,
     "Open": 7227,
     "Low": 7203.3,
     "BR": 0,
@@ -866,7 +882,7 @@
   {
     "Name": "Coforge Ltd",
     "Symbol": "COFORGE",
-    "Prices": 9377.7,
+    "Prices": 9372.3,
     "Open": 9290,
     "Low": 9280,
     "BR": 0,
@@ -946,7 +962,7 @@
   {
     "Name": "HCL Technologies Ltd",
     "Symbol": "HCLTECH",
-    "Prices": 1948.05,
+    "Prices": 1947.05,
     "Open": 1945.3,
     "Low": 1938,
     "BR": 0,
@@ -1106,7 +1122,7 @@
   {
     "Name": "Oberoi Realty Ltd",
     "Symbol": "OBEROIRLTY",
-    "Prices": 2321,
+    "Prices": 2316,
     "Open": 2255,
     "Low": 2241.25,
     "BR": 0,
@@ -1122,7 +1138,7 @@
   {
     "Name": "One 97 Communications Ltd",
     "Symbol": "PAYTM",
-    "Prices": 1022.35,
+    "Prices": 1020.1,
     "Open": 1005,
     "Low": 999.05,
     "BR": 0,
@@ -1133,22 +1149,6 @@
     "SR": 1,
     "High": 1062.95,
     "Volume": 7421,
-    "Point": 10
-  },
-  {
-    "Name": "Piramal Enterprises Ltd",
-    "Symbol": "PEL",
-    "Prices": 1228.45,
-    "Open": 1242,
-    "Low": 1227.75,
-    "BR": 0,
-    "B2": 1199,
-    "B1": 1226.05,
-    "S1": 1245.3,
-    "S2": 1262.45,
-    "SR": 4,
-    "High": 1250,
-    "Volume": 1044,
     "Point": 10
   }
 ]
