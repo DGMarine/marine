@@ -64,27 +64,11 @@
     "Point": 1.25
   },
   {
-    "Name": "Samvardhana Motherson International Ltd",
-    "Symbol": "MOTHERSON",
-    "Prices": 165.6,
-    "Open": 168.58,
-    "Low": 165.24,
-    "BR": 0,
-    "B2": 166.47,
-    "B1": 168.82,
-    "S1": 171.27,
-    "S2": 173.87,
-    "SR": 1,
-    "High": 169.41,
-    "Volume": 4679,
-    "Point": 1.25
-  },
-  {
     "Name": "L&T Finance Ltd",
     "Symbol": "LTF",
-    "Prices": 143.19,
+    "Prices": 142.99,
     "Open": 147.29,
-    "Low": 143.1,
+    "Low": 142.89,
     "BR": 1,
     "B2": 143.54,
     "B1": 145.89,
@@ -128,11 +112,27 @@
     "Point": 25
   },
   {
+    "Name": "Samvardhana Motherson International Ltd",
+    "Symbol": "MOTHERSON",
+    "Prices": 166.1,
+    "Open": 168.58,
+    "Low": 165.24,
+    "BR": 0,
+    "B2": 166.47,
+    "B1": 168.82,
+    "S1": 171.27,
+    "S2": 173.87,
+    "SR": 1,
+    "High": 169.41,
+    "Volume": 4679,
+    "Point": 1.25
+  },
+  {
     "Name": "Mphasis Ltd",
     "Symbol": "MPHASIS",
-    "Prices": 3168.55,
+    "Prices": 3172.05,
     "Open": 3197.25,
-    "Low": 3167,
+    "Low": 3165.8,
     "BR": 1,
     "B2": 3174.5,
     "B1": 3221.85,
@@ -162,7 +162,7 @@
   {
     "Name": "Larsen and Toubro Ltd",
     "Symbol": "LT",
-    "Prices": 3811.3,
+    "Prices": 3812.6,
     "Open": 3863.05,
     "Low": 3799.55,
     "BR": 0,
@@ -192,38 +192,6 @@
     "Point": 10
   },
   {
-    "Name": "Astral Ltd",
-    "Symbol": "ASTRAL",
-    "Prices": 1838,
-    "Open": 1850,
-    "Low": 1832.95,
-    "BR": 0,
-    "B2": 1840.65,
-    "B1": 1859.95,
-    "S1": 1887.9,
-    "S2": 1911.5,
-    "SR": 4,
-    "High": 1864.5,
-    "Volume": 1479,
-    "Point": 10
-  },
-  {
-    "Name": "Grasim Industries Ltd",
-    "Symbol": "GRASIM",
-    "Prices": 2628.2,
-    "Open": 2685,
-    "Low": 2621.1,
-    "BR": 0,
-    "B2": 2639.6,
-    "B1": 2659.25,
-    "S1": 2678.2,
-    "S2": 2698.3,
-    "SR": 0,
-    "High": 2685,
-    "Volume": 1224,
-    "Point": 10
-  },
-  {
     "Name": "Mahanagar Gas Ltd",
     "Symbol": "MGL",
     "Prices": 1253.15,
@@ -237,6 +205,22 @@
     "SR": 1,
     "High": 1290,
     "Volume": 2291,
+    "Point": 10
+  },
+  {
+    "Name": "Grasim Industries Ltd",
+    "Symbol": "GRASIM",
+    "Prices": 2630.4,
+    "Open": 2685,
+    "Low": 2621.1,
+    "BR": 0,
+    "B2": 2639.6,
+    "B1": 2659.25,
+    "S1": 2678.2,
+    "S2": 2698.3,
+    "SR": 0,
+    "High": 2685,
+    "Volume": 1224,
     "Point": 10
   },
   {
@@ -254,6 +238,22 @@
     "High": 187.16,
     "Volume": 1005,
     "Point": 1.25
+  },
+  {
+    "Name": "Astral Ltd",
+    "Symbol": "ASTRAL",
+    "Prices": 1842.65,
+    "Open": 1850,
+    "Low": 1832.95,
+    "BR": 0,
+    "B2": 1840.65,
+    "B1": 1859.95,
+    "S1": 1887.9,
+    "S2": 1911.5,
+    "SR": 4,
+    "High": 1864.5,
+    "Volume": 1479,
+    "Point": 10
   },
   {
     "Name": "Bank of Baroda Ltd",
@@ -368,6 +368,22 @@
     "Point": 5
   },
   {
+    "Name": "Gail (India) Ltd",
+    "Symbol": "GAIL",
+    "Prices": 201.47,
+    "Open": 203,
+    "Low": 201.26,
+    "BR": 0,
+    "B2": 200.65,
+    "B1": 202.85,
+    "S1": 205.3,
+    "S2": 207.55,
+    "SR": 0,
+    "High": 205,
+    "Volume": 1920,
+    "Point": 1.25
+  },
+  {
     "Name": "JSW Steel Limited",
     "Symbol": "JSWSTEEL",
     "Prices": 975.25,
@@ -382,22 +398,6 @@
     "High": 990.8,
     "Volume": 2088,
     "Point": 5
-  },
-  {
-    "Name": "Gail (India) Ltd",
-    "Symbol": "GAIL",
-    "Prices": 201.55,
-    "Open": 203,
-    "Low": 201.26,
-    "BR": 0,
-    "B2": 200.65,
-    "B1": 202.85,
-    "S1": 205.3,
-    "S2": 207.55,
-    "SR": 0,
-    "High": 205,
-    "Volume": 1920,
-    "Point": 1.25
   },
   {
     "Name": "Chambal Fertilisers and Chemicals Ltd",
@@ -656,22 +656,6 @@
     "Point": 0.5
   },
   {
-    "Name": "IPCA Laboratories Ltd",
-    "Symbol": "IPCALAB",
-    "Prices": 1563.1,
-    "Open": 1570.8,
-    "Low": 1555.5,
-    "BR": 0,
-    "B2": 1549.6,
-    "B1": 1568.6,
-    "S1": 1588.5,
-    "S2": 1606.6,
-    "SR": 5,
-    "High": 1581.4,
-    "Volume": 1203,
-    "Point": 10
-  },
-  {
     "Name": "Asian Paints Ltd",
     "Symbol": "ASIANPAINT",
     "Prices": 2375.4,
@@ -720,6 +704,22 @@
     "Point": 0.5
   },
   {
+    "Name": "IPCA Laboratories Ltd",
+    "Symbol": "IPCALAB",
+    "Prices": 1564.05,
+    "Open": 1570.8,
+    "Low": 1555.5,
+    "BR": 0,
+    "B2": 1549.6,
+    "B1": 1568.6,
+    "S1": 1588.5,
+    "S2": 1606.6,
+    "SR": 5,
+    "High": 1581.4,
+    "Volume": 1203,
+    "Point": 10
+  },
+  {
     "Name": "Indian Energy Exchange Ltd",
     "Symbol": "IEX",
     "Prices": 187.8,
@@ -749,22 +749,6 @@
     "SR": 2,
     "High": 6558,
     "Volume": 5020,
-    "Point": 50
-  },
-  {
-    "Name": "Polycab India Ltd",
-    "Symbol": "POLYCAB",
-    "Prices": 7502,
-    "Open": 7550,
-    "Low": 7451,
-    "BR": 0,
-    "B2": 7425.7,
-    "B1": 7519.25,
-    "S1": 7613.55,
-    "S2": 7711.1,
-    "SR": 3,
-    "High": 7550,
-    "Volume": 1232,
     "Point": 50
   },
   {
@@ -846,6 +830,22 @@
     "High": 394.55,
     "Volume": 3097,
     "Point": 5
+  },
+  {
+    "Name": "Polycab India Ltd",
+    "Symbol": "POLYCAB",
+    "Prices": 7509.05,
+    "Open": 7550,
+    "Low": 7451,
+    "BR": 0,
+    "B2": 7425.7,
+    "B1": 7519.25,
+    "S1": 7613.55,
+    "S2": 7711.1,
+    "SR": 3,
+    "High": 7550,
+    "Volume": 1232,
+    "Point": 50
   },
   {
     "Name": "HCL Technologies Ltd",
@@ -1474,7 +1474,7 @@
   {
     "Name": "Jubilant FoodWorks Ltd",
     "Symbol": "JUBLFOOD",
-    "Prices": 689.6,
+    "Prices": 689.9,
     "Open": 686.65,
     "Low": 684.4,
     "BR": 0,
