@@ -32,22 +32,6 @@
     "Point": 25
   },
   {
-    "Name": "Multi Commodity Exchange Of India Ltd",
-    "Symbol": "MCX",
-    "Prices": 6748.45,
-    "Open": 6706.75,
-    "Low": 6655,
-    "BR": 0,
-    "B2": 6535.05,
-    "B1": 6628.05,
-    "S1": 6719.95,
-    "S2": 6819.85,
-    "SR": 1,
-    "High": 6781.45,
-    "Volume": 2230,
-    "Point": 50
-  },
-  {
     "Name": "ITC Ltd",
     "Symbol": "ITC",
     "Prices": 472.7,
@@ -66,7 +50,7 @@
   {
     "Name": "Aarti Industries Ltd",
     "Symbol": "AARTIIND",
-    "Prices": 432.35,
+    "Prices": 432.8,
     "Open": 438.4,
     "Low": 432,
     "BR": 4,
@@ -82,9 +66,9 @@
   {
     "Name": "Aditya Birla Capital Ltd",
     "Symbol": "ABCAPITAL",
-    "Prices": 193.57,
+    "Prices": 193.8,
     "Open": 196.62,
-    "Low": 193.5,
+    "Low": 193.49,
     "BR": 3,
     "B2": 193.37,
     "B1": 195.72,
@@ -98,9 +82,9 @@
   {
     "Name": "Aditya Birla Fashion and Retail Ltd",
     "Symbol": "ABFRL",
-    "Prices": 298.35,
+    "Prices": 298.55,
     "Open": 300.1,
-    "Low": 298.2,
+    "Low": 298,
     "BR": 3,
     "B2": 297.6,
     "B1": 301.65,
@@ -130,7 +114,7 @@
   {
     "Name": "Adani Energy Solutions Ltd",
     "Symbol": "ADANIENSOL",
-    "Prices": 817.8,
+    "Prices": 819.2,
     "Open": 811.5,
     "Low": 806.4,
     "BR": 2,
@@ -322,7 +306,7 @@
   {
     "Name": "Bajaj Finserv Ltd",
     "Symbol": "BAJAJFINSV",
-    "Prices": 1647.5,
+    "Prices": 1647.9,
     "Open": 1673,
     "Low": 1633.05,
     "BR": 0,
@@ -386,9 +370,9 @@
   {
     "Name": "Bank of Baroda Ltd",
     "Symbol": "BANKBARODA",
-    "Prices": 255.75,
+    "Prices": 255.51,
     "Open": 257.51,
-    "Low": 255.62,
+    "Low": 255.3,
     "BR": 0,
     "B2": 255.69,
     "B1": 258.04,
@@ -466,9 +450,9 @@
   {
     "Name": "Bharat Forge Ltd",
     "Symbol": "BHARATFORG",
-    "Prices": 1351.95,
+    "Prices": 1350.45,
     "Open": 1364.1,
-    "Low": 1351.95,
+    "Low": 1350.1,
     "BR": 1,
     "B2": 1347.4,
     "B1": 1366.2,
@@ -482,9 +466,9 @@
   {
     "Name": "Bharat Heavy Electricals Ltd",
     "Symbol": "BHEL",
-    "Prices": 245.85,
+    "Prices": 245.9,
     "Open": 246.8,
-    "Low": 245.7,
+    "Low": 245.4,
     "BR": 2,
     "B2": 242.55,
     "B1": 247.25,
@@ -530,7 +514,7 @@
   {
     "Name": "Britannia Industries Ltd",
     "Symbol": "BRITANNIA",
-    "Prices": 4801.25,
+    "Prices": 4800,
     "Open": 4816.5,
     "Low": 4782.05,
     "BR": 2,
@@ -610,9 +594,9 @@
   {
     "Name": "Can Fin Homes Ltd",
     "Symbol": "CANFINHOME",
-    "Prices": 787.4,
+    "Prices": 790.9,
     "Open": 802.3,
-    "Low": 786.5,
+    "Low": 786.35,
     "BR": 5,
     "B2": 780.7,
     "B1": 795,
@@ -642,7 +626,7 @@
   {
     "Name": "Cipla Ltd",
     "Symbol": "CIPLA",
-    "Prices": 1468.55,
+    "Prices": 1463.35,
     "Open": 1470,
     "Low": 1459.95,
     "BR": 3,
@@ -658,7 +642,7 @@
   {
     "Name": "Coal India Ltd",
     "Symbol": "COALINDIA",
-    "Prices": 405.05,
+    "Prices": 404.8,
     "Open": 410.45,
     "Low": 404.35,
     "BR": 1,
@@ -674,7 +658,7 @@
   {
     "Name": "Colgate-Palmolive (India) Ltd",
     "Symbol": "COLPAL",
-    "Prices": 2800,
+    "Prices": 2804,
     "Open": 2830.1,
     "Low": 2792.2,
     "BR": 3,
@@ -690,7 +674,7 @@
   {
     "Name": "Container Corporation of India Ltd",
     "Symbol": "CONCOR",
-    "Prices": 816.1,
+    "Prices": 816.3,
     "Open": 819.9,
     "Low": 813.4,
     "BR": 3,
@@ -754,7 +738,7 @@
   {
     "Name": "Dalmia Bharat Ltd",
     "Symbol": "DALBHARAT",
-    "Prices": 1946.55,
+    "Prices": 1946.4,
     "Open": 1955,
     "Low": 1938.55,
     "BR": 0,
@@ -770,7 +754,7 @@
   {
     "Name": "Deepak Nitrite Ltd",
     "Symbol": "DEEPAKNTR",
-    "Prices": 2673.05,
+    "Prices": 2671.2,
     "Open": 2692.65,
     "Low": 2666.8,
     "BR": 3,
@@ -802,7 +786,7 @@
   {
     "Name": "Avenue Supermarts Ltd",
     "Symbol": "DMART",
-    "Prices": 3576,
+    "Prices": 3574.2,
     "Open": 3627.05,
     "Low": 3572.3,
     "BR": 3,
@@ -834,7 +818,7 @@
   {
     "Name": "Eicher Motors Ltd",
     "Symbol": "EICHERMOT",
-    "Prices": 4799.55,
+    "Prices": 4797.25,
     "Open": 4808.1,
     "Low": 4787.05,
     "BR": 2,
@@ -898,7 +882,7 @@
   {
     "Name": "Gail (India) Ltd",
     "Symbol": "GAIL",
-    "Prices": 202.06,
+    "Prices": 201.64,
     "Open": 203,
     "Low": 201.39,
     "BR": 0,
@@ -930,9 +914,9 @@
   {
     "Name": "Gujarat Narmada Vly Frtlzrs & Chmcl Ltd",
     "Symbol": "GNFC",
-    "Prices": 619,
+    "Prices": 618.15,
     "Open": 620.3,
-    "Low": 618.85,
+    "Low": 617,
     "BR": 3,
     "B2": 605.3,
     "B1": 614.2,
@@ -946,7 +930,7 @@
   {
     "Name": "Godrej Consumer Products Limited",
     "Symbol": "GODREJCP",
-    "Prices": 1099.9,
+    "Prices": 1100.15,
     "Open": 1112.65,
     "Low": 1098.5,
     "BR": 3,
@@ -994,9 +978,9 @@
   {
     "Name": "Grasim Industries Ltd",
     "Symbol": "GRASIM",
-    "Prices": 2635.8,
+    "Prices": 2626.05,
     "Open": 2685,
-    "Low": 2630,
+    "Low": 2621.1,
     "BR": 0,
     "B2": 2639.6,
     "B1": 2659.25,
@@ -1154,9 +1138,9 @@
   {
     "Name": "ICICI Lombard General Insurance Co Ltd",
     "Symbol": "ICICIGI",
-    "Prices": 1928.95,
+    "Prices": 1925.95,
     "Open": 1964,
-    "Low": 1928.55,
+    "Low": 1925.45,
     "BR": 2,
     "B2": 1924.7,
     "B1": 1945.1,
@@ -1298,7 +1282,7 @@
   {
     "Name": "Irb Infrastructure Developers Ltd",
     "Symbol": "IRB",
-    "Prices": 58.52,
+    "Prices": 58.55,
     "Open": 58.4,
     "Low": 58.13,
     "BR": 1,
@@ -1314,7 +1298,7 @@
   {
     "Name": "Indian Railway Ctrng nd Trsm Corp Ltd",
     "Symbol": "IRCTC",
-    "Prices": 834.9,
+    "Prices": 834.45,
     "Open": 839.8,
     "Low": 834.05,
     "BR": 0,
@@ -1380,7 +1364,7 @@
     "Symbol": "LICHSGFIN",
     "Prices": 611.5,
     "Open": 625.05,
-    "Low": 611,
+    "Low": 610.65,
     "BR": 4,
     "B2": 604.25,
     "B1": 613.8,
@@ -1410,7 +1394,7 @@
   {
     "Name": "L&T Finance Ltd",
     "Symbol": "LTF",
-    "Prices": 143.44,
+    "Prices": 143.55,
     "Open": 147.29,
     "Low": 143.29,
     "BR": 1,
@@ -1472,6 +1456,22 @@
     "Point": 50
   },
   {
+    "Name": "Multi Commodity Exchange Of India Ltd",
+    "Symbol": "MCX",
+    "Prices": 6715,
+    "Open": 6706.75,
+    "Low": 6655,
+    "BR": 0,
+    "B2": 6535.05,
+    "B1": 6628.05,
+    "S1": 6719.95,
+    "S2": 6819.85,
+    "SR": 1,
+    "High": 6781.45,
+    "Volume": 2230,
+    "Point": 50
+  },
+  {
     "Name": "Mahanagar Gas Ltd",
     "Symbol": "MGL",
     "Prices": 1256.45,
@@ -1490,7 +1490,7 @@
   {
     "Name": "Samvardhana Motherson International Ltd",
     "Symbol": "MOTHERSON",
-    "Prices": 165.67,
+    "Prices": 165.75,
     "Open": 168.58,
     "Low": 165.5,
     "BR": 0,
@@ -1538,7 +1538,7 @@
   {
     "Name": "Nestle India Ltd",
     "Symbol": "NESTLEIND",
-    "Prices": 2214.1,
+    "Prices": 2214,
     "Open": 2226,
     "Low": 2210,
     "BR": 3,
@@ -1602,7 +1602,7 @@
   {
     "Name": "Oil and Natural Gas Corporation Ltd",
     "Symbol": "ONGC",
-    "Prices": 249.4,
+    "Prices": 249.45,
     "Open": 251.75,
     "Low": 248.4,
     "BR": 1,
@@ -1682,7 +1682,7 @@
   {
     "Name": "PB Fintech Ltd",
     "Symbol": "POLICYBZR",
-    "Prices": 2164.6,
+    "Prices": 2158.1,
     "Open": 2110,
     "Low": 2101.5,
     "BR": 2,
@@ -1778,7 +1778,7 @@
   {
     "Name": "SBI Cards and Payment Services Ltd",
     "Symbol": "SBICARD",
-    "Prices": 720.8,
+    "Prices": 721.6,
     "Open": 727,
     "Low": 716.55,
     "BR": 0,
@@ -1810,9 +1810,9 @@
   {
     "Name": "State Bank of India",
     "Symbol": "SBIN",
-    "Prices": 851.05,
+    "Prices": 852.15,
     "Open": 858.55,
-    "Low": 851,
+    "Low": 850.25,
     "BR": 0,
     "B2": 843.4,
     "B1": 852.9,
@@ -1858,7 +1858,7 @@
   {
     "Name": "SRF Ltd",
     "Symbol": "SRF",
-    "Prices": 2297.4,
+    "Prices": 2299.45,
     "Open": 2306.6,
     "Low": 2289.55,
     "BR": 0,
@@ -1890,7 +1890,7 @@
   {
     "Name": "Tata Consumer Products Ltd",
     "Symbol": "TATACONSUM",
-    "Prices": 911.75,
+    "Prices": 912.05,
     "Open": 920.35,
     "Low": 907.05,
     "BR": 2,
