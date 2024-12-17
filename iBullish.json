@@ -2,9 +2,9 @@
   {
     "Name": "Cummins India Ltd",
     "Symbol": "CUMMINSIND",
-    "Prices": 3547.8,
+    "Prices": 3549.05,
     "Open": 3684,
-    "Low": 3546.1,
+    "Low": 3543.2,
     "BR": 0,
     "B2": 3623.6,
     "B1": 3671.95,
@@ -112,6 +112,22 @@
     "Point": 25
   },
   {
+    "Name": "Bharat Electronics Ltd",
+    "Symbol": "BEL",
+    "Prices": 310.9,
+    "Open": 315.55,
+    "Low": 310.1,
+    "BR": 0,
+    "B2": 311.7,
+    "B1": 316.55,
+    "S1": 321.55,
+    "S2": 325.9,
+    "SR": 0,
+    "High": 318.65,
+    "Volume": 5187,
+    "Point": 2.5
+  },
+  {
     "Name": "City Union Bank Ltd",
     "Symbol": "CUB",
     "Prices": 182.42,
@@ -126,22 +142,6 @@
     "High": 187.16,
     "Volume": 1005,
     "Point": 1.25
-  },
-  {
-    "Name": "Bharat Electronics Ltd",
-    "Symbol": "BEL",
-    "Prices": 311.35,
-    "Open": 315.55,
-    "Low": 310.35,
-    "BR": 0,
-    "B2": 311.7,
-    "B1": 316.55,
-    "S1": 321.55,
-    "S2": 325.9,
-    "SR": 0,
-    "High": 318.65,
-    "Volume": 5187,
-    "Point": 2.5
   },
   {
     "Name": "Astral Ltd",
@@ -224,19 +224,19 @@
     "Point": 5
   },
   {
-    "Name": "Ashok Leyland Ltd",
-    "Symbol": "ASHOKLEY",
-    "Prices": 230.3,
-    "Open": 234.84,
-    "Low": 230.12,
+    "Name": "Indian Energy Exchange Ltd",
+    "Symbol": "IEX",
+    "Prices": 186.02,
+    "Open": 189.65,
+    "Low": 185.64,
     "BR": 0,
-    "B2": 231,
-    "B1": 233.25,
-    "S1": 235.75,
-    "S2": 238.15,
+    "B2": 186.09,
+    "B1": 188.29,
+    "S1": 190.79,
+    "S2": 193.24,
     "SR": 0,
-    "High": 236.61,
-    "Volume": 3738,
+    "High": 189.65,
+    "Volume": 1677,
     "Point": 1.25
   },
   {
@@ -254,38 +254,6 @@
     "High": 4508.45,
     "Volume": 1952,
     "Point": 25
-  },
-  {
-    "Name": "Indian Energy Exchange Ltd",
-    "Symbol": "IEX",
-    "Prices": 186.14,
-    "Open": 189.65,
-    "Low": 186.1,
-    "BR": 0,
-    "B2": 186.09,
-    "B1": 188.29,
-    "S1": 190.79,
-    "S2": 193.24,
-    "SR": 0,
-    "High": 189.65,
-    "Volume": 1677,
-    "Point": 1.25
-  },
-  {
-    "Name": "Adani Ports and Special Economic Zone Ld",
-    "Symbol": "ADANIPORTS",
-    "Prices": 1232.1,
-    "Open": 1235.1,
-    "Low": 1230.4,
-    "BR": 0,
-    "B2": 1228.4,
-    "B1": 1246.25,
-    "S1": 1264.6,
-    "S2": 1284.15,
-    "SR": 0,
-    "High": 1259.5,
-    "Volume": 4374,
-    "Point": 10
   },
   {
     "Name": "Bata India Ltd",
@@ -320,6 +288,22 @@
     "Point": 10
   },
   {
+    "Name": "Ashok Leyland Ltd",
+    "Symbol": "ASHOKLEY",
+    "Prices": 230.81,
+    "Open": 234.84,
+    "Low": 230.04,
+    "BR": 0,
+    "B2": 231,
+    "B1": 233.25,
+    "S1": 235.75,
+    "S2": 238.15,
+    "SR": 0,
+    "High": 236.61,
+    "Volume": 3738,
+    "Point": 1.25
+  },
+  {
     "Name": "HDFC Bank Ltd",
     "Symbol": "HDFCBANK",
     "Prices": 1832.7,
@@ -334,6 +318,22 @@
     "High": 1862.35,
     "Volume": 15706,
     "Point": 5
+  },
+  {
+    "Name": "Adani Ports and Special Economic Zone Ld",
+    "Symbol": "ADANIPORTS",
+    "Prices": 1233.4,
+    "Open": 1235.1,
+    "Low": 1229.05,
+    "BR": 0,
+    "B2": 1228.4,
+    "B1": 1246.25,
+    "S1": 1264.6,
+    "S2": 1284.15,
+    "SR": 0,
+    "High": 1259.5,
+    "Volume": 4374,
+    "Point": 10
   },
   {
     "Name": "Punjab National Bank",
@@ -354,7 +354,7 @@
   {
     "Name": "Canara Bank Ltd",
     "Symbol": "CANBK",
-    "Prices": 105.35,
+    "Prices": 105.37,
     "Open": 106.69,
     "Low": 105.21,
     "BR": 0,
@@ -366,6 +366,22 @@
     "High": 107.3,
     "Volume": 3506,
     "Point": 0.5
+  },
+  {
+    "Name": "ACC Ltd",
+    "Symbol": "ACC",
+    "Prices": 2201.15,
+    "Open": 2247,
+    "Low": 2198.2,
+    "BR": 0,
+    "B2": 2204.15,
+    "B1": 2223,
+    "S1": 2242.35,
+    "S2": 2259.75,
+    "SR": 0,
+    "High": 2247.1,
+    "Volume": 1182,
+    "Point": 10
   },
   {
     "Name": "Bank of Baroda Ltd",
@@ -382,54 +398,6 @@
     "High": 259.3,
     "Volume": 2391,
     "Point": 1.25
-  },
-  {
-    "Name": "ACC Ltd",
-    "Symbol": "ACC",
-    "Prices": 2202,
-    "Open": 2247,
-    "Low": 2200.75,
-    "BR": 0,
-    "B2": 2204.15,
-    "B1": 2223,
-    "S1": 2242.35,
-    "S2": 2259.75,
-    "SR": 0,
-    "High": 2247.1,
-    "Volume": 1182,
-    "Point": 10
-  },
-  {
-    "Name": "Glenmark Pharmaceuticals Ltd",
-    "Symbol": "GLENMARK",
-    "Prices": 1511.2,
-    "Open": 1548.7,
-    "Low": 1505.75,
-    "BR": 0,
-    "B2": 1506.75,
-    "B1": 1525.2,
-    "S1": 1545,
-    "S2": 1564.2,
-    "SR": 0,
-    "High": 1554.9,
-    "Volume": 2251,
-    "Point": 10
-  },
-  {
-    "Name": "Maruti Suzuki India Ltd",
-    "Symbol": "MARUTI",
-    "Prices": 11108,
-    "Open": 11263,
-    "Low": 11070,
-    "BR": 0,
-    "B2": 11112.75,
-    "B1": 11208.65,
-    "S1": 11307.85,
-    "S2": 11411.2,
-    "SR": 0,
-    "High": 11272.45,
-    "Volume": 10627,
-    "Point": 50
   },
   {
     "Name": "IPCA Laboratories Ltd",
@@ -464,20 +432,20 @@
     "Point": 5
   },
   {
-    "Name": "ICICI Bank Ltd",
-    "Symbol": "ICICIBANK",
-    "Prices": 1331.05,
-    "Open": 1342,
-    "Low": 1326.05,
+    "Name": "Maruti Suzuki India Ltd",
+    "Symbol": "MARUTI",
+    "Prices": 11123.9,
+    "Open": 11263,
+    "Low": 11070,
     "BR": 0,
-    "B2": 1332.4,
-    "B1": 1341.4,
-    "S1": 1351.2,
-    "S2": 1361,
-    "SR": 2,
-    "High": 1348.1,
-    "Volume": 8805,
-    "Point": 5
+    "B2": 11112.75,
+    "B1": 11208.65,
+    "S1": 11307.85,
+    "S2": 11411.2,
+    "SR": 0,
+    "High": 11272.45,
+    "Volume": 10627,
+    "Point": 50
   },
   {
     "Name": "Indian Railway Ctrng nd Trsm Corp Ltd",
@@ -493,6 +461,22 @@
     "SR": 0,
     "High": 842.5,
     "Volume": 1223,
+    "Point": 5
+  },
+  {
+    "Name": "ICICI Bank Ltd",
+    "Symbol": "ICICIBANK",
+    "Prices": 1332.6,
+    "Open": 1342,
+    "Low": 1326.05,
+    "BR": 0,
+    "B2": 1332.4,
+    "B1": 1341.4,
+    "S1": 1351.2,
+    "S2": 1361,
+    "SR": 2,
+    "High": 1348.1,
+    "Volume": 8805,
     "Point": 5
   },
   {
@@ -592,6 +576,22 @@
     "Point": 5
   },
   {
+    "Name": "Adani Enterprises Ltd",
+    "Symbol": "ADANIENT",
+    "Prices": 2489.6,
+    "Open": 2512,
+    "Low": 2482.7,
+    "BR": 0,
+    "B2": 2485.55,
+    "B1": 2503.9,
+    "S1": 2523.5,
+    "S2": 2542.45,
+    "SR": 0,
+    "High": 2525,
+    "Volume": 4199,
+    "Point": 10
+  },
+  {
     "Name": "Ambuja Cements Ltd",
     "Symbol": "AMBUJACEM",
     "Prices": 570.5,
@@ -608,22 +608,6 @@
     "Point": 5
   },
   {
-    "Name": "Adani Enterprises Ltd",
-    "Symbol": "ADANIENT",
-    "Prices": 2491.6,
-    "Open": 2512,
-    "Low": 2482.7,
-    "BR": 0,
-    "B2": 2485.55,
-    "B1": 2503.9,
-    "S1": 2523.5,
-    "S2": 2542.45,
-    "SR": 0,
-    "High": 2525,
-    "Volume": 4199,
-    "Point": 10
-  },
-  {
     "Name": "Laurus Labs Ltd",
     "Symbol": "LAURUSLABS",
     "Prices": 569.85,
@@ -638,6 +622,22 @@
     "High": 576.6,
     "Volume": 1359,
     "Point": 5
+  },
+  {
+    "Name": "Glenmark Pharmaceuticals Ltd",
+    "Symbol": "GLENMARK",
+    "Prices": 1518.1,
+    "Open": 1548.7,
+    "Low": 1505.75,
+    "BR": 0,
+    "B2": 1506.75,
+    "B1": 1525.2,
+    "S1": 1545,
+    "S2": 1564.2,
+    "SR": 0,
+    "High": 1554.9,
+    "Volume": 2251,
+    "Point": 10
   },
   {
     "Name": "Polycab India Ltd",
@@ -672,6 +672,22 @@
     "Point": 25
   },
   {
+    "Name": "Hindustan Aeronautics Ltd",
+    "Symbol": "HAL",
+    "Prices": 4625,
+    "Open": 4676,
+    "Low": 4615,
+    "BR": 0,
+    "B2": 4560.25,
+    "B1": 4645.15,
+    "S1": 4734.4,
+    "S2": 4830.3,
+    "SR": 0,
+    "High": 4716,
+    "Volume": 8340,
+    "Point": 50
+  },
+  {
     "Name": "Interglobe Aviation Ltd",
     "Symbol": "INDIGO",
     "Prices": 4389.85,
@@ -686,22 +702,6 @@
     "High": 4444.15,
     "Volume": 2830,
     "Point": 25
-  },
-  {
-    "Name": "Hindustan Aeronautics Ltd",
-    "Symbol": "HAL",
-    "Prices": 4627.25,
-    "Open": 4676,
-    "Low": 4620,
-    "BR": 0,
-    "B2": 4560.25,
-    "B1": 4645.15,
-    "S1": 4734.4,
-    "S2": 4830.3,
-    "SR": 0,
-    "High": 4716,
-    "Volume": 8340,
-    "Point": 50
   },
   {
     "Name": "Bajaj Finance Ltd",
@@ -754,7 +754,7 @@
   {
     "Name": "LTIMindtree Ltd",
     "Symbol": "LTIM",
-    "Prices": 6706.35,
+    "Prices": 6706.75,
     "Open": 6738.45,
     "Low": 6650.3,
     "BR": 0,
@@ -782,22 +782,6 @@
     "High": 1250,
     "Volume": 1044,
     "Point": 10
-  },
-  {
-    "Name": "Federal Bank Ltd",
-    "Symbol": "FEDERALBNK",
-    "Prices": 210.23,
-    "Open": 213.2,
-    "Low": 210.01,
-    "BR": 0,
-    "B2": 208.19,
-    "B1": 210.59,
-    "S1": 213.04,
-    "S2": 215.44,
-    "SR": 1,
-    "High": 213.7,
-    "Volume": 1203,
-    "Point": 1.25
   },
   {
     "Name": "Cyient Ltd",
@@ -848,20 +832,20 @@
     "Point": 250
   },
   {
-    "Name": "Central Depository Services (India) Ltd",
-    "Symbol": "CDSL",
-    "Prices": 1964.5,
-    "Open": 1954.85,
-    "Low": 1947.7,
+    "Name": "Federal Bank Ltd",
+    "Symbol": "FEDERALBNK",
+    "Prices": 210.36,
+    "Open": 213.2,
+    "Low": 210.01,
     "BR": 0,
-    "B2": 1946.75,
-    "B1": 1966.35,
-    "S1": 1984.7,
-    "S2": 2005.3,
-    "SR": 4,
-    "High": 1989.8,
-    "Volume": 3090,
-    "Point": 10
+    "B2": 208.19,
+    "B1": 210.59,
+    "S1": 213.04,
+    "S2": 215.44,
+    "SR": 1,
+    "High": 213.7,
+    "Volume": 1203,
+    "Point": 1.25
   },
   {
     "Name": "HCL Technologies Ltd",
@@ -877,6 +861,22 @@
     "SR": 2,
     "High": 1963.2,
     "Volume": 4320,
+    "Point": 10
+  },
+  {
+    "Name": "Central Depository Services (India) Ltd",
+    "Symbol": "CDSL",
+    "Prices": 1965.95,
+    "Open": 1954.85,
+    "Low": 1947.7,
+    "BR": 0,
+    "B2": 1946.75,
+    "B1": 1966.35,
+    "S1": 1984.7,
+    "S2": 2005.3,
+    "SR": 4,
+    "High": 1989.8,
+    "Volume": 3090,
     "Point": 10
   },
   {
@@ -930,7 +930,7 @@
   {
     "Name": "Coromandel International Ltd",
     "Symbol": "COROMANDEL",
-    "Prices": 1818.55,
+    "Prices": 1821.25,
     "Open": 1825,
     "Low": 1786.5,
     "BR": 0,
@@ -978,7 +978,7 @@
   {
     "Name": "Granules India Ltd",
     "Symbol": "GRANULES",
-    "Prices": 589.75,
+    "Prices": 590,
     "Open": 582.2,
     "Low": 576.45,
     "BR": 0,
@@ -994,7 +994,7 @@
   {
     "Name": "Hindustan Petroleum Corp Ltd",
     "Symbol": "HINDPETRO",
-    "Prices": 406.7,
+    "Prices": 407.35,
     "Open": 408,
     "Low": 404.6,
     "BR": 0,
@@ -1026,7 +1026,7 @@
   {
     "Name": "Infosys Ltd",
     "Symbol": "INFY",
-    "Prices": 1975.8,
+    "Prices": 1978.05,
     "Open": 1968,
     "Low": 1958,
     "BR": 0,
