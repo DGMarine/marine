@@ -16,6 +16,22 @@
     "Point": 10
   },
   {
+    "Name": "Samvardhana Motherson International Ltd",
+    "Symbol": "MOTHERSON",
+    "Prices": 165.84,
+    "Open": 168.58,
+    "Low": 165.7,
+    "BR": 0,
+    "B2": 166.47,
+    "B1": 168.82,
+    "S1": 171.27,
+    "S2": 173.87,
+    "SR": 1,
+    "High": 169.41,
+    "Volume": 4679,
+    "Point": 1.25
+  },
+  {
     "Name": "Cummins India Ltd",
     "Symbol": "CUMMINSIND",
     "Prices": 3609.95,
@@ -30,22 +46,6 @@
     "High": 3691,
     "Volume": 2639,
     "Point": 25
-  },
-  {
-    "Name": "Samvardhana Motherson International Ltd",
-    "Symbol": "MOTHERSON",
-    "Prices": 166,
-    "Open": 168.58,
-    "Low": 165.83,
-    "BR": 0,
-    "B2": 166.47,
-    "B1": 168.82,
-    "S1": 171.27,
-    "S2": 173.87,
-    "SR": 1,
-    "High": 169.41,
-    "Volume": 4679,
-    "Point": 1.25
   },
   {
     "Name": "Pidilite Industries Limited",
@@ -66,9 +66,9 @@
   {
     "Name": "L&T Finance Ltd",
     "Symbol": "LTF",
-    "Prices": 143.65,
+    "Prices": 143.7,
     "Open": 147.29,
-    "Low": 143.5,
+    "Low": 143.48,
     "BR": 1,
     "B2": 143.54,
     "B1": 145.89,
@@ -78,22 +78,6 @@
     "High": 147.29,
     "Volume": 1181,
     "Point": 1.25
-  },
-  {
-    "Name": "Mphasis Ltd",
-    "Symbol": "MPHASIS",
-    "Prices": 3182.5,
-    "Open": 3197.25,
-    "Low": 3172.05,
-    "BR": 1,
-    "B2": 3174.5,
-    "B1": 3221.85,
-    "S1": 3271.25,
-    "S2": 3347.4,
-    "SR": 2,
-    "High": 3228.45,
-    "Volume": 961,
-    "Point": 25
   },
   {
     "Name": "Bharti Airtel Ltd",
@@ -114,9 +98,9 @@
   {
     "Name": "Larsen and Toubro Ltd",
     "Symbol": "LT",
-    "Prices": 3820.2,
+    "Prices": 3818.15,
     "Open": 3863.05,
-    "Low": 3815.45,
+    "Low": 3815,
     "BR": 0,
     "B2": 3816.75,
     "B1": 3862.25,
@@ -125,6 +109,22 @@
     "SR": 4,
     "High": 3875.4,
     "Volume": 4009,
+    "Point": 25
+  },
+  {
+    "Name": "Mphasis Ltd",
+    "Symbol": "MPHASIS",
+    "Prices": 3185.25,
+    "Open": 3197.25,
+    "Low": 3172.05,
+    "BR": 1,
+    "B2": 3174.5,
+    "B1": 3221.85,
+    "S1": 3271.25,
+    "S2": 3347.4,
+    "SR": 2,
+    "High": 3228.45,
+    "Volume": 961,
     "Point": 25
   },
   {
@@ -192,22 +192,6 @@
     "Point": 2.125
   },
   {
-    "Name": "Astral Ltd",
-    "Symbol": "ASTRAL",
-    "Prices": 1843.7,
-    "Open": 1850,
-    "Low": 1837.7,
-    "BR": 0,
-    "B2": 1840.65,
-    "B1": 1859.95,
-    "S1": 1887.9,
-    "S2": 1911.5,
-    "SR": 4,
-    "High": 1864.5,
-    "Volume": 1479,
-    "Point": 10
-  },
-  {
     "Name": "J K Cement Ltd",
     "Symbol": "JKCEMENT",
     "Prices": 4720,
@@ -238,6 +222,22 @@
     "High": 648,
     "Volume": 1445,
     "Point": 5
+  },
+  {
+    "Name": "Astral Ltd",
+    "Symbol": "ASTRAL",
+    "Prices": 1847.25,
+    "Open": 1850,
+    "Low": 1837.7,
+    "BR": 0,
+    "B2": 1840.65,
+    "B1": 1859.95,
+    "S1": 1887.9,
+    "S2": 1911.5,
+    "SR": 4,
+    "High": 1864.5,
+    "Volume": 1479,
+    "Point": 10
   },
   {
     "Name": "Mahanagar Gas Ltd",
@@ -301,22 +301,6 @@
     "SR": 0,
     "High": 187.16,
     "Volume": 1005,
-    "Point": 1.25
-  },
-  {
-    "Name": "Gail (India) Ltd",
-    "Symbol": "GAIL",
-    "Prices": 201.59,
-    "Open": 203,
-    "Low": 201.4,
-    "BR": 0,
-    "B2": 200.65,
-    "B1": 202.85,
-    "S1": 205.3,
-    "S2": 207.55,
-    "SR": 0,
-    "High": 205,
-    "Volume": 1920,
     "Point": 1.25
   },
   {
@@ -384,6 +368,22 @@
     "Point": 5
   },
   {
+    "Name": "Gail (India) Ltd",
+    "Symbol": "GAIL",
+    "Prices": 201.92,
+    "Open": 203,
+    "Low": 201.39,
+    "BR": 0,
+    "B2": 200.65,
+    "B1": 202.85,
+    "S1": 205.3,
+    "S2": 207.55,
+    "SR": 0,
+    "High": 205,
+    "Volume": 1920,
+    "Point": 1.25
+  },
+  {
     "Name": "Interglobe Aviation Ltd",
     "Symbol": "INDIGO",
     "Prices": 4388.8,
@@ -448,38 +448,6 @@
     "Point": 10
   },
   {
-    "Name": "Polycab India Ltd",
-    "Symbol": "POLYCAB",
-    "Prices": 7491.7,
-    "Open": 7550,
-    "Low": 7468.85,
-    "BR": 0,
-    "B2": 7425.7,
-    "B1": 7519.25,
-    "S1": 7613.55,
-    "S2": 7711.1,
-    "SR": 3,
-    "High": 7550,
-    "Volume": 1232,
-    "Point": 50
-  },
-  {
-    "Name": "IPCA Laboratories Ltd",
-    "Symbol": "IPCALAB",
-    "Prices": 1562.95,
-    "Open": 1570.8,
-    "Low": 1555.5,
-    "BR": 0,
-    "B2": 1549.6,
-    "B1": 1568.6,
-    "S1": 1588.5,
-    "S2": 1606.6,
-    "SR": 5,
-    "High": 1581.4,
-    "Volume": 1203,
-    "Point": 10
-  },
-  {
     "Name": "HDFC Bank Ltd",
     "Symbol": "HDFCBANK",
     "Prices": 1845.2,
@@ -512,6 +480,38 @@
     "Point": 25
   },
   {
+    "Name": "IPCA Laboratories Ltd",
+    "Symbol": "IPCALAB",
+    "Prices": 1563.2,
+    "Open": 1570.8,
+    "Low": 1555.5,
+    "BR": 0,
+    "B2": 1549.6,
+    "B1": 1568.6,
+    "S1": 1588.5,
+    "S2": 1606.6,
+    "SR": 5,
+    "High": 1581.4,
+    "Volume": 1203,
+    "Point": 10
+  },
+  {
+    "Name": "Polycab India Ltd",
+    "Symbol": "POLYCAB",
+    "Prices": 7493.85,
+    "Open": 7550,
+    "Low": 7468.85,
+    "BR": 0,
+    "B2": 7425.7,
+    "B1": 7519.25,
+    "S1": 7613.55,
+    "S2": 7711.1,
+    "SR": 3,
+    "High": 7550,
+    "Volume": 1232,
+    "Point": 50
+  },
+  {
     "Name": "Bank of Baroda Ltd",
     "Symbol": "BANKBARODA",
     "Prices": 257.2,
@@ -542,22 +542,6 @@
     "High": 513.25,
     "Volume": 2915,
     "Point": 5
-  },
-  {
-    "Name": "Grasim Industries Ltd",
-    "Symbol": "GRASIM",
-    "Prices": 2651.95,
-    "Open": 2685,
-    "Low": 2633.55,
-    "BR": 0,
-    "B2": 2639.6,
-    "B1": 2659.25,
-    "S1": 2678.2,
-    "S2": 2698.3,
-    "SR": 0,
-    "High": 2685,
-    "Volume": 1224,
-    "Point": 10
   },
   {
     "Name": "HCL Technologies Ltd",
@@ -653,6 +637,22 @@
     "SR": 3,
     "High": 1806.85,
     "Volume": 5145,
+    "Point": 10
+  },
+  {
+    "Name": "Grasim Industries Ltd",
+    "Symbol": "GRASIM",
+    "Prices": 2654.2,
+    "Open": 2685,
+    "Low": 2633.55,
+    "BR": 0,
+    "B2": 2639.6,
+    "B1": 2659.25,
+    "S1": 2678.2,
+    "S2": 2698.3,
+    "SR": 0,
+    "High": 2685,
+    "Volume": 1224,
     "Point": 10
   },
   {
@@ -1458,7 +1458,7 @@
   {
     "Name": "Jubilant FoodWorks Ltd",
     "Symbol": "JUBLFOOD",
-    "Prices": 688.75,
+    "Prices": 689.7,
     "Open": 686.65,
     "Low": 684.4,
     "BR": 0,
