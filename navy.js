@@ -60,8 +60,7 @@ M6 = document.CodeGenerator.M6.value;
 AT6 = document.CodeGenerator.AT6.checked; 
 BT6 = document.CodeGenerator.BT6.checked; 
 CT6 = document.CodeGenerator.CT6.checked;
-DT6 = document.CodeGenerator.DT6.checked; 
-  
+DT6 = document.CodeGenerator.DT6.checked;  
 Q7 = document.CodeGenerator.Q7.value;  
 A7 = document.CodeGenerator.A7.value; 
 B7 = document.CodeGenerator.B7.value; 
@@ -71,8 +70,7 @@ M7 = document.CodeGenerator.M7.value;
 AT7 = document.CodeGenerator.AT7.checked; 
 BT7 = document.CodeGenerator.BT7.checked; 
 CT7 = document.CodeGenerator.CT7.checked;
-DT7 = document.CodeGenerator.DT7.checked;   
-  
+DT7 = document.CodeGenerator.DT7.checked;     
 Q8 = document.CodeGenerator.Q8.value;  
 A8 = document.CodeGenerator.A8.value; 
 B8 = document.CodeGenerator.B8.value; 
@@ -82,8 +80,7 @@ M8 = document.CodeGenerator.M8.value;
 AT8 = document.CodeGenerator.AT8.checked; 
 BT8 = document.CodeGenerator.BT8.checked; 
 CT8 = document.CodeGenerator.CT8.checked;
-DT8 = document.CodeGenerator.DT8.checked;   
-  
+DT8 = document.CodeGenerator.DT8.checked;     
 Q9 = document.CodeGenerator.Q9.value;  
 A9 = document.CodeGenerator.A9.value; 
 B9 = document.CodeGenerator.B9.value; 
@@ -93,8 +90,7 @@ M9 = document.CodeGenerator.M9.value;
 AT9 = document.CodeGenerator.AT9.checked; 
 BT9 = document.CodeGenerator.BT9.checked; 
 CT9 = document.CodeGenerator.CT9.checked;
-DT9 = document.CodeGenerator.DT9.checked;   
-  
+DT9 = document.CodeGenerator.DT9.checked;     
 Q10 = document.CodeGenerator.Q10.value;  
 A10 = document.CodeGenerator.A10.value; 
 B10 = document.CodeGenerator.B10.value; 
@@ -104,8 +100,7 @@ M10 = document.CodeGenerator.M10.value;
 AT10 = document.CodeGenerator.AT10.checked; 
 BT10 = document.CodeGenerator.BT10.checked; 
 CT10 = document.CodeGenerator.CT10.checked;
-DT10 = document.CodeGenerator.DT10.checked;   
-  
+DT10 = document.CodeGenerator.DT10.checked;    
 Q11 = document.CodeGenerator.Q11.value;  
 A11 = document.CodeGenerator.A11.value; 
 B11 = document.CodeGenerator.B11.value; 
@@ -115,8 +110,7 @@ M11 = document.CodeGenerator.M11.value;
 AT11 = document.CodeGenerator.AT11.checked; 
 BT11 = document.CodeGenerator.BT11.checked; 
 CT11 = document.CodeGenerator.CT11.checked;
-DT11 = document.CodeGenerator.DT11.checked;   
-  
+DT11 = document.CodeGenerator.DT11.checked;     
 Q12 = document.CodeGenerator.Q12.value;  
 A12 = document.CodeGenerator.A12.value; 
 B12 = document.CodeGenerator.B12.value; 
@@ -126,8 +120,7 @@ M12 = document.CodeGenerator.M12.value;
 AT12 = document.CodeGenerator.AT12.checked; 
 BT12 = document.CodeGenerator.BT12.checked; 
 CT12 = document.CodeGenerator.CT12.checked;
-DT12 = document.CodeGenerator.DT12.checked;   
-  
+DT12 = document.CodeGenerator.DT12.checked;     
 Q13 = document.CodeGenerator.Q13.value;  
 A13 = document.CodeGenerator.A13.value; 
 B13 = document.CodeGenerator.B13.value; 
@@ -137,8 +130,7 @@ M13 = document.CodeGenerator.M13.value;
 AT13 = document.CodeGenerator.AT13.checked; 
 BT13 = document.CodeGenerator.BT13.checked; 
 CT13 = document.CodeGenerator.CT13.checked;
-DT13 = document.CodeGenerator.DT13.checked;   
-  
+DT13 = document.CodeGenerator.DT13.checked;     
 Q14 = document.CodeGenerator.Q14.value;  
 A14 = document.CodeGenerator.A14.value; 
 B14 = document.CodeGenerator.B14.value; 
@@ -148,8 +140,7 @@ M14 = document.CodeGenerator.M14.value;
 AT14 = document.CodeGenerator.AT14.checked; 
 BT14 = document.CodeGenerator.BT14.checked; 
 CT14 = document.CodeGenerator.CT14.checked;
-DT14 = document.CodeGenerator.DT14.checked;   
-  
+DT14 = document.CodeGenerator.DT14.checked;     
 Q15 = document.CodeGenerator.Q15.value;  
 A15 = document.CodeGenerator.A15.value; 
 B15 = document.CodeGenerator.B15.value; 
@@ -159,8 +150,7 @@ M15 = document.CodeGenerator.M15.value;
 AT15 = document.CodeGenerator.AT15.checked; 
 BT15 = document.CodeGenerator.BT15.checked; 
 CT15 = document.CodeGenerator.CT15.checked;
-DT15 = document.CodeGenerator.DT15.checked;   
-  
+DT15 = document.CodeGenerator.DT15.checked;     
 Q16 = document.CodeGenerator.Q16.value;  
 A16 = document.CodeGenerator.A16.value; 
 B16 = document.CodeGenerator.B16.value; 
@@ -170,8 +160,7 @@ M16 = document.CodeGenerator.M16.value;
 AT16 = document.CodeGenerator.AT16.checked; 
 BT16 = document.CodeGenerator.BT16.checked; 
 CT16 = document.CodeGenerator.CT16.checked;
-DT16 = document.CodeGenerator.DT16.checked;   
-  
+DT16 = document.CodeGenerator.DT16.checked;     
 Q17 = document.CodeGenerator.Q17.value;  
 A17 = document.CodeGenerator.A17.value; 
 B17 = document.CodeGenerator.B17.value; 
@@ -181,8 +170,7 @@ M17 = document.CodeGenerator.M17.value;
 AT17 = document.CodeGenerator.AT17.checked; 
 BT17 = document.CodeGenerator.BT17.checked; 
 CT17 = document.CodeGenerator.CT17.checked;
-DT17 = document.CodeGenerator.DT17.checked;   
-  
+DT17 = document.CodeGenerator.DT17.checked;     
 Q18 = document.CodeGenerator.Q18.value;  
 A18 = document.CodeGenerator.A18.value; 
 B18 = document.CodeGenerator.B18.value; 
@@ -192,8 +180,7 @@ M18 = document.CodeGenerator.M18.value;
 AT18 = document.CodeGenerator.AT18.checked; 
 BT18 = document.CodeGenerator.BT18.checked; 
 CT18 = document.CodeGenerator.CT18.checked;
-DT18 = document.CodeGenerator.DT18.checked;   
-  
+DT18 = document.CodeGenerator.DT18.checked;     
 Q19 = document.CodeGenerator.Q19.value;  
 A19 = document.CodeGenerator.A19.value; 
 B19 = document.CodeGenerator.B19.value; 
@@ -203,8 +190,7 @@ M19 = document.CodeGenerator.M19.value;
 AT19 = document.CodeGenerator.AT19.checked; 
 BT19 = document.CodeGenerator.BT19.checked; 
 CT19 = document.CodeGenerator.CT19.checked;
-DT19 = document.CodeGenerator.DT19.checked;   
-  
+DT19 = document.CodeGenerator.DT19.checked;     
 Q20 = document.CodeGenerator.Q20.value;  
 A20 = document.CodeGenerator.A20.value; 
 B20 = document.CodeGenerator.B20.value; 
@@ -215,7 +201,6 @@ AT20 = document.CodeGenerator.AT20.checked;
 BT20 = document.CodeGenerator.BT20.checked; 
 CT20 = document.CodeGenerator.CT20.checked;
 DT20 = document.CodeGenerator.DT20.checked;
-
 Q21 = document.CodeGenerator.Q21.value;  
 A21 = document.CodeGenerator.A21.value; 
 B21 = document.CodeGenerator.B21.value; 
@@ -226,7 +211,6 @@ AT21 = document.CodeGenerator.AT21.checked;
 BT21 = document.CodeGenerator.BT21.checked; 
 CT21 = document.CodeGenerator.CT21.checked;
 DT21 = document.CodeGenerator.DT21.checked; 
-
 Q22 = document.CodeGenerator.Q22.value;  
 A22 = document.CodeGenerator.A22.value; 
 B22 = document.CodeGenerator.B22.value; 
@@ -237,7 +221,6 @@ AT22 = document.CodeGenerator.AT22.checked;
 BT22 = document.CodeGenerator.BT22.checked; 
 CT22 = document.CodeGenerator.CT22.checked;
 DT22 = document.CodeGenerator.DT22.checked; 
-
 Q23 = document.CodeGenerator.Q23.value;  
 A23 = document.CodeGenerator.A23.value; 
 B23 = document.CodeGenerator.B23.value; 
@@ -248,7 +231,6 @@ AT23 = document.CodeGenerator.AT23.checked;
 BT23 = document.CodeGenerator.BT23.checked; 
 CT23 = document.CodeGenerator.CT23.checked;
 DT23 = document.CodeGenerator.DT23.checked; 
-
 Q24 = document.CodeGenerator.Q24.value;  
 A24 = document.CodeGenerator.A24.value; 
 B24 = document.CodeGenerator.B24.value; 
@@ -259,7 +241,6 @@ AT24 = document.CodeGenerator.AT24.checked;
 BT24 = document.CodeGenerator.BT24.checked; 
 CT24 = document.CodeGenerator.CT24.checked;
 DT24 = document.CodeGenerator.DT24.checked; 
-
 Q25 = document.CodeGenerator.Q25.value;  
 A25 = document.CodeGenerator.A25.value; 
 B25 = document.CodeGenerator.B25.value; 
@@ -270,7 +251,6 @@ AT25 = document.CodeGenerator.AT25.checked;
 BT25 = document.CodeGenerator.BT25.checked; 
 CT25 = document.CodeGenerator.CT25.checked;
 DT25 = document.CodeGenerator.DT25.checked; 
-
 Q26 = document.CodeGenerator.Q26.value;  
 A26 = document.CodeGenerator.A26.value; 
 B26 = document.CodeGenerator.B26.value; 
@@ -281,7 +261,6 @@ AT26 = document.CodeGenerator.AT26.checked;
 BT26 = document.CodeGenerator.BT26.checked; 
 CT26 = document.CodeGenerator.CT26.checked;
 DT26 = document.CodeGenerator.DT26.checked; 
-
 Q27 = document.CodeGenerator.Q27.value;  
 A27 = document.CodeGenerator.A27.value; 
 B27 = document.CodeGenerator.B27.value; 
@@ -292,7 +271,6 @@ AT27 = document.CodeGenerator.AT27.checked;
 BT27 = document.CodeGenerator.BT27.checked; 
 CT27 = document.CodeGenerator.CT27.checked;
 DT27 = document.CodeGenerator.DT27.checked; 
-
 Q28 = document.CodeGenerator.Q28.value;  
 A28 = document.CodeGenerator.A28.value; 
 B28 = document.CodeGenerator.B28.value; 
@@ -303,7 +281,6 @@ AT28 = document.CodeGenerator.AT28.checked;
 BT28 = document.CodeGenerator.BT28.checked; 
 CT28 = document.CodeGenerator.CT28.checked;
 DT28 = document.CodeGenerator.DT28.checked; 
-
 Q29 = document.CodeGenerator.Q29.value;  
 A29 = document.CodeGenerator.A29.value; 
 B29 = document.CodeGenerator.B29.value; 
@@ -314,7 +291,6 @@ AT29 = document.CodeGenerator.AT29.checked;
 BT29 = document.CodeGenerator.BT29.checked; 
 CT29 = document.CodeGenerator.CT29.checked;
 DT29 = document.CodeGenerator.DT29.checked; 
-
 Q30 = document.CodeGenerator.Q30.value;  
 A30 = document.CodeGenerator.A30.value; 
 B30 = document.CodeGenerator.B30.value; 
@@ -325,7 +301,6 @@ AT30 = document.CodeGenerator.AT30.checked;
 BT30 = document.CodeGenerator.BT30.checked; 
 CT30 = document.CodeGenerator.CT30.checked;
 DT30 = document.CodeGenerator.DT30.checked; 
-
 Q31 = document.CodeGenerator.Q31.value;  
 A31 = document.CodeGenerator.A31.value; 
 B31 = document.CodeGenerator.B31.value; 
@@ -336,7 +311,6 @@ AT31 = document.CodeGenerator.AT31.checked;
 BT31 = document.CodeGenerator.BT31.checked; 
 CT31 = document.CodeGenerator.CT31.checked;
 DT31 = document.CodeGenerator.DT31.checked; 
-
 Q32 = document.CodeGenerator.Q32.value;  
 A32 = document.CodeGenerator.A32.value; 
 B32 = document.CodeGenerator.B32.value; 
@@ -347,7 +321,6 @@ AT32 = document.CodeGenerator.AT32.checked;
 BT32 = document.CodeGenerator.BT32.checked; 
 CT32 = document.CodeGenerator.CT32.checked;
 DT32 = document.CodeGenerator.DT32.checked; 
-
 Q33 = document.CodeGenerator.Q33.value;  
 A33 = document.CodeGenerator.A33.value; 
 B33 = document.CodeGenerator.B33.value; 
@@ -358,7 +331,6 @@ AT33 = document.CodeGenerator.AT33.checked;
 BT33 = document.CodeGenerator.BT33.checked; 
 CT33 = document.CodeGenerator.CT33.checked;
 DT33 = document.CodeGenerator.DT33.checked; 
-
 Q34 = document.CodeGenerator.Q34.value;  
 A34 = document.CodeGenerator.A34.value; 
 B34 = document.CodeGenerator.B34.value; 
@@ -369,7 +341,6 @@ AT34 = document.CodeGenerator.AT34.checked;
 BT34 = document.CodeGenerator.BT34.checked; 
 CT34 = document.CodeGenerator.CT34.checked;
 DT34 = document.CodeGenerator.DT34.checked; 
-
 Q35 = document.CodeGenerator.Q35.value;  
 A35 = document.CodeGenerator.A35.value; 
 B35 = document.CodeGenerator.B35.value; 
@@ -380,7 +351,6 @@ AT35 = document.CodeGenerator.AT35.checked;
 BT35 = document.CodeGenerator.BT35.checked; 
 CT35 = document.CodeGenerator.CT35.checked;
 DT35 = document.CodeGenerator.DT35.checked; 
-
 Q36 = document.CodeGenerator.Q36.value;  
 A36 = document.CodeGenerator.A36.value; 
 B36 = document.CodeGenerator.B36.value; 
@@ -391,7 +361,6 @@ AT36 = document.CodeGenerator.AT36.checked;
 BT36 = document.CodeGenerator.BT36.checked; 
 CT36 = document.CodeGenerator.CT36.checked;
 DT36 = document.CodeGenerator.DT36.checked; 
-
 Q37 = document.CodeGenerator.Q37.value;  
 A37 = document.CodeGenerator.A37.value; 
 B37 = document.CodeGenerator.B37.value; 
@@ -402,7 +371,6 @@ AT37 = document.CodeGenerator.AT37.checked;
 BT37 = document.CodeGenerator.BT37.checked; 
 CT37 = document.CodeGenerator.CT37.checked;
 DT37 = document.CodeGenerator.DT37.checked; 
-
 Q38 = document.CodeGenerator.Q38.value;  
 A38 = document.CodeGenerator.A38.value; 
 B38 = document.CodeGenerator.B38.value; 
@@ -413,7 +381,6 @@ AT38 = document.CodeGenerator.AT38.checked;
 BT38 = document.CodeGenerator.BT38.checked; 
 CT38 = document.CodeGenerator.CT38.checked;
 DT38 = document.CodeGenerator.DT38.checked; 
-
 Q39 = document.CodeGenerator.Q39.value;  
 A39 = document.CodeGenerator.A39.value; 
 B39 = document.CodeGenerator.B39.value; 
@@ -424,7 +391,6 @@ AT39 = document.CodeGenerator.AT39.checked;
 BT39 = document.CodeGenerator.BT39.checked; 
 CT39 = document.CodeGenerator.CT39.checked;
 DT39 = document.CodeGenerator.DT39.checked; 
-
 Q40 = document.CodeGenerator.Q40.value;  
 A40 = document.CodeGenerator.A40.value; 
 B40 = document.CodeGenerator.B40.value; 
@@ -435,7 +401,6 @@ AT40 = document.CodeGenerator.AT40.checked;
 BT40 = document.CodeGenerator.BT40.checked; 
 CT40 = document.CodeGenerator.CT40.checked;
 DT40 = document.CodeGenerator.DT40.checked; 
-
 Q41 = document.CodeGenerator.Q41.value;  
 A41 = document.CodeGenerator.A41.value; 
 B41 = document.CodeGenerator.B41.value; 
@@ -446,7 +411,6 @@ AT41 = document.CodeGenerator.AT41.checked;
 BT41 = document.CodeGenerator.BT41.checked; 
 CT41 = document.CodeGenerator.CT41.checked;
 DT41 = document.CodeGenerator.DT41.checked; 
-
 Q42 = document.CodeGenerator.Q42.value;  
 A42 = document.CodeGenerator.A42.value; 
 B42 = document.CodeGenerator.B42.value; 
@@ -457,7 +421,6 @@ AT42 = document.CodeGenerator.AT42.checked;
 BT42 = document.CodeGenerator.BT42.checked; 
 CT42 = document.CodeGenerator.CT42.checked;
 DT42 = document.CodeGenerator.DT42.checked; 
-
 Q43 = document.CodeGenerator.Q43.value;  
 A43 = document.CodeGenerator.A43.value; 
 B43 = document.CodeGenerator.B43.value; 
@@ -468,7 +431,6 @@ AT43 = document.CodeGenerator.AT43.checked;
 BT43 = document.CodeGenerator.BT43.checked; 
 CT43 = document.CodeGenerator.CT43.checked;
 DT43 = document.CodeGenerator.DT43.checked; 
-
 Q44 = document.CodeGenerator.Q44.value;  
 A44 = document.CodeGenerator.A44.value; 
 B44 = document.CodeGenerator.B44.value; 
@@ -479,7 +441,6 @@ AT44 = document.CodeGenerator.AT44.checked;
 BT44 = document.CodeGenerator.BT44.checked; 
 CT44 = document.CodeGenerator.CT44.checked;
 DT44 = document.CodeGenerator.DT44.checked; 
-
 Q45 = document.CodeGenerator.Q45.value;  
 A45 = document.CodeGenerator.A45.value; 
 B45 = document.CodeGenerator.B45.value; 
@@ -490,7 +451,6 @@ AT45 = document.CodeGenerator.AT45.checked;
 BT45 = document.CodeGenerator.BT45.checked; 
 CT45 = document.CodeGenerator.CT45.checked;
 DT45 = document.CodeGenerator.DT45.checked; 
-
 Q46 = document.CodeGenerator.Q46.value;  
 A46 = document.CodeGenerator.A46.value; 
 B46 = document.CodeGenerator.B46.value; 
@@ -501,7 +461,6 @@ AT46 = document.CodeGenerator.AT46.checked;
 BT46 = document.CodeGenerator.BT46.checked; 
 CT46 = document.CodeGenerator.CT46.checked;
 DT46 = document.CodeGenerator.DT46.checked; 
-
 Q47 = document.CodeGenerator.Q47.value;  
 A47 = document.CodeGenerator.A47.value; 
 B47 = document.CodeGenerator.B47.value; 
@@ -512,7 +471,6 @@ AT47 = document.CodeGenerator.AT47.checked;
 BT47 = document.CodeGenerator.BT47.checked; 
 CT47 = document.CodeGenerator.CT47.checked;
 DT47 = document.CodeGenerator.DT47.checked; 
-
 Q48 = document.CodeGenerator.Q48.value;  
 A48 = document.CodeGenerator.A48.value; 
 B48 = document.CodeGenerator.B48.value; 
@@ -523,7 +481,6 @@ AT48 = document.CodeGenerator.AT48.checked;
 BT48 = document.CodeGenerator.BT48.checked; 
 CT48 = document.CodeGenerator.CT48.checked;
 DT48 = document.CodeGenerator.DT48.checked; 
-
 Q49 = document.CodeGenerator.Q49.value;  
 A49 = document.CodeGenerator.A49.value; 
 B49 = document.CodeGenerator.B49.value; 
@@ -534,7 +491,6 @@ AT49 = document.CodeGenerator.AT49.checked;
 BT49 = document.CodeGenerator.BT49.checked; 
 CT49 = document.CodeGenerator.CT49.checked;
 DT49 = document.CodeGenerator.DT49.checked; 
-
 Q50 = document.CodeGenerator.Q50.value;  
 A50 = document.CodeGenerator.A50.value; 
 B50 = document.CodeGenerator.B50.value; 
@@ -545,7 +501,6 @@ AT50 = document.CodeGenerator.AT50.checked;
 BT50 = document.CodeGenerator.BT50.checked; 
 CT50 = document.CodeGenerator.CT50.checked;
 DT50 = document.CodeGenerator.DT50.checked; 
-
 Q51 = document.CodeGenerator.Q51.value;  
 A51 = document.CodeGenerator.A51.value; 
 B51 = document.CodeGenerator.B51.value; 
@@ -556,7 +511,6 @@ AT51 = document.CodeGenerator.AT51.checked;
 BT51 = document.CodeGenerator.BT51.checked; 
 CT51 = document.CodeGenerator.CT51.checked;
 DT51 = document.CodeGenerator.DT51.checked; 
-
 Q52 = document.CodeGenerator.Q52.value;  
 A52 = document.CodeGenerator.A52.value; 
 B52 = document.CodeGenerator.B52.value; 
@@ -567,7 +521,6 @@ AT52 = document.CodeGenerator.AT52.checked;
 BT52 = document.CodeGenerator.BT52.checked; 
 CT52 = document.CodeGenerator.CT52.checked;
 DT52 = document.CodeGenerator.DT52.checked; 
-
 Q53 = document.CodeGenerator.Q53.value;  
 A53 = document.CodeGenerator.A53.value; 
 B53 = document.CodeGenerator.B53.value; 
@@ -578,7 +531,6 @@ AT53 = document.CodeGenerator.AT53.checked;
 BT53 = document.CodeGenerator.BT53.checked; 
 CT53 = document.CodeGenerator.CT53.checked;
 DT53 = document.CodeGenerator.DT53.checked; 
-
 Q54 = document.CodeGenerator.Q54.value;  
 A54 = document.CodeGenerator.A54.value; 
 B54 = document.CodeGenerator.B54.value; 
@@ -589,7 +541,6 @@ AT54 = document.CodeGenerator.AT54.checked;
 BT54 = document.CodeGenerator.BT54.checked; 
 CT54 = document.CodeGenerator.CT54.checked;
 DT54 = document.CodeGenerator.DT54.checked; 
-
 Q55 = document.CodeGenerator.Q55.value;  
 A55 = document.CodeGenerator.A55.value; 
 B55 = document.CodeGenerator.B55.value; 
@@ -600,7 +551,6 @@ AT55 = document.CodeGenerator.AT55.checked;
 BT55 = document.CodeGenerator.BT55.checked; 
 CT55 = document.CodeGenerator.CT55.checked;
 DT55 = document.CodeGenerator.DT55.checked; 
-
 Q56 = document.CodeGenerator.Q56.value;  
 A56 = document.CodeGenerator.A56.value; 
 B56 = document.CodeGenerator.B56.value; 
@@ -611,7 +561,6 @@ AT56 = document.CodeGenerator.AT56.checked;
 BT56 = document.CodeGenerator.BT56.checked; 
 CT56 = document.CodeGenerator.CT56.checked;
 DT56 = document.CodeGenerator.DT56.checked; 
-
 Q57 = document.CodeGenerator.Q57.value;  
 A57 = document.CodeGenerator.A57.value; 
 B57 = document.CodeGenerator.B57.value; 
@@ -622,7 +571,6 @@ AT57 = document.CodeGenerator.AT57.checked;
 BT57 = document.CodeGenerator.BT57.checked; 
 CT57 = document.CodeGenerator.CT57.checked;
 DT57 = document.CodeGenerator.DT57.checked; 
-
 Q58 = document.CodeGenerator.Q58.value;  
 A58 = document.CodeGenerator.A58.value; 
 B58 = document.CodeGenerator.B58.value; 
@@ -633,7 +581,6 @@ AT58 = document.CodeGenerator.AT58.checked;
 BT58 = document.CodeGenerator.BT58.checked; 
 CT58 = document.CodeGenerator.CT58.checked;
 DT58 = document.CodeGenerator.DT58.checked; 
-
 Q59 = document.CodeGenerator.Q59.value;  
 A59 = document.CodeGenerator.A59.value; 
 B59 = document.CodeGenerator.B59.value; 
@@ -644,7 +591,6 @@ AT59 = document.CodeGenerator.AT59.checked;
 BT59 = document.CodeGenerator.BT59.checked; 
 CT59 = document.CodeGenerator.CT59.checked;
 DT59 = document.CodeGenerator.DT59.checked; 
-
 Q60 = document.CodeGenerator.Q60.value;  
 A60 = document.CodeGenerator.A60.value; 
 B60 = document.CodeGenerator.B60.value; 
@@ -655,7 +601,6 @@ AT60 = document.CodeGenerator.AT60.checked;
 BT60 = document.CodeGenerator.BT60.checked; 
 CT60 = document.CodeGenerator.CT60.checked;
 DT60 = document.CodeGenerator.DT60.checked; 
-
 Q61 = document.CodeGenerator.Q61.value;  
 A61 = document.CodeGenerator.A61.value; 
 B61 = document.CodeGenerator.B61.value; 
@@ -666,7 +611,6 @@ AT61 = document.CodeGenerator.AT61.checked;
 BT61 = document.CodeGenerator.BT61.checked; 
 CT61 = document.CodeGenerator.CT61.checked;
 DT61 = document.CodeGenerator.DT61.checked; 
-
 Q62 = document.CodeGenerator.Q62.value;  
 A62 = document.CodeGenerator.A62.value; 
 B62 = document.CodeGenerator.B62.value; 
@@ -677,7 +621,6 @@ AT62 = document.CodeGenerator.AT62.checked;
 BT62 = document.CodeGenerator.BT62.checked; 
 CT62 = document.CodeGenerator.CT62.checked;
 DT62 = document.CodeGenerator.DT62.checked; 
-
 Q63 = document.CodeGenerator.Q63.value;  
 A63 = document.CodeGenerator.A63.value; 
 B63 = document.CodeGenerator.B63.value; 
@@ -688,7 +631,6 @@ AT63 = document.CodeGenerator.AT63.checked;
 BT63 = document.CodeGenerator.BT63.checked; 
 CT63 = document.CodeGenerator.CT63.checked;
 DT63 = document.CodeGenerator.DT63.checked; 
-
 Q64 = document.CodeGenerator.Q64.value;  
 A64 = document.CodeGenerator.A64.value; 
 B64 = document.CodeGenerator.B64.value; 
@@ -699,7 +641,6 @@ AT64 = document.CodeGenerator.AT64.checked;
 BT64 = document.CodeGenerator.BT64.checked; 
 CT64 = document.CodeGenerator.CT64.checked;
 DT64 = document.CodeGenerator.DT64.checked; 
-
 Q65 = document.CodeGenerator.Q65.value;  
 A65 = document.CodeGenerator.A65.value; 
 B65 = document.CodeGenerator.B65.value; 
@@ -710,7 +651,6 @@ AT65 = document.CodeGenerator.AT65.checked;
 BT65 = document.CodeGenerator.BT65.checked; 
 CT65 = document.CodeGenerator.CT65.checked;
 DT65 = document.CodeGenerator.DT65.checked; 
-
 Q66 = document.CodeGenerator.Q66.value;  
 A66 = document.CodeGenerator.A66.value; 
 B66 = document.CodeGenerator.B66.value; 
@@ -721,7 +661,6 @@ AT66 = document.CodeGenerator.AT66.checked;
 BT66 = document.CodeGenerator.BT66.checked; 
 CT66 = document.CodeGenerator.CT66.checked;
 DT66 = document.CodeGenerator.DT66.checked; 
-
 Q67 = document.CodeGenerator.Q67.value;  
 A67 = document.CodeGenerator.A67.value; 
 B67 = document.CodeGenerator.B67.value; 
@@ -732,7 +671,6 @@ AT67 = document.CodeGenerator.AT67.checked;
 BT67 = document.CodeGenerator.BT67.checked; 
 CT67 = document.CodeGenerator.CT67.checked;
 DT67 = document.CodeGenerator.DT67.checked; 
-
 Q68 = document.CodeGenerator.Q68.value;  
 A68 = document.CodeGenerator.A68.value; 
 B68 = document.CodeGenerator.B68.value; 
@@ -743,7 +681,6 @@ AT68 = document.CodeGenerator.AT68.checked;
 BT68 = document.CodeGenerator.BT68.checked; 
 CT68 = document.CodeGenerator.CT68.checked;
 DT68 = document.CodeGenerator.DT68.checked; 
-
 Q69 = document.CodeGenerator.Q69.value;  
 A69 = document.CodeGenerator.A69.value; 
 B69 = document.CodeGenerator.B69.value; 
@@ -754,7 +691,6 @@ AT69 = document.CodeGenerator.AT69.checked;
 BT69 = document.CodeGenerator.BT69.checked; 
 CT69 = document.CodeGenerator.CT69.checked;
 DT69 = document.CodeGenerator.DT69.checked; 
-
 Q70 = document.CodeGenerator.Q70.value;  
 A70 = document.CodeGenerator.A70.value; 
 B70 = document.CodeGenerator.B70.value; 
@@ -765,7 +701,6 @@ AT70 = document.CodeGenerator.AT70.checked;
 BT70 = document.CodeGenerator.BT70.checked; 
 CT70 = document.CodeGenerator.CT70.checked;
 DT70 = document.CodeGenerator.DT70.checked; 
-
 Q71 = document.CodeGenerator.Q71.value;  
 A71 = document.CodeGenerator.A71.value; 
 B71 = document.CodeGenerator.B71.value; 
@@ -776,7 +711,6 @@ AT71 = document.CodeGenerator.AT71.checked;
 BT71 = document.CodeGenerator.BT71.checked; 
 CT71 = document.CodeGenerator.CT71.checked;
 DT71 = document.CodeGenerator.DT71.checked; 
-
 Q72 = document.CodeGenerator.Q72.value;  
 A72 = document.CodeGenerator.A72.value; 
 B72 = document.CodeGenerator.B72.value; 
@@ -787,7 +721,6 @@ AT72 = document.CodeGenerator.AT72.checked;
 BT72 = document.CodeGenerator.BT72.checked; 
 CT72 = document.CodeGenerator.CT72.checked;
 DT72 = document.CodeGenerator.DT72.checked; 
-
 Q73 = document.CodeGenerator.Q73.value;  
 A73 = document.CodeGenerator.A73.value; 
 B73 = document.CodeGenerator.B73.value; 
@@ -798,7 +731,6 @@ AT73 = document.CodeGenerator.AT73.checked;
 BT73 = document.CodeGenerator.BT73.checked; 
 CT73 = document.CodeGenerator.CT73.checked;
 DT73 = document.CodeGenerator.DT73.checked; 
-
 Q74 = document.CodeGenerator.Q74.value;  
 A74 = document.CodeGenerator.A74.value; 
 B74 = document.CodeGenerator.B74.value; 
@@ -809,7 +741,6 @@ AT74 = document.CodeGenerator.AT74.checked;
 BT74 = document.CodeGenerator.BT74.checked; 
 CT74 = document.CodeGenerator.CT74.checked;
 DT74 = document.CodeGenerator.DT74.checked; 
-
 Q75 = document.CodeGenerator.Q75.value;  
 A75 = document.CodeGenerator.A75.value; 
 B75 = document.CodeGenerator.B75.value; 
@@ -820,7 +751,6 @@ AT75 = document.CodeGenerator.AT75.checked;
 BT75 = document.CodeGenerator.BT75.checked; 
 CT75 = document.CodeGenerator.CT75.checked;
 DT75 = document.CodeGenerator.DT75.checked; 
-
 Q76 = document.CodeGenerator.Q76.value;  
 A76 = document.CodeGenerator.A76.value; 
 B76 = document.CodeGenerator.B76.value; 
@@ -831,7 +761,6 @@ AT76 = document.CodeGenerator.AT76.checked;
 BT76 = document.CodeGenerator.BT76.checked; 
 CT76 = document.CodeGenerator.CT76.checked;
 DT76 = document.CodeGenerator.DT76.checked; 
-
 Q77 = document.CodeGenerator.Q77.value;  
 A77 = document.CodeGenerator.A77.value; 
 B77 = document.CodeGenerator.B77.value; 
@@ -842,7 +771,6 @@ AT77 = document.CodeGenerator.AT77.checked;
 BT77 = document.CodeGenerator.BT77.checked; 
 CT77 = document.CodeGenerator.CT77.checked;
 DT77 = document.CodeGenerator.DT77.checked; 
-
 Q78 = document.CodeGenerator.Q78.value;  
 A78 = document.CodeGenerator.A78.value; 
 B78 = document.CodeGenerator.B78.value; 
@@ -853,7 +781,6 @@ AT78 = document.CodeGenerator.AT78.checked;
 BT78 = document.CodeGenerator.BT78.checked; 
 CT78 = document.CodeGenerator.CT78.checked;
 DT78 = document.CodeGenerator.DT78.checked; 
-
 Q79 = document.CodeGenerator.Q79.value;  
 A79 = document.CodeGenerator.A79.value; 
 B79 = document.CodeGenerator.B79.value; 
@@ -864,7 +791,6 @@ AT79 = document.CodeGenerator.AT79.checked;
 BT79 = document.CodeGenerator.BT79.checked; 
 CT79 = document.CodeGenerator.CT79.checked;
 DT79 = document.CodeGenerator.DT79.checked; 
-
 Q80 = document.CodeGenerator.Q80.value;  
 A80 = document.CodeGenerator.A80.value; 
 B80 = document.CodeGenerator.B80.value; 
@@ -875,7 +801,6 @@ AT80 = document.CodeGenerator.AT80.checked;
 BT80 = document.CodeGenerator.BT80.checked; 
 CT80 = document.CodeGenerator.CT80.checked;
 DT80 = document.CodeGenerator.DT80.checked; 
-
 Q81 = document.CodeGenerator.Q81.value;  
 A81 = document.CodeGenerator.A81.value; 
 B81 = document.CodeGenerator.B81.value; 
@@ -886,7 +811,6 @@ AT81 = document.CodeGenerator.AT81.checked;
 BT81 = document.CodeGenerator.BT81.checked; 
 CT81 = document.CodeGenerator.CT81.checked;
 DT81 = document.CodeGenerator.DT81.checked; 
-
 Q82 = document.CodeGenerator.Q82.value;  
 A82 = document.CodeGenerator.A82.value; 
 B82 = document.CodeGenerator.B82.value; 
@@ -897,7 +821,6 @@ AT82 = document.CodeGenerator.AT82.checked;
 BT82 = document.CodeGenerator.BT82.checked; 
 CT82 = document.CodeGenerator.CT82.checked;
 DT82 = document.CodeGenerator.DT82.checked; 
-
 Q83 = document.CodeGenerator.Q83.value;  
 A83 = document.CodeGenerator.A83.value; 
 B83 = document.CodeGenerator.B83.value; 
@@ -908,7 +831,6 @@ AT83 = document.CodeGenerator.AT83.checked;
 BT83 = document.CodeGenerator.BT83.checked; 
 CT83 = document.CodeGenerator.CT83.checked;
 DT83 = document.CodeGenerator.DT83.checked; 
-
 Q84 = document.CodeGenerator.Q84.value;  
 A84 = document.CodeGenerator.A84.value; 
 B84 = document.CodeGenerator.B84.value; 
@@ -919,7 +841,6 @@ AT84 = document.CodeGenerator.AT84.checked;
 BT84 = document.CodeGenerator.BT84.checked; 
 CT84 = document.CodeGenerator.CT84.checked;
 DT84 = document.CodeGenerator.DT84.checked; 
-
 Q85 = document.CodeGenerator.Q85.value;  
 A85 = document.CodeGenerator.A85.value; 
 B85 = document.CodeGenerator.B85.value; 
@@ -930,7 +851,6 @@ AT85 = document.CodeGenerator.AT85.checked;
 BT85 = document.CodeGenerator.BT85.checked; 
 CT85 = document.CodeGenerator.CT85.checked;
 DT85 = document.CodeGenerator.DT85.checked; 
-
 Q86 = document.CodeGenerator.Q86.value;  
 A86 = document.CodeGenerator.A86.value; 
 B86 = document.CodeGenerator.B86.value; 
@@ -941,7 +861,6 @@ AT86 = document.CodeGenerator.AT86.checked;
 BT86 = document.CodeGenerator.BT86.checked; 
 CT86 = document.CodeGenerator.CT86.checked;
 DT86 = document.CodeGenerator.DT86.checked; 
-
 Q87 = document.CodeGenerator.Q87.value;  
 A87 = document.CodeGenerator.A87.value; 
 B87 = document.CodeGenerator.B87.value; 
@@ -952,7 +871,6 @@ AT87 = document.CodeGenerator.AT87.checked;
 BT87 = document.CodeGenerator.BT87.checked; 
 CT87 = document.CodeGenerator.CT87.checked;
 DT87 = document.CodeGenerator.DT87.checked; 
-
 Q88 = document.CodeGenerator.Q88.value;  
 A88 = document.CodeGenerator.A88.value; 
 B88 = document.CodeGenerator.B88.value; 
@@ -963,7 +881,6 @@ AT88 = document.CodeGenerator.AT88.checked;
 BT88 = document.CodeGenerator.BT88.checked; 
 CT88 = document.CodeGenerator.CT88.checked;
 DT88 = document.CodeGenerator.DT88.checked; 
-
 Q89 = document.CodeGenerator.Q89.value;  
 A89 = document.CodeGenerator.A89.value; 
 B89 = document.CodeGenerator.B89.value; 
@@ -974,7 +891,6 @@ AT89 = document.CodeGenerator.AT89.checked;
 BT89 = document.CodeGenerator.BT89.checked; 
 CT89 = document.CodeGenerator.CT89.checked;
 DT89 = document.CodeGenerator.DT89.checked; 
-
 Q90 = document.CodeGenerator.Q90.value;  
 A90 = document.CodeGenerator.A90.value; 
 B90 = document.CodeGenerator.B90.value; 
@@ -985,7 +901,6 @@ AT90 = document.CodeGenerator.AT90.checked;
 BT90 = document.CodeGenerator.BT90.checked; 
 CT90 = document.CodeGenerator.CT90.checked;
 DT90 = document.CodeGenerator.DT90.checked; 
-
 Q91 = document.CodeGenerator.Q91.value;  
 A91 = document.CodeGenerator.A91.value; 
 B91 = document.CodeGenerator.B91.value; 
@@ -996,7 +911,6 @@ AT91 = document.CodeGenerator.AT91.checked;
 BT91 = document.CodeGenerator.BT91.checked; 
 CT91 = document.CodeGenerator.CT91.checked;
 DT91 = document.CodeGenerator.DT91.checked; 
-
 Q92 = document.CodeGenerator.Q92.value;  
 A92 = document.CodeGenerator.A92.value; 
 B92 = document.CodeGenerator.B92.value; 
@@ -1007,7 +921,6 @@ AT92 = document.CodeGenerator.AT92.checked;
 BT92 = document.CodeGenerator.BT92.checked; 
 CT92 = document.CodeGenerator.CT92.checked;
 DT92 = document.CodeGenerator.DT92.checked; 
-
 Q93 = document.CodeGenerator.Q93.value;  
 A93 = document.CodeGenerator.A93.value; 
 B93 = document.CodeGenerator.B93.value; 
@@ -1018,7 +931,6 @@ AT93 = document.CodeGenerator.AT93.checked;
 BT93 = document.CodeGenerator.BT93.checked; 
 CT93 = document.CodeGenerator.CT93.checked;
 DT93 = document.CodeGenerator.DT93.checked; 
-
 Q94 = document.CodeGenerator.Q94.value;  
 A94 = document.CodeGenerator.A94.value; 
 B94 = document.CodeGenerator.B94.value; 
@@ -1029,7 +941,6 @@ AT94 = document.CodeGenerator.AT94.checked;
 BT94 = document.CodeGenerator.BT94.checked; 
 CT94 = document.CodeGenerator.CT94.checked;
 DT94 = document.CodeGenerator.DT94.checked; 
-
 Q95 = document.CodeGenerator.Q95.value;  
 A95 = document.CodeGenerator.A95.value; 
 B95 = document.CodeGenerator.B95.value; 
@@ -1040,7 +951,6 @@ AT95 = document.CodeGenerator.AT95.checked;
 BT95 = document.CodeGenerator.BT95.checked; 
 CT95 = document.CodeGenerator.CT95.checked;
 DT95 = document.CodeGenerator.DT95.checked; 
-
 Q96 = document.CodeGenerator.Q96.value;  
 A96 = document.CodeGenerator.A96.value; 
 B96 = document.CodeGenerator.B96.value; 
@@ -1051,7 +961,6 @@ AT96 = document.CodeGenerator.AT96.checked;
 BT96 = document.CodeGenerator.BT96.checked; 
 CT96 = document.CodeGenerator.CT96.checked;
 DT96 = document.CodeGenerator.DT96.checked; 
-
 Q97 = document.CodeGenerator.Q97.value;  
 A97 = document.CodeGenerator.A97.value; 
 B97 = document.CodeGenerator.B97.value; 
@@ -1062,7 +971,6 @@ AT97 = document.CodeGenerator.AT97.checked;
 BT97 = document.CodeGenerator.BT97.checked; 
 CT97 = document.CodeGenerator.CT97.checked;
 DT97 = document.CodeGenerator.DT97.checked; 
-
 Q98 = document.CodeGenerator.Q98.value;  
 A98 = document.CodeGenerator.A98.value; 
 B98 = document.CodeGenerator.B98.value; 
@@ -1073,7 +981,6 @@ AT98 = document.CodeGenerator.AT98.checked;
 BT98 = document.CodeGenerator.BT98.checked; 
 CT98 = document.CodeGenerator.CT98.checked;
 DT98 = document.CodeGenerator.DT98.checked; 
-
 Q99 = document.CodeGenerator.Q99.value;  
 A99 = document.CodeGenerator.A99.value; 
 B99 = document.CodeGenerator.B99.value; 
@@ -1084,7 +991,6 @@ AT99 = document.CodeGenerator.AT99.checked;
 BT99 = document.CodeGenerator.BT99.checked; 
 CT99 = document.CodeGenerator.CT99.checked;
 DT99 = document.CodeGenerator.DT99.checked; 
-
 Q100 = document.CodeGenerator.Q100.value;  
 A100 = document.CodeGenerator.A100.value; 
 B100 = document.CodeGenerator.B100.value; 
@@ -1094,8 +1000,7 @@ M100 = document.CodeGenerator.M100.value;
 AT100 = document.CodeGenerator.AT100.checked; 
 BT100 = document.CodeGenerator.BT100.checked; 
 CT100 = document.CodeGenerator.CT100.checked;
-DT100 = document.CodeGenerator.DT100.checked; 
-     
+DT100 = document.CodeGenerator.DT100.checked;     
 output = '\n' +   
 ((meta_category) ? '<!-- Category : ' + meta_category + ' -->' : '') +
 '\n'+
@@ -1199,8 +1104,7 @@ output = '\n' +
 ((Q98) ? '<!-- Q#98 : 📢 Q. ' + Q98 + ' -->\n' : '') + 
 ((Q99) ? '<!-- Q#99 : 📢 Q. ' + Q99 + ' -->\n' : '') + 
 ((Q100) ? '<!-- Q#100 : 📢 Q. ' + Q100 + ' -->\n' : '') + 
-'\n'+ 
-  
+'\n'+   
 ((Q1) ? '<!-- | ************ | Q#1 | ************ | -->\n' : '') +  
 ((Q1) ? '<meta name="keywords" content="' + meta_keyword + ', ' + Q1 + '"/>' : '') + 
 ((Q1) ? '<style>h1.post-title {display: none}</style>\n' : '') +
@@ -1236,7 +1140,6 @@ output = '\n' +
 ((Q1) ? '</div></div><br/>\n' : '') +    
 ((Q1) ? '<sup><!-- Ads2 --></sup>\n' : '') +  
 ((Q1) ? '<sup><!-- Ads3 --></sup>\n<!--- **** www.domain.in / @whitenavy **** --->\n\n\n' : '') +   
-
 ((Q2) ? '<!-- | ************ | Q#2 | ************ | -->\n' : '') +
 ((Q2) ? '<meta name="keywords" content="' + meta_keyword + ', ' + Q2 + '"/>' : '') + 
 ((Q2) ? '<style>h1.post-title {display: none}</style>\n' : '') +
@@ -1272,7 +1175,6 @@ output = '\n' +
 ((Q2) ? '</div></div><br/>\n' : '') +    
 ((Q2) ? '<sup><!-- Ads2 --></sup>\n' : '') +  
 ((Q2) ? '<sup><!-- Ads3 --></sup>\n<!--- **** www.domain.in / @whitenavy **** --->\n\n\n' : '') +     
-  
 ((Q3) ? '<!-- | ************ | Q#3 | ************ | -->\n' : '') +  
 ((Q3) ? '<meta name="keywords" content="' + meta_keyword + ', ' + Q3 + '"/>' : '') + 
 ((Q3) ? '<style>h1.post-title {display: none}</style>\n' : '') +
@@ -1307,9 +1209,8 @@ output = '\n' +
 ((A3) ? '</div>' : '') +
 ((Q3) ? '</div></div><br/>\n' : '') +    
 ((Q3) ? '<sup><!-- Ads2 --></sup>\n' : '') +  
-((Q3) ? '<sup><!-- Ads3 --></sup>\n<!--- **** www.domain.in / @whitenavy **** --->\n\n\n' : '') +   
-   
- ((Q4) ? '<!-- | ************ | Q#4 | ************ | -->\n' : '') +  
+((Q3) ? '<sup><!-- Ads3 --></sup>\n<!--- **** www.domain.in / @whitenavy **** --->\n\n\n' : '') +      
+((Q4) ? '<!-- | ************ | Q#4 | ************ | -->\n' : '') +  
 ((Q4) ? '<meta name="keywords" content="' + meta_keyword + ', ' + Q4 + '"/>' : '') + 
 ((Q4) ? '<style>h1.post-title {display: none}</style>\n' : '') +
 ((Q4) ? '<sup><!-- Ads --></sup><sup><!-- Ads1 --></sup>\n' : '') +  
