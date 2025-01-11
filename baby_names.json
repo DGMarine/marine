@@ -25,5 +25,68 @@
     "style": "Unique",
     "syllables": 2,
     "nicknames": ["Sai", "Hil"]
+  },
+  {
+    "name": "Aria",
+    "gender": "Female",
+    "meaning": "Melody or air",
+    "origin": "Persian",
+    "style": "Modern",
+    "syllables": 2,
+    "nicknames": ["Ari"]
+  },
+  {
+    "name": "Devansh",
+    "gender": "Male",
+    "meaning": "Part of God",
+    "origin": "Indian",
+    "style": "Traditional",
+    "syllables": 2,
+    "nicknames": ["Dev", "Ansh"]
+  },
+  {
+    "name": "Zara",
+    "gender": "Female",
+    "meaning": "Princess or flower",
+    "origin": "Arabic",
+    "style": "Modern",
+    "syllables": 2,
+    "nicknames": ["Zee"]
+  },
+  {
+    "name": "Rohan",
+    "gender": "Male",
+    "meaning": "Ascending or growing",
+    "origin": "Indian",
+    "style": "Classic",
+    "syllables": 2,
+    "nicknames": ["Ro", "Roh"]
+  },
+  {
+    "name": "Isha",
+    "gender": "Female",
+    "meaning": "Goddess or ruling",
+    "origin": "Indian",
+    "style": "Traditional",
+    "syllables": 2,
+    "nicknames": ["Ish"]
+  },
+  {
+    "name": "Maya",
+    "gender": "Female",
+    "meaning": "Illusion or dream",
+    "origin": "Sanskrit",
+    "style": "Classic",
+    "syllables": 2,
+    "nicknames": ["May"]
+  },
+  {
+    "name": "Aryan",
+    "gender": "Male",
+    "meaning": "Noble or warrior",
+    "origin": "Sanskrit",
+    "style": "Modern",
+    "syllables": 2,
+    "nicknames": ["Ary"]
   }
 ]
