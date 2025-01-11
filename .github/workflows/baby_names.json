@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Ayaan",
+    "gender": "Male",
+    "meaning": "Gift of God or blessing",
+    "origin": "Arabic",
+    "style": "Modern",
+    "syllables": 2,
+    "nicknames": ["Aay", "Yan"]
+  },
+  {
+    "name": "Kairav",
+    "gender": "Male",
+    "meaning": "White lotus",
+    "origin": "Indian",
+    "style": "Traditional",
+    "syllables": 2,
+    "nicknames": ["Kai"]
+  },
+  {
+    "name": "Saahil",
+    "gender": "Male",
+    "meaning": "Guide or shore",
+    "origin": "Indian",
+    "style": "Unique",
+    "syllables": 2,
+    "nicknames": ["Sai", "Hil"]
+  }
+]
