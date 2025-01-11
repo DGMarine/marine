@@ -1,101 +1,362 @@
 [
   {
-    "name": "Ayaan",
+    "name": "Aarav",
     "gender": "Male",
-    "meaning": "Gift of God or blessing",
-    "origin": "Arabic",
+    "meaning": "Peaceful and calm, Aarav symbolizes tranquility and harmony, inspiring a serene demeanor and positive outlook in life.",
+    "origin": "Indian",
     "style": "Modern",
     "syllables": 2,
-    "nicknames": ["Aay", "Yan"]
+    "nicknames": ["Aaru", "Ravi"]
   },
   {
-    "name": "Aisha",
-    "gender": "Female",
-    "meaning": "Gift of God or blessing",
-    "origin": "Arabic",
+    "name": "Vihaan",
+    "gender": "Male",
+    "meaning": "Dawn or the beginning of a new era, representing fresh opportunities and a bright future.",
+    "origin": "Indian",
     "style": "Modern",
     "syllables": 2,
-    "nicknames": ["isha"]
+    "nicknames": ["Vee", "Haan"]
   },
   {
-    "name": "Kairav",
+    "name": "Ishaan",
     "gender": "Male",
-    "meaning": "White lotus",
+    "meaning": "Sunlight or the direction of the Lord, symbolizing clarity, guidance, and divine blessings.",
     "origin": "Indian",
     "style": "Traditional",
     "syllables": 2,
-    "nicknames": ["Kai"]
+    "nicknames": ["Ishu", "Shaani"]
   },
   {
-    "name": "Saahil",
+    "name": "Rudra",
     "gender": "Male",
-    "meaning": "Guide or shore",
+    "meaning": "The mighty one or Lord Shiva, representing strength, destruction of negativity, and transformation.",
+    "origin": "Indian",
+    "style": "Traditional",
+    "syllables": 2,
+    "nicknames": ["Rudy", "Ru"]
+  },
+  {
+    "name": "Aryan",
+    "gender": "Male",
+    "meaning": "Noble and honorable, a name that signifies integrity, valor, and leadership.",
+    "origin": "Indian",
+    "style": "Modern",
+    "syllables": 2,
+    "nicknames": ["Ary", "Ryan"]
+  },
+  {
+    "name": "Kabir",
+    "gender": "Male",
+    "meaning": "The great or the powerful one, symbolizing wisdom, spirituality, and strength of character.",
     "origin": "Indian",
     "style": "Unique",
     "syllables": 2,
-    "nicknames": ["Sai", "Hil"]
+    "nicknames": ["Kabi", "Bir"]
   },
   {
-    "name": "Aria",
-    "gender": "Female",
-    "meaning": "Melody or air",
-    "origin": "Persian",
+    "name": "Anirudh",
+    "gender": "Male",
+    "meaning": "Boundless or free, representing freedom of thought and unyielding determination.",
+    "origin": "Indian",
+    "style": "Traditional",
+    "syllables": 3,
+    "nicknames": ["Ani", "Rudh"]
+  },
+  {
+    "name": "Reyansh",
+    "gender": "Male",
+    "meaning": "Ray of light, symbolizing hope, positivity, and a shining personality.",
+    "origin": "Indian",
     "style": "Modern",
     "syllables": 2,
-    "nicknames": ["Ari"]
+    "nicknames": ["Rey", "Yansh"]
   },
   {
     "name": "Devansh",
     "gender": "Male",
-    "meaning": "Part of God",
+    "meaning": "Part of God, symbolizing divinity, purity, and spiritual connection.",
     "origin": "Indian",
     "style": "Traditional",
     "syllables": 2,
     "nicknames": ["Dev", "Ansh"]
   },
   {
-    "name": "Zara",
-    "gender": "Female",
-    "meaning": "Princess or flower",
-    "origin": "Arabic",
+    "name": "Vivaan",
+    "gender": "Male",
+    "meaning": "Full of life, representing energy, liveliness, and enthusiasm for life.",
+    "origin": "Indian",
     "style": "Modern",
     "syllables": 2,
-    "nicknames": ["Zee"]
+    "nicknames": ["Vivi", "Aan"]
   },
   {
-    "name": "Rohan",
+    "name": "Ayaan",
     "gender": "Male",
-    "meaning": "Ascending or growing",
+    "meaning": "Gift of God or a blessing, symbolizing gratitude, faith, and divine favor.",
     "origin": "Indian",
-    "style": "Classic",
+    "style": "Modern",
     "syllables": 2,
-    "nicknames": ["Ro", "Roh"]
+    "nicknames": ["Aay", "Yan"]
   },
   {
-    "name": "Isha",
-    "gender": "Female",
-    "meaning": "Goddess or ruling",
+    "name": "Shaurya",
+    "gender": "Male",
+    "meaning": "Bravery and valor, representing courage, determination, and a strong will.",
     "origin": "Indian",
     "style": "Traditional",
     "syllables": 2,
-    "nicknames": ["Ish"]
+    "nicknames": ["Shaur", "Yash"]
   },
   {
-    "name": "Maya",
-    "gender": "Female",
-    "meaning": "Illusion or dream",
-    "origin": "Sanskrit",
-    "style": "Classic",
-    "syllables": 2,
-    "nicknames": ["May"]
-  },
-  {
-    "name": "Aryan",
+    "name": "Kiaan",
     "gender": "Male",
-    "meaning": "Noble or warrior",
-    "origin": "Sanskrit",
+    "meaning": "Grace of God or ancient, symbolizing timeless charm and divine favor.",
+    "origin": "Indian",
     "style": "Modern",
     "syllables": 2,
-    "nicknames": ["Ary"]
+    "nicknames": ["Kia", "Aan"]
+  },
+  {
+    "name": "Aditya",
+    "gender": "Male",
+    "meaning": "Sun or radiance, representing enlightenment, positivity, and brilliance.",
+    "origin": "Indian",
+    "style": "Classic",
+    "syllables": 3,
+    "nicknames": ["Adi", "Ditya"]
+  },
+  {
+    "name": "Nirvaan",
+    "gender": "Male",
+    "meaning": "Liberation or ultimate bliss, representing peace, spiritual fulfillment, and detachment.",
+    "origin": "Indian",
+    "style": "Unique",
+    "syllables": 2,
+    "nicknames": ["Niru", "Vaan"]
+  },
+  {
+    "name": "Parth",
+    "gender": "Male",
+    "meaning": "King or Arjuna, representing leadership, bravery, and focus.",
+    "origin": "Indian",
+    "style": "Traditional",
+    "syllables": 2,
+    "nicknames": ["Paar", "Arth"]
+  },
+  {
+    "name": "Rishi",
+    "gender": "Male",
+    "meaning": "Sage or learned one, representing wisdom, knowledge, and spiritual growth.",
+    "origin": "Indian",
+    "style": "Traditional",
+    "syllables": 2,
+    "nicknames": ["Rish", "Ishi"]
+  },
+  {
+    "name": "Laksh",
+    "gender": "Male",
+    "meaning": "Aim or goal, representing focus, ambition, and determination.",
+    "origin": "Indian",
+    "style": "Modern",
+    "syllables": 1,
+    "nicknames": ["Lucky"]
+  },
+  {
+    "name": "Harsh",
+    "gender": "Male",
+    "meaning": "Happiness or joy, symbolizing positivity and a cheerful personality.",
+    "origin": "Indian",
+    "style": "Classic",
+    "syllables": 1,
+    "nicknames": ["Hari"]
+  },
+  {
+    "name": "Omkar",
+    "gender": "Male",
+    "meaning": "Sacred syllable Om, representing spirituality, universal energy, and divinity.",
+    "origin": "Indian",
+    "style": "Religious",
+    "syllables": 2,
+    "nicknames": ["Om", "Kar"]
+  },
+  {
+    "name": "Shaan",
+    "gender": "Male",
+    "meaning": "A peaceful and calm person, representing nobility and pride.",
+    "origin": "Indian",
+    "style": "Modern",
+    "syllables": 1,
+    "nicknames": ["Shaanu", "Shan"]
+  },
+  {
+    "name": "Advaith",
+    "gender": "Male",
+    "meaning": "Unique or without a second, representing individuality and distinctiveness.",
+    "origin": "Indian",
+    "style": "Traditional",
+    "syllables": 3,
+    "nicknames": ["Advay", "Vait"]
+  },
+  {
+    "name": "Pranav",
+    "gender": "Male",
+    "meaning": "The sacred sound Om, symbolizing spiritual awakening and divine connection.",
+    "origin": "Indian",
+    "style": "Traditional",
+    "syllables": 2,
+    "nicknames": ["Pran", "Nav"]
+  },
+  {
+    "name": "Harit",
+    "gender": "Male",
+    "meaning": "Green or prosperous, symbolizing growth, nature, and vitality.",
+    "origin": "Indian",
+    "style": "Modern",
+    "syllables": 2,
+    "nicknames": ["Hari", "Rit"]
+  },
+  {
+    "name": "Eshan",
+    "gender": "Male",
+    "meaning": "Lord Shiva or the direction of the East, representing divine guidance and enlightenment.",
+    "origin": "Indian",
+    "style": "Traditional",
+    "syllables": 2,
+    "nicknames": ["Eshu", "Shan"]
+  },
+  {
+    "name": "Suryansh",
+    "gender": "Male",
+    "meaning": "Part of the sun, symbolizing brightness, vitality, and energy.",
+    "origin": "Indian",
+    "style": "Modern",
+    "syllables": 3,
+    "nicknames": ["Surya", "Ansh"]
+  },
+  {
+    "name": "Vivaan",
+    "gender": "Male",
+    "meaning": "Full of life, representing energy and enthusiasm.",
+    "origin": "Indian",
+    "style": "Modern",
+    "syllables": 2,
+    "nicknames": ["Vivi", "Aan"]
+  },
+  {
+    "name": "Manav",
+    "gender": "Male",
+    "meaning": "Humanity or a man, symbolizing compassion, kindness, and empathy.",
+    "origin": "Indian",
+    "style": "Traditional",
+    "syllables": 2,
+    "nicknames": ["Manny", "Nav"]
+  },
+  {
+    "name": "Raghav",
+    "gender": "Male",
+    "meaning": "A name of Lord Ram, symbolizing righteousness and strength.",
+    "origin": "Indian",
+    "style": "Traditional",
+    "syllables": 2,
+    "nicknames": ["Raghu", "Rag"]
+  },
+  {
+    "name": "Kunal",
+    "gender": "Male",
+    "meaning": "Lotus or a child with beauty, symbolizing purity and serenity.",
+    "origin": "Indian",
+    "style": "Classic",
+    "syllables": 2,
+    "nicknames": ["Kuni", "Nal"]
+  },
+  {
+    "name": "Arjun",
+    "gender": "Male",
+    "meaning": "Bright, shining or the great warrior of Mahabharata, symbolizing strength and valor.",
+    "origin": "Indian",
+    "style": "Classic",
+    "syllables": 2,
+    "nicknames": ["Arju", "Juni"]
+  },
+  {
+    "name": "Tarun",
+    "gender": "Male",
+    "meaning": "Young or youthful, representing freshness and vitality.",
+    "origin": "Indian",
+    "style": "Modern",
+    "syllables": 2,
+    "nicknames": ["Taru", "Run"]
+  },
+  {
+    "name": "Shaurav",
+    "gender": "Male",
+    "meaning": "Glory, fame, or the essence of valor.",
+    "origin": "Indian",
+    "style": "Traditional",
+    "syllables": 3,
+    "nicknames": ["Shaury", "Rav"]
+  },
+  {
+    "name": "Aarush",
+    "gender": "Male",
+    "meaning": "First ray of the sun, symbolizing hope, light, and new beginnings.",
+    "origin": "Indian",
+    "style": "Modern",
+    "syllables": 2,
+    "nicknames": ["Aaru", "Rush"]
+  },
+  {
+    "name": "Kartik",
+    "gender": "Male",
+    "meaning": "A name of Lord Kartikeya, representing wisdom, courage, and strength.",
+    "origin": "Indian",
+    "style": "Traditional",
+    "syllables": 2,
+    "nicknames": ["Kari", "Tik"]
+  },
+  {
+    "name": "Samarth",
+    "gender": "Male",
+    "meaning": "Powerful or capable, symbolizing strength, competence, and wisdom.",
+    "origin": "Indian",
+    "style": "Modern",
+    "syllables": 2,
+    "nicknames": ["Sam", "Arth"]
+  },
+  {
+    "name": "Shivansh",
+    "gender": "Male",
+    "meaning": "Part of Lord Shiva, symbolizing divinity, peace, and serenity.",
+    "origin": "Indian",
+    "style": "Traditional",
+    "syllables": 3,
+    "nicknames": ["Shiv", "Ansh"]
+  },
+  {
+    "name": "Krishna",
+    "gender": "Male",
+    "meaning": "A name of Lord Krishna, symbolizing divine love, beauty, and compassion.",
+    "origin": "Indian",
+    "style": "Traditional",
+    "syllables": 3,
+    "nicknames": ["Kris", "Shna"]
+  },
+  {
+    "name": "Yuvraj",
+    "gender": "Male",
+    "meaning": "Prince or heir to the throne, symbolizing royalty and leadership.",
+    "origin": "Indian",
+    "style": "Classic",
+    "syllables": 3,
+    "nicknames": ["Yuv", "Raj"]
+  },
+  {
+    "name": "Siddharth",
+    "gender": "Male",
+    "meaning": "One who has attained his goals, representing wisdom, success, and enlightenment.",
+    "origin": "Indian",
+    "style": "Traditional",
+    "syllables": 3,
+    "nicknames": ["Sid", "Siddhi"]
   }
 ]
